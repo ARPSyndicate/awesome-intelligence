@@ -138,5 +138,75 @@
         "link": "https://branddb.wipo.int",
         "region": "GLOBAL",
         "tags": "company" 
+    },
+    {
+        "title": "DNS History",
+        "description": "Domain Name System (DNS) Historical Record Archive",
+        "link": "http://dnshistory.org",
+        "region": "GLOBAL",
+        "tags": "network" 
+    },
+    {
+        "title": "The World Factbook",
+        "description": "The World Factbook provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.",
+        "link": "https://www.cia.gov/the-world-factbook/",
+        "region": "GLOBAL",
+        "tags": "geopolitics" 
+    },
+    {
+        "title": "Global Terrorism Catalogue",
+        "description": "Catalogue of Terrorist Incidents occurred globally since 1968.",
+        "link": "https://www.kaggle.com/datasets/klapeyefoundation/global-terrorism",
+        "region": "GLOBAL",
+        "tags": "geopolitics" 
+    },
+    {
+        "title": "Ransom Wiki",
+        "description": "Check if your company or partner appears in a claimed ransom attack breach.",
+        "link": "https://ransom.wiki",
+        "region": "GLOBAL",
+        "tags": "breach" 
+    },
+    {
+        "title": "Xlocate",
+        "description": "The ultimate exploits/references finder",
+        "link": "https://github.com/ARPSyndicate/xlocate",
+        "region": "GLOBAL",
+        "tags": "exploit" 
+    },
+    {
+        "title": "Public Intelligence",
+        "description": "Public Intelligence is an international, collaborative research project aimed at aggregating the collective work of independent researchers around the globe who wish to defend the public's right to access information.",
+        "link": "https://publicintelligence.net",
+        "region": "GLOBAL",
+        "tags": "geopolitics" 
+    },
+    {
+        "title": "Intelligence Briefs",
+        "description": "Strategic Intelligence News publishes intelligence reports, geopolitics, military intelligence, and crime reports analysis.",
+        "link": "https://intelligencebriefs.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics" 
+    },
+    {
+        "title": "RAND Corporation",
+        "description": "The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest.",
+        "link": "https://www.rand.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics" 
+    },
+    {
+        "title": "ProjectDiscovery",
+        "description": "An open-source software company that builds tools to detect and remediate vulnerabilities from development to production.",
+        "link": "https://github.com/projectdiscovery",
+        "region": "GLOBAL",
+        "tags": "network,exploit" 
+    },
+    {
+        "title": "BeVigil",
+        "description": "The internet's first and only security search engine for mobile apps.",
+        "link": "https://bevigil.com",
+        "region": "GLOBAL",
+        "tags": "network,vulnerability" 
     }
 ]
