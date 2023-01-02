@@ -77,14 +77,14 @@
         "tags": "malware" 
     },
     {
-        "title": "ProjectDiscovery Chaos Dataset",
+        "title": "Chaos Dataset",
         "description": "This project is meant to enhance research and analyse changes around DNS for better insights.",
         "link": "https://chaos.projectdiscovery.io",
         "region": "GLOBAL",
         "tags": "network" 
     },
     {
-        "title": "ScanFactory BBR Dataset",
+        "title": "BBR Dataset",
         "description": "Recon data for public bug bounty programs.",
         "link": "https://mega.nz/folder/KXJyQKSA#pRHtZzEO4mxqKDgfzNK8iA",
         "region": "GLOBAL",
@@ -93,9 +93,50 @@
     {
         "title": "Arkham Intelligence",
         "description": "Powerful tools for linking cryptocurrency activity to real world individuals and institutions.",
-        "link": "https://www.arkhamintelligence.com/",
+        "link": "https://www.arkhamintelligence.com",
         "region": "GLOBAL",
         "tags": "crypto" 
+    },
+    {
+        "title": "AlienVault OTX",
+        "description": "A Threat data platform that allows security researchers and threat data producers to share research and investigate new threats.",
+        "link": "https://otx.alienvault.com",
+        "region": "GLOBAL",
+        "tags": "malware,network" 
+    },
+    {
+        "title": "ExploitDB",
+        "description": "An archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers.",
+        "link": "https://www.exploit-db.com",
+        "region": "GLOBAL",
+        "tags": "exploit" 
+    },
+    {
+        "title": "WhatsMyName",
+        "description": "This tool allows you to enumerate usernames across many websites.",
+        "link": "https://whatsmyname.app",
+        "region": "GLOBAL",
+        "tags": "social" 
+    },
+    {
+        "title": "Dehashed",
+        "description": "DeHashed provides free deep-web scans and protection against credential leaks. A modern personal asset search engine to help secure accounts and provide insight on compromised assets.",
+        "link": "https://dehashed.com/",
+        "region": "GLOBAL",
+        "tags": "breach" 
+    },
+    {
+        "title": "ManyPasswords",
+        "description": "Default passwords for IoT devices and for web applications (for ex. MySQL and PostgreSQL admin panels)",
+        "link": "https://github.com/many-passwords/many-passwords",
+        "region": "GLOBAL",
+        "tags": "exploit" 
+    },
+    {
+        "title": "BrandDB",
+        "description": "Perform a trademark search by text or image in brand data from multiple national and international sources, including trademarks, appellations of origin and official emblems.",
+        "link": "https://branddb.wipo.int",
+        "region": "GLOBAL",
+        "tags": "company" 
     }
 ]
-
