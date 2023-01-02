@@ -11,13 +11,12 @@
         "description": "Search Engine that lets users search for various types of servers connected to the internet using a variety of filters.",
         "link": "https://shodan.io",
         "region": "GLOBAL",
-        "tags": "web,domain,ip,device,vulnerability,image" 
+        "tags": "web,network,vulnerability,image" 
     },
-    
     {
         "title": "NerdyData",
         "description": " Get a list of websites that use certain technologies, plus their company and spend data. Perfect for lead generation, market analysis, and competitive research.",
-        "link": "https://www.nerdydata.com/",
+        "link": "https://www.nerdydata.com",
         "region": "GLOBAL",
         "tags": "web" 
     },    
@@ -38,16 +37,65 @@
     {
         "title": "SimilarSites",
         "description": "Easily Explore alternative websites",
-        "link": "https://www.similarsites.com/",
+        "link": "https://www.similarsites.com",
         "region": "GLOBAL",
         "tags": "web,image" 
     },
     {
         "title": "Netlas",
         "description": "Internet intelligence apps that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets.",
-        "link": "https://netlas.io/",
+        "link": "https://netlas.io",
         "region": "GLOBAL",
-        "tags": "web,domain,ip,device,vulnerability" 
+        "tags": "web,network,vulnerability" 
+    },
+    {
+        "title": "CriminalIP",
+        "description": "Search for information on anything connected to public internet",
+        "link": "https://www.criminalip.io",
+        "region": "GLOBAL",
+        "tags": "web,network,vulnerability,image" 
+    },
+    {
+        "title": "Kaspersky OpenTIP",
+        "description": "Kaspersky Threat Intelligence Portal allows you to scan files, domains, IP addresses, and URLs for threats, malware, viruses.",
+        "link": "https://opentip.kaspersky.com",
+        "region": "GLOBAL",
+        "tags": "malware" 
+    },
+    {
+        "title": "GreyNoise",
+        "description": "GreyNoise captures data on IPs that scan the internet and saturate security tools with internet noise, so SOC teams can focus on threats that matter and ignore those that don't.",
+        "link": "https://www.greynoise.io",
+        "region": "GLOBAL",
+        "tags": "malware,network" 
+    },
+    {
+        "title": "Intezer Analyze",
+        "description": "Malware analysis platform quickly classifying malware and unknown files. Unlike Antivirus and EDRs which mostly produce generic results (think “Trojan.Generic”) and can only classify specific hashes, Intezer analyzes the code itself in order to categorize the threat and classify variants from the same malware family.",
+        "link": "https://analyze.intezer.com",
+        "region": "GLOBAL",
+        "tags": "malware" 
+    },
+    {
+        "title": "ProjectDiscovery Chaos Dataset",
+        "description": "This project is meant to enhance research and analyse changes around DNS for better insights.",
+        "link": "https://chaos.projectdiscovery.io",
+        "region": "GLOBAL",
+        "tags": "network" 
+    },
+    {
+        "title": "ScanFactory BBR Dataset",
+        "description": "Recon data for public bug bounty programs.",
+        "link": "https://mega.nz/folder/KXJyQKSA#pRHtZzEO4mxqKDgfzNK8iA",
+        "region": "GLOBAL",
+        "tags": "network" 
+    },
+    {
+        "title": "Arkham Intelligence",
+        "description": "Powerful tools for linking cryptocurrency activity to real world individuals and institutions.",
+        "link": "https://www.arkhamintelligence.com/",
+        "region": "GLOBAL",
+        "tags": "crypto" 
     }
 ]
 
