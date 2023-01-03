@@ -67,7 +67,7 @@
         "description": "GreyNoise captures data on IPs that scan the internet and saturate security tools with internet noise, so SOC teams can focus on threats that matter and ignore those that don't.",
         "link": "https://www.greynoise.io",
         "region": "GLOBAL",
-        "tags": "malware,network" 
+        "tags": "web,malware,network" 
     },
     {
         "title": "Intezer Analyze",
@@ -88,7 +88,7 @@
         "description": "Recon data for public bug bounty programs.",
         "link": "https://mega.nz/folder/KXJyQKSA#pRHtZzEO4mxqKDgfzNK8iA",
         "region": "GLOBAL",
-        "tags": "network" 
+        "tags": "crypto,network,breach,web,tor" 
     },
     {
         "title": "Arkham Intelligence",
@@ -102,7 +102,7 @@
         "description": "A Threat data platform that allows security researchers and threat data producers to share research and investigate new threats.",
         "link": "https://otx.alienvault.com",
         "region": "GLOBAL",
-        "tags": "malware,network" 
+        "tags": "malware,network,web" 
     },
     {
         "title": "ExploitDB",
@@ -200,7 +200,7 @@
         "description": "An open-source software company that builds tools to detect and remediate vulnerabilities from development to production.",
         "link": "https://github.com/projectdiscovery",
         "region": "GLOBAL",
-        "tags": "network,exploit" 
+        "tags": "network,web,exploit" 
     },
     {
         "title": "BeVigil",
@@ -278,5 +278,61 @@
         "link": "https://warontherocks.com",
         "region": "GLOBAL",
         "tags": "geopolitics" 
+    },
+    {
+        "title": "NOC DNSRepo",
+        "description": "Search NOC's DNS repository of IP addresses, domains, and their records. You can search for domains behind an IP address, or all sub domains for a specific domain. You can also do sub domain discovery, find domains behind a specific service and much more.",
+        "link": "https://dnsrepo.noc.org",
+        "region": "GLOBAL",
+        "tags": "network" 
+    },
+    {
+        "title": "IntelligenceX",
+        "description": "IntelligenceX delivers fast, high-quality results and make the deepest parts of the internet accessible with a few clicks. It searches billions of selectors in a matter of milliseconds. The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs, CIDRs, Bitcoin addresses, IPFS hashes, etc. It searches in places such as the darknet, document sharing platforms, whois data, public data leaks and others. It keeps a historical data archive of results, similar to how the Wayback Machine from archive.org stores historical copies of websites.",
+        "link": "https://intelx.io",
+        "region": "GLOBAL",
+        "tags": "crypto,network,breach,web,tor" 
+    },
+    {
+        "title": "DefaultCreds",
+        "description": "One place for all the default credentials",
+        "link": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+        "region": "GLOBAL",
+        "tags": "exploit" 
+    },
+    {
+        "title": "PayloadAllTheThings",
+        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF.",
+        "link": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+        "region": "GLOBAL",
+        "tags": "exploit" 
+    },
+    {
+        "title": "HardwareAllTheThings",
+        "description": "A list of useful payloads and bypasses for Hardware and IOT Security.",
+        "link": "https://github.com/swisskyrepo/HardwareAllTheThings",
+        "region": "GLOBAL",
+        "tags": "exploit" 
+    },
+    {
+        "title": "Metabigor",
+        "description": "Metabigor is Intelligence tool, its goal is to do OSINT tasks and more but without any API key.",
+        "link": "https://github.com/j3ssie/metabigor",
+        "region": "GLOBAL",
+        "tags": "network" 
+    },
+    {
+        "title": "OSINT Curious",
+        "description": "The OSINT Curious Project is a source of quality, actionable, Open Source Intelligence news, blogs, instructional videos, online Discord community, and live streams.",
+        "link": "https://www.youtube.com/@OSINTCurious",
+        "region": "GLOBAL",
+        "tags": "social,network,crypto,geopolitics,web,tor" 
+    },
+    {
+        "title": "Benjamin Strick",
+        "description": "Benjamin Strick creates digital research tutorials and videos for this web generation on Open Source Intelligence (OSINT), digital research, geolocation and curious bytes so that no matter who you are, or where you are in the world, you can learn how to identify, verify and analyse information online.",
+        "link": "https://www.youtube.com/@Bendobrown",
+        "region": "GLOBAL",
+        "tags": "social,network,crypto,geopolitics,web,tor" 
     }
 ]
