@@ -208,5 +208,75 @@
         "link": "https://bevigil.com",
         "region": "GLOBAL",
         "tags": "network,vulnerability" 
+    },
+    {
+        "title": "CINS Army List",
+        "description": "CINS Army shares valuable threat intelligence harvested from their CINS system. The CINS Army list is a subset of the CINS Active Threat Intelligence ruleset, and consists of IP addresses having poor recent Rogue Packet score factor or have tripped a designated number of trusted alerts across a given number of their Sentinels deployed around the world.",
+        "link": "http://cinsscore.com/#list",
+        "region": "GLOBAL",
+        "tags": "malware,network" 
+    },
+    {
+        "title": "Umbrella List",
+        "description": "The popularity list contains most queried domains based on passive DNS usage across Umbrella global network of more than 100 Billion requests per day with 65 million unique active users, in more than 165 countries.",
+        "link": "http://s3-us-west-1.amazonaws.com/umbrella-static/index.html",
+        "region": "GLOBAL",
+        "tags": "network" 
+    },
+    {
+        "title": "MalwareBazaar",
+        "description": "MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers.",
+        "link": "https://bazaar.abuse.ch",
+        "region": "GLOBAL",
+        "tags": "malware" 
+    },
+    {
+        "title": "BD Banlist",
+        "description": "Binary Defense Systems Artillery Threat Intelligence Feed and Banlist Feed",
+        "link": "https://www.binarydefense.com/banlist.txt",
+        "region": "GLOBAL",
+        "tags": "malware" 
+    },
+    {
+        "title": "AbuseIPDB",
+        "description": "AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet.",
+        "link": "https://www.abuseipdb.com",
+        "region": "GLOBAL",
+        "tags": "malware" 
+    },
+    {
+        "title": "Yara Rules",
+        "description": "This project covers the need of a group of IT Security Researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible, and began as an open source community for collecting Yara rules.",
+        "link": "https://github.com/Yara-Rules/rules",
+        "region": "GLOBAL",
+        "tags": "malware" 
+    },
+    {
+        "title": "CrowdSec",
+        "description": "CrowdSec is an open-source and collaborative security stack leveraging the crowd power. Analyze behaviors, respond to attacks & share signals across the community. Gain crowd-sourced protection against malicious IPs. Benefit from the most accurate CTI in the world.",
+        "link": "https://www.crowdsec.net",
+        "region": "GLOBAL",
+        "tags": "malware" 
+    },
+    {
+        "title": "Botvrij",
+        "description": "Botvrij provides different sets of open source IOCs that you can use in your security devices to detect possible malicious activity. The information contains network info (IPs), file hashes, file paths, domain names, URLs.",
+        "link": "https://www.botvrij.eu",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "BGP Ranking",
+        "description": "BGP Ranking is a free software to calculate the security ranking of Internet Service Providers. The system is gathering external datasources (e.g. dshield, shadowserver, Arbor ATLAS) in order to evaluate the ranking over time.",
+        "link": "https://bgpranking.circl.lu",
+        "region": "GLOBAL",
+        "tags": "malware" 
+    },
+    {
+        "title": "War on the Rocks",
+        "description": "War on the Rocks is a platform for analysis and debate on strategy, defense, and foreign affairs. It features articles and podcasts produced by an array of writers with deep experience in these matters: top notch scholars who study war, those who have served or worked in war zones, and more than a few who have done it all.",
+        "link": "https://warontherocks.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics" 
     }
 ]
