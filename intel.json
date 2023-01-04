@@ -425,5 +425,96 @@
         "link": "https://tor.link",
         "region": "GLOBAL",
         "tags": "tor"
+    },
+    {
+        "title": "Rescure",
+        "description": "Enhance your cyber security capabilities with highly tailored, accurate and relevant threat intelligence which integrates seamlessly with your detection workflows.",
+        "link": "https://rescure.me/feeds.html",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "Feodo Tracker",
+        "description": "Browse the list of botnet Command&Control servers (C&Cs) tracked by Feodo Tracker, associated with Dridex, TrickBot, QakBot (aka QuakBot/Qbot), BazarLoader (aka BazarBackdoor) and Emotet (aka Heodo).",
+        "link": "https://feodotracker.abuse.ch",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "Stored Website",
+        "description": "View cached web pages/website",
+        "link": "https://stored.website",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "ThreatMiner",
+        "description": "ThreatMiner is a threat intelligence portal that provides information on indicators of compromise (IOC) such as domains, IP address, malware samples (MD5, SHA1 and SHA256), SSL certificates, WHOIS information and malicious URLs such as phishing and malware links.",
+        "link": "https://www.threatminer.org",
+        "region": "GLOBAL",
+        "tags": "malware,network,web"
+    },
+    {
+        "title": "YARAify",
+        "description": "Scan suspicious files such as malware samples or process dumps against a large repository of YARA rules.With YARAhub, the platform also provides a structured way for sharing YARA rules with the community.",
+        "link": "https://yaraify.abuse.ch",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "PulseDive",
+        "description": "Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, URLs, domains and other IOCs from OSINT feeds or submit your own.",
+        "link": "https://pulsedive.com",
+        "region": "GLOBAL",
+        "tags": "malware,network,web"
+    },
+    {
+        "title": "ThreatFox",
+        "description": "Browse the Indicator Of Compromise (IOC) database of ThreatFox",
+        "link": "https://threatfox.abuse.ch",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "Breach Directory",
+        "description": "Check if your information was exposed in a data breach",
+        "link": "https://breachdirectory.org",
+        "region": "GLOBAL",
+        "tags": "breach"
+    },
+    {
+        "title": "Have I Been Pwned",
+        "description": "Check if your email or phone is in a data breach",
+        "link": "https://haveibeenpwned.com",
+        "region": "GLOBAL",
+        "tags": "breach"
+    },
+    {
+        "title": "DNSViz",
+        "description": "DNSViz is a tool for visualizing the status of a DNS zone. It was designed as a resource for understanding and troubleshooting deployment of the DNS Security Extensions (DNSSEC). It provides a visual analysis of the DNSSEC authentication chain for a domain name and its resolution path in the DNS namespace, and it lists configuration errors detected by the tool.",
+        "link": "https://dnsviz.net",
+        "region": "GLOBAL",
+        "tags": "network"
+    },
+    {
+        "title": "DNS Twister",
+        "description": "The anti-phishing domain name search engine and DNS monitoring service",
+        "link": "https://dnstwister.report",
+        "region": "GLOBAL",
+        "tags": "malware,network"
+    },
+    {
+        "title": "DNSdumpster",
+        "description": "DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.",
+        "link": "https://dnsdumpster.com",
+        "region": "GLOBAL",
+        "tags": "network"
+    },
+    {
+        "title": "SpyOnWeb",
+        "description": "SpyOnWeb takes the information from public sources, then structure it for your quick and convenient search for the websites that probably belong to the same owner.",
+        "link": "https://spyonweb.com",
+        "region": "GLOBAL",
+        "tags": "web,network"
     }
 ]
