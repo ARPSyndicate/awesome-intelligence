@@ -14,6 +14,13 @@
         "tags": "web,network,vulnerability,image"
     },
     {
+        "title": "Censys Search",
+        "description": "Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security.",
+        "link": "https://search.censys.io",
+        "region": "GLOBAL",
+        "tags": "web,network"
+    },
+    {
         "title": "NerdyData",
         "description": " Get a list of websites that use certain technologies, plus their company and spend data. Perfect for lead generation, market analysis, and competitive research.",
         "link": "https://www.nerdydata.com",
