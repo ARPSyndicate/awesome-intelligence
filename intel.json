@@ -4,259 +4,259 @@
         "description": "CVE Exploits Search Utility",
         "link": "https://in.scanfactory.io/cvemon.html",
         "region": "GLOBAL",
-        "tags": "exploit" 
+        "tags": "exploit"
     },
     {
         "title": "Shodan",
         "description": "Search Engine that lets users search for various types of servers connected to the internet using a variety of filters.",
         "link": "https://shodan.io",
         "region": "GLOBAL",
-        "tags": "web,network,vulnerability,image" 
+        "tags": "web,network,vulnerability,image"
     },
     {
         "title": "NerdyData",
         "description": " Get a list of websites that use certain technologies, plus their company and spend data. Perfect for lead generation, market analysis, and competitive research.",
         "link": "https://www.nerdydata.com",
         "region": "GLOBAL",
-        "tags": "web" 
-    },    
+        "tags": "web"
+    },
     {
         "title": "PublicWWW",
         "description":"Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.",
         "link": "https://publicwww.com",
         "region": "GLOBAL",
-        "tags": "web,code" 
+        "tags": "web,code"
     },
     {
         "title": "SearchCode",
         "description": "Search 75 billion lines of code from 40 million projects",
         "link": "https://searchcode.com",
         "region": "GLOBAL",
-        "tags": "code" 
+        "tags": "code"
     },
     {
         "title": "SimilarSites",
         "description": "Easily Explore alternative websites",
         "link": "https://www.similarsites.com",
         "region": "GLOBAL",
-        "tags": "web,image" 
+        "tags": "web,image"
     },
     {
         "title": "Netlas",
         "description": "Internet intelligence apps that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets.",
         "link": "https://netlas.io",
         "region": "GLOBAL",
-        "tags": "web,network,vulnerability" 
+        "tags": "web,network,vulnerability"
     },
     {
         "title": "CriminalIP",
         "description": "Search for information on anything connected to public internet",
         "link": "https://www.criminalip.io",
         "region": "GLOBAL",
-        "tags": "web,network,vulnerability,image" 
+        "tags": "web,network,vulnerability,image"
     },
     {
         "title": "Kaspersky OpenTIP",
         "description": "Kaspersky Threat Intelligence Portal allows you to scan files, domains, IP addresses, and URLs for threats, malware, viruses.",
         "link": "https://opentip.kaspersky.com",
         "region": "GLOBAL",
-        "tags": "malware" 
+        "tags": "malware"
     },
     {
         "title": "GreyNoise",
         "description": "GreyNoise captures data on IPs that scan the internet and saturate security tools with internet noise, so SOC teams can focus on threats that matter and ignore those that don't.",
         "link": "https://www.greynoise.io",
         "region": "GLOBAL",
-        "tags": "web,malware,network" 
+        "tags": "web,malware,network"
     },
     {
         "title": "Intezer Analyze",
         "description": "Malware analysis platform quickly classifying malware and unknown files. Unlike Antivirus and EDRs which mostly produce generic results (think “Trojan.Generic”) and can only classify specific hashes, Intezer analyzes the code itself in order to categorize the threat and classify variants from the same malware family.",
         "link": "https://analyze.intezer.com",
         "region": "GLOBAL",
-        "tags": "malware" 
+        "tags": "malware"
     },
     {
         "title": "Chaos Dataset",
         "description": "This project is meant to enhance research and analyse changes around DNS for better insights.",
         "link": "https://chaos.projectdiscovery.io",
         "region": "GLOBAL",
-        "tags": "network" 
+        "tags": "network"
     },
     {
         "title": "BBR Dataset",
         "description": "Recon data for public bug bounty programs.",
         "link": "https://mega.nz/folder/KXJyQKSA#pRHtZzEO4mxqKDgfzNK8iA",
         "region": "GLOBAL",
-        "tags": "crypto,network,breach,web,tor" 
+        "tags": "crypto,network,breach,web,tor"
     },
     {
         "title": "Arkham Intelligence",
         "description": "Powerful tools for linking cryptocurrency activity to real world individuals and institutions.",
         "link": "https://www.arkhamintelligence.com",
         "region": "GLOBAL",
-        "tags": "crypto" 
+        "tags": "crypto"
     },
     {
         "title": "AlienVault OTX",
         "description": "A Threat data platform that allows security researchers and threat data producers to share research and investigate new threats.",
         "link": "https://otx.alienvault.com",
         "region": "GLOBAL",
-        "tags": "malware,network,web" 
+        "tags": "malware,network,web"
     },
     {
         "title": "ExploitDB",
         "description": "An archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers.",
         "link": "https://www.exploit-db.com",
         "region": "GLOBAL",
-        "tags": "exploit" 
+        "tags": "exploit"
     },
     {
         "title": "WhatsMyName",
         "description": "This tool allows you to enumerate usernames across many websites.",
         "link": "https://whatsmyname.app",
         "region": "GLOBAL",
-        "tags": "social" 
+        "tags": "social"
     },
     {
         "title": "Dehashed",
         "description": "DeHashed provides free deep-web scans and protection against credential leaks. A modern personal asset search engine to help secure accounts and provide insight on compromised assets.",
         "link": "https://dehashed.com/",
         "region": "GLOBAL",
-        "tags": "breach" 
+        "tags": "breach"
     },
     {
         "title": "ManyPasswords",
         "description": "Default passwords for IoT devices and for web applications (for ex. MySQL and PostgreSQL admin panels)",
         "link": "https://github.com/many-passwords/many-passwords",
         "region": "GLOBAL",
-        "tags": "exploit" 
+        "tags": "exploit"
     },
     {
         "title": "BrandDB",
         "description": "Perform a trademark search by text or image in brand data from multiple national and international sources, including trademarks, appellations of origin and official emblems.",
         "link": "https://branddb.wipo.int",
         "region": "GLOBAL",
-        "tags": "company" 
+        "tags": "company"
     },
     {
         "title": "DNS History",
         "description": "Domain Name System (DNS) Historical Record Archive",
         "link": "http://dnshistory.org",
         "region": "GLOBAL",
-        "tags": "network" 
+        "tags": "network"
     },
     {
         "title": "The World Factbook",
         "description": "The World Factbook provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.",
         "link": "https://www.cia.gov/the-world-factbook/",
         "region": "GLOBAL",
-        "tags": "geopolitics" 
+        "tags": "geopolitics"
     },
     {
         "title": "Global Terrorism Catalogue",
         "description": "Catalogue of Terrorist Incidents occurred globally since 1968.",
         "link": "https://www.kaggle.com/datasets/klapeyefoundation/global-terrorism",
         "region": "GLOBAL",
-        "tags": "geopolitics" 
+        "tags": "geopolitics"
     },
     {
         "title": "Ransom Wiki",
         "description": "Check if your company or partner appears in a claimed ransom attack breach.",
         "link": "https://ransom.wiki",
         "region": "GLOBAL",
-        "tags": "breach" 
+        "tags": "breach"
     },
     {
         "title": "Xlocate",
         "description": "The ultimate exploits/references finder",
         "link": "https://github.com/ARPSyndicate/xlocate",
         "region": "GLOBAL",
-        "tags": "exploit" 
+        "tags": "exploit"
     },
     {
         "title": "Public Intelligence",
         "description": "Public Intelligence is an international, collaborative research project aimed at aggregating the collective work of independent researchers around the globe who wish to defend the public's right to access information.",
         "link": "https://publicintelligence.net",
         "region": "GLOBAL",
-        "tags": "geopolitics" 
+        "tags": "geopolitics"
     },
     {
         "title": "Intelligence Briefs",
         "description": "Strategic Intelligence News publishes intelligence reports, geopolitics, military intelligence, and crime reports analysis.",
         "link": "https://intelligencebriefs.com",
         "region": "GLOBAL",
-        "tags": "geopolitics" 
+        "tags": "geopolitics"
     },
     {
         "title": "RAND Corporation",
         "description": "The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest.",
         "link": "https://www.rand.org",
         "region": "GLOBAL",
-        "tags": "geopolitics" 
+        "tags": "geopolitics"
     },
     {
         "title": "ProjectDiscovery",
         "description": "An open-source software company that builds tools to detect and remediate vulnerabilities from development to production.",
         "link": "https://github.com/projectdiscovery",
         "region": "GLOBAL",
-        "tags": "network,web,exploit" 
+        "tags": "network,web,exploit"
     },
     {
         "title": "BeVigil",
         "description": "The internet's first and only security search engine for mobile apps.",
         "link": "https://bevigil.com",
         "region": "GLOBAL",
-        "tags": "network,vulnerability" 
+        "tags": "network,vulnerability"
     },
     {
         "title": "CINS Army List",
         "description": "CINS Army shares valuable threat intelligence harvested from their CINS system. The CINS Army list is a subset of the CINS Active Threat Intelligence ruleset, and consists of IP addresses having poor recent Rogue Packet score factor or have tripped a designated number of trusted alerts across a given number of their Sentinels deployed around the world.",
         "link": "http://cinsscore.com/#list",
         "region": "GLOBAL",
-        "tags": "malware,network" 
+        "tags": "malware,network"
     },
     {
         "title": "Umbrella List",
         "description": "The popularity list contains most queried domains based on passive DNS usage across Umbrella global network of more than 100 Billion requests per day with 65 million unique active users, in more than 165 countries.",
         "link": "http://s3-us-west-1.amazonaws.com/umbrella-static/index.html",
         "region": "GLOBAL",
-        "tags": "network" 
+        "tags": "network"
     },
     {
         "title": "MalwareBazaar",
         "description": "MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers.",
         "link": "https://bazaar.abuse.ch",
         "region": "GLOBAL",
-        "tags": "malware" 
+        "tags": "malware"
     },
     {
         "title": "BD Banlist",
         "description": "Binary Defense Systems Artillery Threat Intelligence Feed and Banlist Feed",
         "link": "https://www.binarydefense.com/banlist.txt",
         "region": "GLOBAL",
-        "tags": "malware" 
+        "tags": "malware"
     },
     {
         "title": "AbuseIPDB",
         "description": "AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet.",
         "link": "https://www.abuseipdb.com",
         "region": "GLOBAL",
-        "tags": "malware" 
+        "tags": "malware"
     },
     {
         "title": "Yara Rules",
         "description": "This project covers the need of a group of IT Security Researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible, and began as an open source community for collecting Yara rules.",
         "link": "https://github.com/Yara-Rules/rules",
         "region": "GLOBAL",
-        "tags": "malware" 
+        "tags": "malware"
     },
     {
         "title": "CrowdSec",
         "description": "CrowdSec is an open-source and collaborative security stack leveraging the crowd power. Analyze behaviors, respond to attacks & share signals across the community. Gain crowd-sourced protection against malicious IPs. Benefit from the most accurate CTI in the world.",
         "link": "https://www.crowdsec.net",
         "region": "GLOBAL",
-        "tags": "malware" 
+        "tags": "malware"
     },
     {
         "title": "Botvrij",
@@ -270,69 +270,160 @@
         "description": "BGP Ranking is a free software to calculate the security ranking of Internet Service Providers. The system is gathering external datasources (e.g. dshield, shadowserver, Arbor ATLAS) in order to evaluate the ranking over time.",
         "link": "https://bgpranking.circl.lu",
         "region": "GLOBAL",
-        "tags": "malware" 
+        "tags": "malware"
     },
     {
         "title": "War on the Rocks",
         "description": "War on the Rocks is a platform for analysis and debate on strategy, defense, and foreign affairs. It features articles and podcasts produced by an array of writers with deep experience in these matters: top notch scholars who study war, those who have served or worked in war zones, and more than a few who have done it all.",
         "link": "https://warontherocks.com",
         "region": "GLOBAL",
-        "tags": "geopolitics" 
+        "tags": "geopolitics"
     },
     {
         "title": "NOC DNSRepo",
         "description": "Search NOC's DNS repository of IP addresses, domains, and their records. You can search for domains behind an IP address, or all sub domains for a specific domain. You can also do sub domain discovery, find domains behind a specific service and much more.",
         "link": "https://dnsrepo.noc.org",
         "region": "GLOBAL",
-        "tags": "network" 
+        "tags": "network"
     },
     {
         "title": "IntelligenceX",
         "description": "IntelligenceX delivers fast, high-quality results and make the deepest parts of the internet accessible with a few clicks. It searches billions of selectors in a matter of milliseconds. The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs, CIDRs, Bitcoin addresses, IPFS hashes, etc. It searches in places such as the darknet, document sharing platforms, whois data, public data leaks and others. It keeps a historical data archive of results, similar to how the Wayback Machine from archive.org stores historical copies of websites.",
         "link": "https://intelx.io",
         "region": "GLOBAL",
-        "tags": "crypto,network,breach,web,tor" 
+        "tags": "crypto,network,breach,web,tor"
     },
     {
         "title": "DefaultCreds",
         "description": "One place for all the default credentials",
         "link": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
         "region": "GLOBAL",
-        "tags": "exploit" 
+        "tags": "exploit"
     },
     {
         "title": "PayloadAllTheThings",
         "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF.",
         "link": "https://github.com/swisskyrepo/PayloadsAllTheThings",
         "region": "GLOBAL",
-        "tags": "exploit" 
+        "tags": "exploit"
     },
     {
         "title": "HardwareAllTheThings",
         "description": "A list of useful payloads and bypasses for Hardware and IOT Security.",
         "link": "https://github.com/swisskyrepo/HardwareAllTheThings",
         "region": "GLOBAL",
-        "tags": "exploit" 
+        "tags": "exploit"
     },
     {
         "title": "Metabigor",
         "description": "Metabigor is Intelligence tool, its goal is to do OSINT tasks and more but without any API key.",
         "link": "https://github.com/j3ssie/metabigor",
         "region": "GLOBAL",
-        "tags": "network" 
+        "tags": "network"
     },
     {
         "title": "OSINT Curious",
         "description": "The OSINT Curious Project is a source of quality, actionable, Open Source Intelligence news, blogs, instructional videos, online Discord community, and live streams.",
         "link": "https://www.youtube.com/@OSINTCurious",
         "region": "GLOBAL",
-        "tags": "social,network,crypto,geopolitics,web,tor" 
+        "tags": "social,network,crypto,geopolitics,web,tor"
     },
     {
         "title": "Benjamin Strick",
         "description": "Benjamin Strick creates digital research tutorials and videos for this web generation on Open Source Intelligence (OSINT), digital research, geolocation and curious bytes so that no matter who you are, or where you are in the world, you can learn how to identify, verify and analyse information online.",
         "link": "https://www.youtube.com/@Bendobrown",
         "region": "GLOBAL",
-        "tags": "social,network,crypto,geopolitics,web,tor" 
+        "tags": "social,network,crypto,geopolitics,web,tor"
+    },
+    {
+        "title": "Counter Extremism",
+        "description": "The Counter Extremism Project (CEP) is a not-for-profit, non-partisan, international policy organization formed to combat the growing threat from extremist ideologies.",
+        "link": "https://www.counterextremism.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "McKinsey Insights",
+        "description": "Critical trends and risks in the global economy",
+        "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/mckinsey-global-economics-intelligence",
+        "region": "GLOBAL",
+        "tags": "economics"
+    },
+    {
+        "title": "Economist Intelligence",
+        "description": "Stay current on important trending topics that impact business decisions through EIU curated set of global themes which range from climate change to Covid-19 and digital payments. Learn how global issues are impacting various industries and markets today.",
+        "link": "https://www.eiu.com/n/global-themes/",
+        "region": "GLOBAL",
+        "tags": "economics"
+    },
+    {
+        "title": "Quiver Quant",
+        "description": "Quiver scrapes alternative stock data from across the internet and aggregates it in a free, easy-to-use web dashboard. It allows retail investors to tap into the power of big data, and have access to actionable, easy to interpret data that hasn't already been dissected by Wall Street.",
+        "link": "https://www.quiverquant.com",
+        "region": "GLOBAL",
+        "tags": "stocks"
+    },
+    {
+        "title": "MITRE ATT&CK",
+        "description": "MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.",
+        "link": "https://attack.mitre.org",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "Exploit Alert",
+        "description": "Exploits found on the INTERNET",
+        "link": "https://www.exploitalert.com",
+        "region": "GLOBAL",
+        "tags": "exploit"
+    },
+    {
+        "title": "XSS Payloads",
+        "description": "The wonderland of JavaScript unexpected usages, and more.",
+        "link": "http://www.xss-payloads.com",
+        "region": "GLOBAL",
+        "tags": "exploit"
+    },
+    {
+        "title": "LOLBAS",
+        "description": "The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques.",
+        "link": "https://lolbas-project.github.io",
+        "region": "GLOBAL",
+        "tags": "exploit,malware"
+    },
+    {
+        "title": "GTFOBins",
+        "description": "GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.",
+        "link": "https://gtfobins.github.io",
+        "region": "GLOBAL",
+        "tags": "exploit"
+    },
+    {
+        "title": "0day Today",
+        "description": "0day Today is the ultimate database of exploits and vulnerabilities and a great resource for vulnerability researchers and security professionals.",
+        "link": "https://0day.today",
+        "region": "GLOBAL",
+        "tags": "exploit"
+    },
+    {
+        "title": "Rapid7 DB",
+        "description": "Technical details for over 180,000 vulnerabilities and 4,000 exploits are available for security professionals and researchers to review.",
+        "link": "https://www.rapid7.com/db",
+        "region": "GLOBAL",
+        "tags": "exploit"
+    },
+    {
+        "title": "Sploitus",
+        "description": "Sploitus is a convenient central place for identifying the newest exploits and finding attacks that exploit known vulnerabilities. The search engine is also a good resource for finding security and vulnerability discovery tools.",
+        "link": "https://sploitus.com",
+        "region": "GLOBAL",
+        "tags": "exploit"
+    },
+    {
+        "title": "TOR Link",
+        "description": "Free anonymous deepweb / darknet search engine",
+        "link": "https://tor.link",
+        "region": "GLOBAL",
+        "tags": "tor"
     }
 ]
