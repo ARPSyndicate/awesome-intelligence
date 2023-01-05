@@ -523,5 +523,12 @@
         "link": "https://spyonweb.com",
         "region": "GLOBAL",
         "tags": "web,network"
+    },
+    {
+        "title": "Yark",
+        "description": "Yark lets you continuously archive all videos and metadata of a YouTube channel, it also lets you view your archive as a seamless offline website with history and historical statistics information.",
+        "link": "https://github.com/Owez/yark",
+        "region": "GLOBAL",
+        "tags": "web"
     }
 ]
