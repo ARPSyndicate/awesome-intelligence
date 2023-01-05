@@ -95,7 +95,7 @@
         "description": "Recon data for public bug bounty programs.",
         "link": "https://mega.nz/folder/KXJyQKSA#pRHtZzEO4mxqKDgfzNK8iA",
         "region": "GLOBAL",
-        "tags": "crypto,network,breach,web,tor"
+        "tags": "network,web"
     },
     {
         "title": "Arkham Intelligence",
@@ -116,7 +116,7 @@
         "description": "An archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers.",
         "link": "https://www.exploit-db.com",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "WhatsMyName",
@@ -207,7 +207,7 @@
         "description": "An open-source software company that builds tools to detect and remediate vulnerabilities from development to production.",
         "link": "https://github.com/projectdiscovery",
         "region": "GLOBAL",
-        "tags": "network,web,exploit"
+        "tags": "network,web,exploit,vulnerability"
     },
     {
         "title": "BeVigil",
@@ -326,7 +326,7 @@
         "description": "Metabigor is Intelligence tool, its goal is to do OSINT tasks and more but without any API key.",
         "link": "https://github.com/j3ssie/metabigor",
         "region": "GLOBAL",
-        "tags": "network"
+        "tags": "network,web"
     },
     {
         "title": "OSINT Curious",
@@ -382,7 +382,7 @@
         "description": "Exploits found on the INTERNET",
         "link": "https://www.exploitalert.com",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "XSS Payloads",
@@ -396,35 +396,35 @@
         "description": "The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques.",
         "link": "https://lolbas-project.github.io",
         "region": "GLOBAL",
-        "tags": "exploit,malware"
+        "tags": "exploit,malware,vulnerability"
     },
     {
         "title": "GTFOBins",
         "description": "GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.",
         "link": "https://gtfobins.github.io",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "0day Today",
         "description": "0day Today is the ultimate database of exploits and vulnerabilities and a great resource for vulnerability researchers and security professionals.",
         "link": "https://0day.today",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "Rapid7 DB",
         "description": "Technical details for over 180,000 vulnerabilities and 4,000 exploits are available for security professionals and researchers to review.",
         "link": "https://www.rapid7.com/db",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "Sploitus",
         "description": "Sploitus is a convenient central place for identifying the newest exploits and finding attacks that exploit known vulnerabilities. The search engine is also a good resource for finding security and vulnerability discovery tools.",
         "link": "https://sploitus.com",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "TOR Link",
@@ -530,5 +530,103 @@
         "link": "https://github.com/Owez/yark",
         "region": "GLOBAL",
         "tags": "web"
+    },
+    {
+        "title": "CovertAction",
+        "description": "Exposing covert action since 1978.",
+        "link": "https://covertactionmagazine.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "Trellix Research",
+        "description": "The latest cybersecurity trends, best practices, security vulnerabilities, and more from Trellix/Fireeye.",
+        "link": "https://www.trellix.com/en-us/about/newsroom/stories/research.html",
+        "region": "GLOBAL",
+        "tags": "malware,exploit,vulnerability"
+    },
+    {
+        "title": "CP Research",
+        "description": "Check Point Research provides leading cyber threat intelligence to Check Point Software customers and the greater intelligence community.",
+        "link": "https://research.checkpoint.com",
+        "region": "GLOBAL",
+        "tags": "malware,exploit,vulnerability"
+    },
+    {
+        "title": "Wikistrat",
+        "description": "Wikistrat is perfectly suited for collaborative analysis, strategic planning, and simulations, thanks to their ability to engage large crowds of experts to collaborate using their interactive online platform",
+        "link": "https://www.wikistrat.com/blog",
+        "region": "GLOBAL",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "PolySwarm",
+        "description": "Scan Files or URLs for threats",
+        "link": "https://polyswarm.network",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "H1 Hacktivity",
+        "description": "Vulnerability Reports disclosed by Hackerone",
+        "link": "https://hackerone.com/hacktivity",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability"
+    },
+    {
+        "title": "WikiLeaks",
+        "description": "WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption. It has so far published more than 10 million documents and associated analyses.",
+        "link": "https://wikileaks.org",
+        "region": "GLOBAL",
+        "tags": "breach,geopolitics"
+    },
+    {
+        "title": "Talos Reports",
+        "description": "Vulnerability Reports disclosed by CISCO Talos",
+        "link": "https://talosintelligence.com/vulnerability_reports",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability"
+    },
+    {
+        "title": "MalAPI",
+        "description": "MalAPI maps Windows APIs to common techniques used by malware. It can be used when developing malware (for legal purposes of course) or when analyzing the source code of one.",
+        "link": "https://malapi.io",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "UserSearch",
+        "description": "Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs. 600+ sites Supported! Largest Reverse User Search Online!",
+        "link": "https://usersearch.org",
+        "region": "GLOBAL",
+        "tags": "social"
+    },
+    {
+        "title": "Domlock",
+        "description": "Convert Domains to Netblocks & ASN",
+        "link": "https://github.com/ARPSyndicate/domlock",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "Rescro Sensitives",
+        "description": "Regular Expressions for Sensitive Tokens",
+        "link": "https://github.com/ARPSyndicate/rescro/blob/master/signatures/sensitives.yaml",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "Favinizer",
+        "description": "The Biggest Database of Favicon Hashes",
+        "link": "https://github.com/ARPSyndicate/favinizer/blob/master/favinizer.yaml",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "SecureList",
+        "description": "The Securelist blog houses Kaspersky's threat intelligence reports, malware research, APT analysis and statistics",
+        "link": "https://securelist.com",
+        "region": "GLOBAL",
+        "tags": "malware,exploit,vulnerability"
     }
 ]
