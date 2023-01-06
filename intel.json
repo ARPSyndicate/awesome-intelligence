@@ -684,5 +684,124 @@
         "link": "https://www.dni.gov/nctc/index.html",
         "region": "U.S.A.",
         "tags": "terrorism"
+    },
+    {
+        "title": "Sekurak",
+        "description": "News, knowledge, tools, texts - everything related to IT security",
+        "link": "https://sekurak.pl",
+        "region": "Worldwide",
+        "tags": "malware,breach"
+    },
+    {
+        "title": "Critical Threats",
+        "description": "Critical Threats' objective is to inform and educate policymakers, the intelligence and military communities, and all interested citizens who need to understand the nuance and scale of threats to America's security.",
+        "link": "https://www.criticalthreats.org",
+        "region": "Worldwide",
+        "tags": "geopolitcs,terrorism"
+    },
+    {
+        "title": "NTI",
+        "description": "NTI is a nonprofit global security organization focused on reducing nuclear and biological threats imperiling humanity.",
+        "link": "https://www.nti.org",
+        "region": "Worldwide",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "Arms Control",
+        "description": "Working to eliminate the threats posed by the world's most dangerous weapons",
+        "link": "https://www.armscontrol.org",
+        "region": "Worldwide",
+        "tags": "terrorism"
+    },
+    {
+        "title": "ReliefWeb",
+        "description": "ReliefWeb is a humanitarian information service provided by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA)",
+        "link": "https://reliefweb.int",
+        "region": "Worldwide",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "SIPRI",
+        "description": "Stockholm International Peace Research Institute (SIPRI) is an independent international institute dedicated to research into conflict, armaments, arms control and disarmament. Established in 1966, SIPRI provides data, analysis and recommendations, based on open sources.",
+        "link": "https://www.sipri.org",
+        "region": "Worldwide",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "RUSI",
+        "description": "The Royal United Services Institute (RUSI) is the world's oldest and the UK's leading defence and security think tank. Our mission is to inform, influence and enhance public debate to help build a safer and more stable world.",
+        "link": "https://rusi.org",
+        "region": "Worldwide",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "Conflict Arm",
+        "description": "Established in 2011, Conflict Armament Research generates unique evidence on weapon supplies into armed conflicts in order to inform and support effective weapon management and control.",
+        "link": "https://www.conflictarm.com",
+        "region": "Worldwide",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "Crisis Group",
+        "description": "The International Crisis Group is an independent organisation working to prevent wars and shape policies that will build a more peaceful world. Crisis Group sounds the alarm to prevent deadly conflict.",
+        "link": "https://www.crisisgroup.org",
+        "region": "Worldwide",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "OpenSanctions",
+        "description": "OpenSanctions helps investigators find leads, allows companies to manage risk and enables technologists to build data-driven products.",
+        "link": "https://www.opensanctions.org",
+        "region": "Worldwide",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "CSIS",
+        "description": "The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research organization dedicated to advancing practical ideas to address the world's greatest challenges. Its purpose is to define the future of national security.",
+        "link": "https://www.csis.org",
+        "region": "Worldwide",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "Small Arms Survey",
+        "description": "For over 20 years, the Small Arms Survey has provided impartial, evidence-based, and policy-relevant knowledge on all aspects of small arms and armed violence to governments, policymakers, researchers, and civil society.",
+        "link": "https://www.smallarmssurvey.org",
+        "region": "Worldwide",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "PRIO",
+        "description": "The Peace Research Institute Oslo (PRIO) conducts research on the conditions for peaceful relations between states, groups and people.",
+        "link": "https://www.prio.org",
+        "region": "Worldwide",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "MILEX",
+        "description": "Since 1981, many countries have regularly reported their military expenditure to the United Nations. This helps enhance transparency in armaments and contributes to international security by fostering trust and confidence among countries. Access to all information from the UN Report on Military Expenditures database is now a click away.",
+        "link": "https://milex.un-arm.org",
+        "region": "Worldwide",
+        "tags": "terrorism"
+    },
+    {
+        "title": "DataBank",
+        "description": "World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates.",
+        "link": "https://databank.worldbank.org",
+        "region": "Worldwide",
+        "tags": "economics"
+    },
+    {
+        "title": "TI Defence",
+        "description": "Transparency International Defence & Security works towards a world where governments, the armed forces, and arms transfers are transparent, accountable, and free from corruption.",
+        "link": "https://ti-defence.org",
+        "region": "Worldwide",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "COW",
+        "description": "Correlates Of War (COW) seeks to facilitate the collection, dissemination, and use of accurate and reliable quantitative data in international relations.",
+        "link": "https://correlatesofwar.org",
+        "region": "Worldwide",
+        "tags": "geopolitics,terrorism"
     }
 ]
