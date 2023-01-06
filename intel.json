@@ -158,14 +158,14 @@
         "description": "The World Factbook provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.",
         "link": "https://www.cia.gov/the-world-factbook/",
         "region": "GLOBAL",
-        "tags": "geopolitics"
+        "tags": "geopolitics,terrorism"
     },
     {
         "title": "Global Terrorism Catalogue",
         "description": "Catalogue of Terrorist Incidents occurred globally since 1968.",
         "link": "https://www.kaggle.com/datasets/klapeyefoundation/global-terrorism",
         "region": "GLOBAL",
-        "tags": "geopolitics"
+        "tags": "terrorism"
     },
     {
         "title": "Ransom Wiki",
@@ -193,14 +193,14 @@
         "description": "Strategic Intelligence News publishes intelligence reports, geopolitics, military intelligence, and crime reports analysis.",
         "link": "https://intelligencebriefs.com",
         "region": "GLOBAL",
-        "tags": "geopolitics"
+        "tags": "geopolitics,terrorism"
     },
     {
         "title": "RAND Corporation",
         "description": "The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest.",
         "link": "https://www.rand.org",
         "region": "GLOBAL",
-        "tags": "geopolitics"
+        "tags": "geopolitics,terrorism"
     },
     {
         "title": "ProjectDiscovery",
@@ -284,7 +284,7 @@
         "description": "War on the Rocks is a platform for analysis and debate on strategy, defense, and foreign affairs. It features articles and podcasts produced by an array of writers with deep experience in these matters: top notch scholars who study war, those who have served or worked in war zones, and more than a few who have done it all.",
         "link": "https://warontherocks.com",
         "region": "GLOBAL",
-        "tags": "geopolitics"
+        "tags": "geopolitics,terrorism"
     },
     {
         "title": "NOC DNSRepo",
@@ -344,10 +344,10 @@
     },
     {
         "title": "Counter Extremism",
-        "description": "The Counter Extremism Project (CEP) is a not-for-profit, non-partisan, international policy organization formed to combat the growing threat from extremist ideologies.",
+        "description": "The Counter Extremism Project (CEP) is a not-for-profit, non-partisan, international policy organization formed to combat the growing threat from extremist ideologies. It strives to build and maintain its best-in-class research and analysis databases on extremist groups, including their ideology, leaders, history, financing, violent activities, tactics, and rhetoric.",
         "link": "https://www.counterextremism.com",
         "region": "GLOBAL",
-        "tags": "geopolitics"
+        "tags": "geopolitics,terrorism"
     },
     {
         "title": "McKinsey Insights",
@@ -536,7 +536,7 @@
         "description": "Exposing covert action since 1978.",
         "link": "https://covertactionmagazine.com",
         "region": "GLOBAL",
-        "tags": "geopolitics"
+        "tags": "geopolitics,terrorism"
     },
     {
         "title": "Trellix Research",
@@ -628,5 +628,61 @@
         "link": "https://securelist.com",
         "region": "GLOBAL",
         "tags": "malware,exploit,vulnerability"
+    },
+    {
+        "title": "SPLC Hate Map",
+        "description": "Each year since 1990, the SPLC has published an annual census of hate groups operating within the United States. The hate map, which depicts the groups' approximate locations, is the result of a year of monitoring by analysts and researchers and is typically published every January or February. It represents activity by hate groups during the previous year.",
+        "link": "https://www.splcenter.org/hate-map",
+        "region": "U.S.A.",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "ICSR",
+        "description": "The International Centre for the Study of Radicalisation (ICSR) is a world-class and internationally acclaimed academic research centre based in the Department of War Studies at King's College London.",
+        "link": "https://icsr.info",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "Militant Wire",
+        "description": "Militant Wire is a media company focused on providing independent analysis of militant activity and armed conflict around the world. Our global network of researchers produces expert insight on issues of political street violence, terrorism, insurgency, organized crime, irregular warfare, and more.",
+        "link": "https://www.militantwire.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "START Publications",
+        "description": "Publications from a consortium of researchers dedicated to improving the understanding of the human causes and consequences of terrorism.",
+        "link": "https://www.start.umd.edu/publications",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "SPLC Resources",
+        "description": "Search SPLC publications, cases, Extremist Files, Intelligence Project articles, and more.",
+        "link": "https://www.splcenter.org/resources",
+        "region": "GLOBAL",
+        "tags": "terrorism"
+    },
+    {
+        "title": "Tracking Terrorism",
+        "description": "TRAC combines one of the world's largest databases of terrorists, terrorist groups, hate groups and their abettors with original, analytical essays on seminal terrorism topics, profiles of vulnerable regions and cities, and live feed of news and analyses.",
+        "link": "https://trackingterrorism.org",
+        "region": "GLOBAL",
+        "tags": "terrorism"
+    },
+    {
+        "title": "Mapping Militants",
+        "description": "The Mapping Militants Project identifies patterns in the evolution of militant organizations in specified conflict theatres and provides representations of changing relationships among groups.",
+        "link": "https://cisac.fsi.stanford.edu/mappingmilitants",
+        "region": "GLOBAL",
+        "tags": "terrorism"
+    },
+    {
+        "title": "NCTC Guide",
+        "description": "NCTC serves as the primary organization in the United States Government for analyzing and integrating information pertaining to international terrorism. This Guide focuses on the international terrorist organizations that are assessed to present the most serious threats to the United States.",
+        "link": "https://www.dni.gov/nctc/index.html",
+        "region": "U.S.A.",
+        "tags": "terrorism"
     }
 ]
