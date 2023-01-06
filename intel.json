@@ -17,6 +17,7 @@
     },
     {
         "title": "Censys Search",
+        "social": ["https://twitter.com/censysio"],
         "description": "Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security.",
         "link": "https://search.censys.io",
         "region": "GLOBAL",
@@ -24,6 +25,7 @@
     },
     {
         "title": "NerdyData",
+        "social": ["https://twitter.com/nerdydata"],
         "description": " Get a list of websites that use certain technologies, plus their company and spend data. Perfect for lead generation, market analysis, and competitive research.",
         "link": "https://www.nerdydata.com",
         "region": "GLOBAL",
@@ -31,6 +33,7 @@
     },
     {
         "title": "PublicWWW",
+        "social": ["https://twitter.com/publicwww"],
         "description":"Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.",
         "link": "https://publicwww.com",
         "region": "GLOBAL",
@@ -38,6 +41,7 @@
     },
     {
         "title": "SearchCode",
+        "social": ["https://twitter.com/boyter"],
         "description": "Search 75 billion lines of code from 40 million projects",
         "link": "https://searchcode.com",
         "region": "GLOBAL",
@@ -45,6 +49,7 @@
     },
     {
         "title": "SimilarSites",
+        "social": ["https://twitter.com/similarsites"],
         "description": "Easily Explore alternative websites",
         "link": "https://www.similarsites.com",
         "region": "GLOBAL",
@@ -52,6 +57,7 @@
     },
     {
         "title": "Netlas",
+        "social": ["https://twitter.com/netlas_io"],
         "description": "Internet intelligence apps that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets.",
         "link": "https://netlas.io",
         "region": "GLOBAL",
