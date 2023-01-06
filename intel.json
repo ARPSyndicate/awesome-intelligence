@@ -1,6 +1,7 @@
 [
     {
         "title": "CVEMON",
+        "social": ["https://twitter.com/scanfactory_io"],
         "description": "CVE Exploits Search Utility",
         "link": "https://in.scanfactory.io/cvemon.html",
         "region": "GLOBAL",
@@ -8,6 +9,7 @@
     },
     {
         "title": "Shodan",
+        "social": ["https://twitter.com/shodanhq","https://mastodon.shodan.io"],
         "description": "Search Engine that lets users search for various types of servers connected to the internet using a variety of filters.",
         "link": "https://shodan.io",
         "region": "GLOBAL",
