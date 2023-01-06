@@ -72,6 +72,7 @@
     },
     {
         "title": "Kaspersky OpenTIP",
+        "social": ["https://twitter.com/kaspersky"],
         "description": "Kaspersky Threat Intelligence Portal allows you to scan files, domains, IP addresses, and URLs for threats, malware, viruses.",
         "link": "https://opentip.kaspersky.com",
         "region": "GLOBAL",
@@ -79,6 +80,7 @@
     },
     {
         "title": "GreyNoise",
+        "social": ["https://twitter.com/GreyNoiseIO"],
         "description": "GreyNoise captures data on IPs that scan the internet and saturate security tools with internet noise, so SOC teams can focus on threats that matter and ignore those that don't.",
         "link": "https://www.greynoise.io",
         "region": "GLOBAL",
@@ -100,6 +102,7 @@
     },
     {
         "title": "BBR Dataset",
+        "social": ["https://twitter.com/scanfactory_io"],
         "description": "Recon data for public bug bounty programs.",
         "link": "https://mega.nz/folder/KXJyQKSA#pRHtZzEO4mxqKDgfzNK8iA",
         "region": "GLOBAL",
@@ -107,6 +110,7 @@
     },
     {
         "title": "Arkham Intelligence",
+        "social": ["https://twitter.com/ArkhamIntel"],
         "description": "Powerful tools for linking cryptocurrency activity to real world individuals and institutions.",
         "link": "https://www.arkhamintelligence.com",
         "region": "GLOBAL",
@@ -184,6 +188,7 @@
     },
     {
         "title": "Xlocate",
+        "social": ["https://twitter.com/scanfactory_io"],
         "description": "The ultimate exploits/references finder",
         "link": "https://github.com/ARPSyndicate/xlocate",
         "region": "GLOBAL",
@@ -240,6 +245,7 @@
     },
     {
         "title": "MalwareBazaar",
+        "social": ["https://twitter.com/abuse_ch"],
         "description": "MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers.",
         "link": "https://bazaar.abuse.ch",
         "region": "GLOBAL",
@@ -450,6 +456,7 @@
     },
     {
         "title": "Feodo Tracker",
+        "social": ["https://twitter.com/abuse_ch"],
         "description": "Browse the list of botnet Command&Control servers (C&Cs) tracked by Feodo Tracker, associated with Dridex, TrickBot, QakBot (aka QuakBot/Qbot), BazarLoader (aka BazarBackdoor) and Emotet (aka Heodo).",
         "link": "https://feodotracker.abuse.ch",
         "region": "GLOBAL",
@@ -471,6 +478,7 @@
     },
     {
         "title": "YARAify",
+        "social": ["https://twitter.com/abuse_ch"],
         "description": "Scan suspicious files such as malware samples or process dumps against a large repository of YARA rules.With YARAhub, the platform also provides a structured way for sharing YARA rules with the community.",
         "link": "https://yaraify.abuse.ch",
         "region": "GLOBAL",
@@ -485,6 +493,7 @@
     },
     {
         "title": "ThreatFox",
+        "social": ["https://twitter.com/abuse_ch"],
         "description": "Browse the Indicator Of Compromise (IOC) database of ThreatFox",
         "link": "https://threatfox.abuse.ch",
         "region": "GLOBAL",
@@ -541,6 +550,7 @@
     },
     {
         "title": "CovertAction",
+        "social": ["https://twitter.com/CovertActionMag"],
         "description": "Exposing covert action since 1978.",
         "link": "https://covertactionmagazine.com",
         "region": "GLOBAL",
@@ -562,6 +572,7 @@
     },
     {
         "title": "Wikistrat",
+        "social": ["https://twitter.com/Wikistrat"],
         "description": "Wikistrat is perfectly suited for collaborative analysis, strategic planning, and simulations, thanks to their ability to engage large crowds of experts to collaborate using their interactive online platform",
         "link": "https://www.wikistrat.com/blog",
         "region": "GLOBAL",
@@ -569,6 +580,7 @@
     },
     {
         "title": "PolySwarm",
+        "social": ["https://twitter.com/PolySwarm"],
         "description": "Scan Files or URLs for threats",
         "link": "https://polyswarm.network",
         "region": "GLOBAL",
@@ -583,6 +595,7 @@
     },
     {
         "title": "WikiLeaks",
+        "social": ["https://twitter.com/wikileaks"],
         "description": "WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption. It has so far published more than 10 million documents and associated analyses.",
         "link": "https://wikileaks.org",
         "region": "GLOBAL",
@@ -597,6 +610,7 @@
     },
     {
         "title": "MalAPI",
+        "social": ["https://twitter.com/mrd0x"],
         "description": "MalAPI maps Windows APIs to common techniques used by malware. It can be used when developing malware (for legal purposes of course) or when analyzing the source code of one.",
         "link": "https://malapi.io",
         "region": "GLOBAL",
@@ -611,6 +625,7 @@
     },
     {
         "title": "Domlock",
+        "social": ["https://twitter.com/scanfactory_io"],
         "description": "Convert Domains to Netblocks & ASN",
         "link": "https://github.com/ARPSyndicate/domlock",
         "region": "GLOBAL",
@@ -618,6 +633,7 @@
     },
     {
         "title": "Rescro Sensitives",
+        "social": ["https://twitter.com/scanfactory_io"],
         "description": "Regular Expressions for Sensitive Tokens",
         "link": "https://github.com/ARPSyndicate/rescro/blob/master/signatures/sensitives.yaml",
         "region": "GLOBAL",
@@ -625,6 +641,7 @@
     },
     {
         "title": "Favinizer",
+        "social": ["https://twitter.com/scanfactory_io"],
         "description": "The Biggest Database of Favicon Hashes",
         "link": "https://github.com/ARPSyndicate/favinizer/blob/master/favinizer.yaml",
         "region": "GLOBAL",
@@ -632,6 +649,7 @@
     },
     {
         "title": "SecureList",
+        "social": ["https://twitter.com/Securelist"],
         "description": "The Securelist blog houses Kaspersky's threat intelligence reports, malware research, APT analysis and statistics",
         "link": "https://securelist.com",
         "region": "GLOBAL",
@@ -653,6 +671,7 @@
     },
     {
         "title": "Militant Wire",
+        "social": ["https://twitter.com/MilitantWire"],
         "description": "Militant Wire is a media company focused on providing independent analysis of militant activity and armed conflict around the world. Our global network of researchers produces expert insight on issues of political street violence, terrorism, insurgency, organized crime, irregular warfare, and more.",
         "link": "https://www.militantwire.com",
         "region": "GLOBAL",
@@ -674,6 +693,7 @@
     },
     {
         "title": "Tracking Terrorism",
+        "social": ["https://twitter.com/TracTerrorism"],
         "description": "TRAC combines one of the world's largest databases of terrorists, terrorist groups, hate groups and their abettors with original, analytical essays on seminal terrorism topics, profiles of vulnerable regions and cities, and live feed of news and analyses.",
         "link": "https://trackingterrorism.org",
         "region": "GLOBAL",
@@ -695,6 +715,7 @@
     },
     {
         "title": "Sekurak",
+        "social": ["https://twitter.com/Sekurak"],
         "description": "News, knowledge, tools, texts - everything related to IT security",
         "link": "https://sekurak.pl",
         "region": "Worldwide",
@@ -702,6 +723,7 @@
     },
     {
         "title": "Critical Threats",
+        "social": ["https://twitter.com/criticalthreats"],
         "description": "Critical Threats' objective is to inform and educate policymakers, the intelligence and military communities, and all interested citizens who need to understand the nuance and scale of threats to America's security.",
         "link": "https://www.criticalthreats.org",
         "region": "Worldwide",
@@ -737,6 +759,7 @@
     },
     {
         "title": "RUSI",
+        "social": ["https://twitter.com/RUSI_org"],
         "description": "The Royal United Services Institute (RUSI) is the world's oldest and the UK's leading defence and security think tank. Our mission is to inform, influence and enhance public debate to help build a safer and more stable world.",
         "link": "https://rusi.org",
         "region": "Worldwide",
@@ -751,6 +774,7 @@
     },
     {
         "title": "Crisis Group",
+        "social": ["https://twitter.com/CrisisGroup"],
         "description": "The International Crisis Group is an independent organisation working to prevent wars and shape policies that will build a more peaceful world. Crisis Group sounds the alarm to prevent deadly conflict.",
         "link": "https://www.crisisgroup.org",
         "region": "Worldwide",
@@ -758,6 +782,7 @@
     },
     {
         "title": "OpenSanctions",
+        "social": ["https://twitter.com/open_sanctions"],
         "description": "OpenSanctions helps investigators find leads, allows companies to manage risk and enables technologists to build data-driven products.",
         "link": "https://www.opensanctions.org",
         "region": "Worldwide",
@@ -800,6 +825,7 @@
     },
     {
         "title": "TI Defence",
+        "social": ["https://twitter.com/TI_Defence"],
         "description": "Transparency International Defence & Security works towards a world where governments, the armed forces, and arms transfers are transparent, accountable, and free from corruption.",
         "link": "https://ti-defence.org",
         "region": "Worldwide",
@@ -807,9 +833,18 @@
     },
     {
         "title": "COW",
+        "social": ["https://twitter.com/correlatesofwar"],
         "description": "Correlates Of War (COW) seeks to facilitate the collection, dissemination, and use of accurate and reliable quantitative data in international relations.",
         "link": "https://correlatesofwar.org",
         "region": "Worldwide",
         "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "VX Underground",
+        "social": ["https://twitter.com/vxunderground", "https://t.me/+njfLzUrqos01ZWNh"],
+        "description": "The largest collection of malware source code, samples, and papers on the internet.",
+        "link": "https://www.vx-underground.org",
+        "region": "Worldwide",
+        "tags": "malware,exploit,vulnerability"
     }
 ]
