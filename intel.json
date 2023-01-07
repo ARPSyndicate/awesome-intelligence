@@ -33,7 +33,6 @@
     },
     {
         "title": "PublicWWW",
-        "social": ["https://twitter.com/publicwww"],
         "description":"Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.",
         "link": "https://publicwww.com",
         "region": "GLOBAL",
@@ -65,6 +64,7 @@
     },
     {
         "title": "CriminalIP",
+        "social": ["https://twitter.com/CriminalIP_US"],
         "description": "Search for information on anything connected to public internet",
         "link": "https://www.criminalip.io",
         "region": "GLOBAL",
@@ -88,6 +88,7 @@
     },
     {
         "title": "Intezer Analyze",
+        "social": ["https://twitter.com/IntezerLabs"],
         "description": "Malware analysis platform quickly classifying malware and unknown files. Unlike Antivirus and EDRs which mostly produce generic results (think “Trojan.Generic”) and can only classify specific hashes, Intezer analyzes the code itself in order to categorize the threat and classify variants from the same malware family.",
         "link": "https://analyze.intezer.com",
         "region": "GLOBAL",
@@ -95,6 +96,7 @@
     },
     {
         "title": "Chaos Dataset",
+        "social": ["https://twitter.com/pdiscoveryio"],
         "description": "This project is meant to enhance research and analyse changes around DNS for better insights.",
         "link": "https://chaos.projectdiscovery.io",
         "region": "GLOBAL",
@@ -217,6 +219,7 @@
     },
     {
         "title": "ProjectDiscovery",
+        "social": ["https://twitter.com/pdiscoveryio"],
         "description": "An open-source software company that builds tools to detect and remediate vulnerabilities from development to production.",
         "link": "https://github.com/projectdiscovery",
         "region": "GLOBAL",
@@ -224,6 +227,7 @@
     },
     {
         "title": "BeVigil",
+        "social": ["https://twitter.com/cloudsek"],
         "description": "The internet's first and only security search engine for mobile apps.",
         "link": "https://bevigil.com",
         "region": "GLOBAL",
@@ -260,6 +264,7 @@
     },
     {
         "title": "AbuseIPDB",
+        "social": ["https://twitter.com/abuseIPDB"],
         "description": "AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet.",
         "link": "https://www.abuseipdb.com",
         "region": "GLOBAL",
@@ -267,6 +272,7 @@
     },
     {
         "title": "Yara Rules",
+        "social": ["https://twitter.com/yararules"],
         "description": "This project covers the need of a group of IT Security Researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible, and began as an open source community for collecting Yara rules.",
         "link": "https://github.com/Yara-Rules/rules",
         "region": "GLOBAL",
@@ -274,6 +280,7 @@
     },
     {
         "title": "CrowdSec",
+        "social": ["https://twitter.com/crowd_security"],
         "description": "CrowdSec is an open-source and collaborative security stack leveraging the crowd power. Analyze behaviors, respond to attacks & share signals across the community. Gain crowd-sourced protection against malicious IPs. Benefit from the most accurate CTI in the world.",
         "link": "https://www.crowdsec.net",
         "region": "GLOBAL",
@@ -295,6 +302,7 @@
     },
     {
         "title": "War on the Rocks",
+        "social": ["https://twitter.com/warontherocks"],
         "description": "War on the Rocks is a platform for analysis and debate on strategy, defense, and foreign affairs. It features articles and podcasts produced by an array of writers with deep experience in these matters: top notch scholars who study war, those who have served or worked in war zones, and more than a few who have done it all.",
         "link": "https://warontherocks.com",
         "region": "GLOBAL",
@@ -309,6 +317,7 @@
     },
     {
         "title": "IntelligenceX",
+        "social": ["https://twitter.com/_IntelligenceX"],
         "description": "IntelligenceX delivers fast, high-quality results and make the deepest parts of the internet accessible with a few clicks. It searches billions of selectors in a matter of milliseconds. The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs, CIDRs, Bitcoin addresses, IPFS hashes, etc. It searches in places such as the darknet, document sharing platforms, whois data, public data leaks and others. It keeps a historical data archive of results, similar to how the Wayback Machine from archive.org stores historical copies of websites.",
         "link": "https://intelx.io",
         "region": "GLOBAL",
@@ -323,6 +332,7 @@
     },
     {
         "title": "PayloadAllTheThings",
+        "social": ["https://twitter.com/pentest_swissky"],
         "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF.",
         "link": "https://github.com/swisskyrepo/PayloadsAllTheThings",
         "region": "GLOBAL",
@@ -330,6 +340,7 @@
     },
     {
         "title": "HardwareAllTheThings",
+        "social": ["https://twitter.com/pentest_swissky"],
         "description": "A list of useful payloads and bypasses for Hardware and IOT Security.",
         "link": "https://github.com/swisskyrepo/HardwareAllTheThings",
         "region": "GLOBAL",
