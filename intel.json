@@ -718,7 +718,7 @@
         "social": ["https://twitter.com/Sekurak"],
         "description": "News, knowledge, tools, texts - everything related to IT security",
         "link": "https://sekurak.pl",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "malware,breach"
     },
     {
@@ -726,35 +726,35 @@
         "social": ["https://twitter.com/criticalthreats"],
         "description": "Critical Threats' objective is to inform and educate policymakers, the intelligence and military communities, and all interested citizens who need to understand the nuance and scale of threats to America's security.",
         "link": "https://www.criticalthreats.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitcs,terrorism"
     },
     {
         "title": "NTI",
         "description": "NTI is a nonprofit global security organization focused on reducing nuclear and biological threats imperiling humanity.",
         "link": "https://www.nti.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics"
     },
     {
         "title": "Arms Control",
         "description": "Working to eliminate the threats posed by the world's most dangerous weapons",
         "link": "https://www.armscontrol.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "terrorism"
     },
     {
         "title": "ReliefWeb",
         "description": "ReliefWeb is a humanitarian information service provided by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA)",
         "link": "https://reliefweb.int",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
     },
     {
         "title": "SIPRI",
         "description": "Stockholm International Peace Research Institute (SIPRI) is an independent international institute dedicated to research into conflict, armaments, arms control and disarmament. Established in 1966, SIPRI provides data, analysis and recommendations, based on open sources.",
         "link": "https://www.sipri.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
     },
     {
@@ -762,14 +762,14 @@
         "social": ["https://twitter.com/RUSI_org"],
         "description": "The Royal United Services Institute (RUSI) is the world's oldest and the UK's leading defence and security think tank. Our mission is to inform, influence and enhance public debate to help build a safer and more stable world.",
         "link": "https://rusi.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
     },
     {
         "title": "Conflict Arm",
         "description": "Established in 2011, Conflict Armament Research generates unique evidence on weapon supplies into armed conflicts in order to inform and support effective weapon management and control.",
         "link": "https://www.conflictarm.com",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
     },
     {
@@ -777,7 +777,7 @@
         "social": ["https://twitter.com/CrisisGroup"],
         "description": "The International Crisis Group is an independent organisation working to prevent wars and shape policies that will build a more peaceful world. Crisis Group sounds the alarm to prevent deadly conflict.",
         "link": "https://www.crisisgroup.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
     },
     {
@@ -785,42 +785,42 @@
         "social": ["https://twitter.com/open_sanctions"],
         "description": "OpenSanctions helps investigators find leads, allows companies to manage risk and enables technologists to build data-driven products.",
         "link": "https://www.opensanctions.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics"
     },
     {
         "title": "CSIS",
         "description": "The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research organization dedicated to advancing practical ideas to address the world's greatest challenges. Its purpose is to define the future of national security.",
         "link": "https://www.csis.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics"
     },
     {
         "title": "Small Arms Survey",
         "description": "For over 20 years, the Small Arms Survey has provided impartial, evidence-based, and policy-relevant knowledge on all aspects of small arms and armed violence to governments, policymakers, researchers, and civil society.",
         "link": "https://www.smallarmssurvey.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
     },
     {
         "title": "PRIO",
         "description": "The Peace Research Institute Oslo (PRIO) conducts research on the conditions for peaceful relations between states, groups and people.",
         "link": "https://www.prio.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
     },
     {
         "title": "MILEX",
         "description": "Since 1981, many countries have regularly reported their military expenditure to the United Nations. This helps enhance transparency in armaments and contributes to international security by fostering trust and confidence among countries. Access to all information from the UN Report on Military Expenditures database is now a click away.",
         "link": "https://milex.un-arm.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "terrorism"
     },
     {
         "title": "DataBank",
         "description": "World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates.",
         "link": "https://databank.worldbank.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "economics"
     },
     {
@@ -828,7 +828,7 @@
         "social": ["https://twitter.com/TI_Defence"],
         "description": "Transparency International Defence & Security works towards a world where governments, the armed forces, and arms transfers are transparent, accountable, and free from corruption.",
         "link": "https://ti-defence.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
     },
     {
@@ -836,7 +836,7 @@
         "social": ["https://twitter.com/correlatesofwar"],
         "description": "Correlates Of War (COW) seeks to facilitate the collection, dissemination, and use of accurate and reliable quantitative data in international relations.",
         "link": "https://correlatesofwar.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
     },
     {
@@ -844,7 +844,67 @@
         "social": ["https://twitter.com/vxunderground", "https://t.me/+njfLzUrqos01ZWNh"],
         "description": "The largest collection of malware source code, samples, and papers on the internet.",
         "link": "https://www.vx-underground.org",
-        "region": "Worldwide",
+        "region": "GLOBAL",
         "tags": "malware,exploit,vulnerability"
+    },
+    {
+        "title": "Maldatabase",
+        "social": ["https://twitter.com/maldatabase"],
+        "description": "Maldatabase is designed to help malware data science and threat intelligence feeds.",
+        "link": "https://maldatabase.com",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "FraudGuard",
+        "description": "FraudGuard is a service designed to provide an easy way to validate usage by continuously collecting and analyzing real-time internet traffic. Utilizing just a few simple API endpoints we make integration as simple as possible and return data such as: Risk Level, Threat Type, Geo Location, etc.",
+        "link": "https://fraudguard.io",
+        "region": "GLOBAL",
+        "tags": "malware,network,web"
+    },
+    {
+        "title": "Dataplane",
+        "social": ["https://twitter.com/Dataplaneorg"],
+        "description": "Internet engineers, analysts, incident responders, and supporting organizations must be aware of trends, anomalies, threats, and misconfigurations that originate from within and outside their networks. Dataplane.org is a provider of data (signals), analysis, and statistics that increases the awareness which leads to a more robust and secure Internet.",
+        "link": "https://dataplane.org",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "Cyware Feeds",
+        "description": "Free Cyware Threat Intelligence Feeds",
+        "link": "https://cyware.com/community/ctix-feeds",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "MalwareTech",
+        "description": "Cyber Security, Tech, Analysis.",
+        "link": "https://malwaretech.com",
+        "region": "GLOBAL",
+        "tags": "malware,exploit,vulnerability"
+    },
+    {
+        "title": "OpenPhish",
+        "description": "OpenPhish provides actionable intelligence data on active phishing threats.",
+        "link": "https://openphish.com",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "ThreatFeeds",
+        "social": ["https://twitter.com/threatfeeds_io"],
+        "description": "Free and open-source threat intelligence feeds.",
+        "link": "https://threatfeeds.io",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "HoneyDB",
+        "social": ["https://twitter.com/HoneyPyLog"],
+        "description": "HoneyDB provides real time data of honeypot activity. This data comes from honeypot sensors deployed globally on the Internet.",
+        "link": "https://honeydb.io",
+        "region": "GLOBAL",
+        "tags": "malware"
     }
 ]
