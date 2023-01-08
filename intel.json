@@ -9,7 +9,7 @@
     },
     {
         "title": "Shodan",
-        "social": ["https://twitter.com/shodanhq","https://mastodon.shodan.io"],
+        "social": ["https://twitter.com/shodanhq","https://mastodon.shodan.io", "https://www.facebook.com/shodan.io"],
         "description": "Search Engine that lets users search for various types of servers connected to the internet using a variety of filters.",
         "link": "https://shodan.io",
         "region": "GLOBAL",
@@ -162,6 +162,7 @@
     },
     {
         "title": "DNS History",
+        "social": ["https://www.facebook.com/DnsHistory"],
         "description": "Domain Name System (DNS) Historical Record Archive",
         "link": "http://dnshistory.org",
         "region": "GLOBAL",
@@ -169,10 +170,11 @@
     },
     {
         "title": "The World Factbook",
+        "social": ["https://twitter.com/cia","https://www.facebook.com/Central.Intelligence.Agency"],
         "description": "The World Factbook provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.",
         "link": "https://www.cia.gov/the-world-factbook/",
         "region": "GLOBAL",
-        "tags": "geopolitics,terrorism"
+        "tags": "geopolitics,terrorism,economics"
     },
     {
         "title": "Global Terrorism Catalogue",
@@ -183,6 +185,7 @@
     },
     {
         "title": "Ransom Wiki",
+        "social": ["https://twitter.com/S0ufi4n3"],
         "description": "Check if your company or partner appears in a claimed ransom attack breach.",
         "link": "https://ransom.wiki",
         "region": "GLOBAL",
@@ -198,6 +201,7 @@
     },
     {
         "title": "Public Intelligence",
+        "social": ["https://twitter.com/publicintel"],
         "description": "Public Intelligence is an international, collaborative research project aimed at aggregating the collective work of independent researchers around the globe who wish to defend the public's right to access information.",
         "link": "https://publicintelligence.net",
         "region": "GLOBAL",
@@ -212,6 +216,7 @@
     },
     {
         "title": "RAND Corporation",
+        "social": ["https://www.youtube.com/user/TheRANDCorporation","https://www.facebook.com/RANDCorporation", "https://twitter.com/randcorporation", "https://www.instagram.com/randcorporation/1"],
         "description": "The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest.",
         "link": "https://www.rand.org",
         "region": "GLOBAL",
@@ -348,6 +353,7 @@
     },
     {
         "title": "Metabigor",
+        "social": ["https://twitter.com/j3ssiejjj", "https://twitter.com/OsmedeusEngine"],
         "description": "Metabigor is Intelligence tool, its goal is to do OSINT tasks and more but without any API key.",
         "link": "https://github.com/j3ssie/metabigor",
         "region": "GLOBAL",
@@ -376,6 +382,7 @@
     },
     {
         "title": "McKinsey Insights",
+        "social": ["https://twitter.com/mckonfinance", "https://twitter.com/McKStrategy"],
         "description": "Critical trends and risks in the global economy",
         "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/mckinsey-global-economics-intelligence",
         "region": "GLOBAL",
@@ -390,6 +397,7 @@
     },
     {
         "title": "Quiver Quant",
+        "social": ["https://twitter.com/QuiverQuant"],
         "description": "Quiver scrapes alternative stock data from across the internet and aggregates it in a free, easy-to-use web dashboard. It allows retail investors to tap into the power of big data, and have access to actionable, easy to interpret data that hasn't already been dissected by Wall Street.",
         "link": "https://www.quiverquant.com",
         "region": "GLOBAL",
@@ -397,6 +405,7 @@
     },
     {
         "title": "MITRE ATT&CK",
+        "social": ["https://twitter.com/MITREattack"],
         "description": "MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.",
         "link": "https://attack.mitre.org",
         "region": "GLOBAL",
@@ -432,6 +441,7 @@
     },
     {
         "title": "0day Today",
+        "social": ["https://twitter.com/Inj3ct0r","https://www.facebook.com/Inj3ct0rs"],
         "description": "0day Today is the ultimate database of exploits and vulnerabilities and a great resource for vulnerability researchers and security professionals.",
         "link": "https://0day.today",
         "region": "GLOBAL",
@@ -439,6 +449,7 @@
     },
     {
         "title": "Rapid7 DB",
+        "social": ["https://twitter.com/Rapid7", "https://www.facebook.com/rapid7"],
         "description": "Technical details for over 180,000 vulnerabilities and 4,000 exploits are available for security professionals and researchers to review.",
         "link": "https://www.rapid7.com/db",
         "region": "GLOBAL",
@@ -446,6 +457,7 @@
     },
     {
         "title": "Sploitus",
+        "social": ["https://twitter.com/sploitus_com"],
         "description": "Sploitus is a convenient central place for identifying the newest exploits and finding attacks that exploit known vulnerabilities. The search engine is also a good resource for finding security and vulnerability discovery tools.",
         "link": "https://sploitus.com",
         "region": "GLOBAL",
@@ -453,6 +465,7 @@
     },
     {
         "title": "TOR Link",
+        "social": ["https://twitter.com/TorDotLink", "https://www.facebook.com/tordotlink"],
         "description": "Free anonymous deepweb / darknet search engine",
         "link": "https://tor.link",
         "region": "GLOBAL",
@@ -482,6 +495,7 @@
     },
     {
         "title": "ThreatMiner",
+        "social": ["https://twitter.com/ThreatMiner"],
         "description": "ThreatMiner is a threat intelligence portal that provides information on indicators of compromise (IOC) such as domains, IP address, malware samples (MD5, SHA1 and SHA256), SSL certificates, WHOIS information and malicious URLs such as phishing and malware links.",
         "link": "https://www.threatminer.org",
         "region": "GLOBAL",
@@ -497,6 +511,7 @@
     },
     {
         "title": "PulseDive",
+        "social": ["https://twitter.com/pulsedive"],
         "description": "Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, URLs, domains and other IOCs from OSINT feeds or submit your own.",
         "link": "https://pulsedive.com",
         "region": "GLOBAL",
@@ -533,6 +548,7 @@
     },
     {
         "title": "DNS Twister",
+        "social": ["https://twitter.com/dnstwister"],
         "description": "The anti-phishing domain name search engine and DNS monitoring service",
         "link": "https://dnstwister.report",
         "region": "GLOBAL",
@@ -540,6 +556,7 @@
     },
     {
         "title": "DNSdumpster",
+        "social": ["https://twitter.com/hackertarget"],
         "description": "DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.",
         "link": "https://dnsdumpster.com",
         "region": "GLOBAL",
@@ -561,7 +578,7 @@
     },
     {
         "title": "CovertAction",
-        "social": ["https://twitter.com/CovertActionMag"],
+        "social": ["https://twitter.com/CovertActionMag", "https://www.facebook.com/covertactionmagazine"],
         "description": "Exposing covert action since 1978.",
         "link": "https://covertactionmagazine.com",
         "region": "GLOBAL",
@@ -569,6 +586,7 @@
     },
     {
         "title": "Trellix Research",
+        "social": ["https://twitter.com/Trellix", "https://www.facebook.com/TeamTrellix/"],
         "description": "The latest cybersecurity trends, best practices, security vulnerabilities, and more from Trellix/Fireeye.",
         "link": "https://www.trellix.com/en-us/about/newsroom/stories/research.html",
         "region": "GLOBAL",
@@ -583,7 +601,7 @@
     },
     {
         "title": "Wikistrat",
-        "social": ["https://twitter.com/Wikistrat"],
+        "social": ["https://twitter.com/Wikistrat", "https://www.facebook.com/Wikistrat/"],
         "description": "Wikistrat is perfectly suited for collaborative analysis, strategic planning, and simulations, thanks to their ability to engage large crowds of experts to collaborate using their interactive online platform",
         "link": "https://www.wikistrat.com/blog",
         "region": "GLOBAL",
@@ -606,7 +624,7 @@
     },
     {
         "title": "WikiLeaks",
-        "social": ["https://twitter.com/wikileaks"],
+        "social": ["https://twitter.com/wikileaks", "https://www.facebook.com/wikileaks"],
         "description": "WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption. It has so far published more than 10 million documents and associated analyses.",
         "link": "https://wikileaks.org",
         "region": "GLOBAL",
@@ -614,6 +632,7 @@
     },
     {
         "title": "Talos Reports",
+        "social": ["https://twitter.com/talossecurity"], 
         "description": "Vulnerability Reports disclosed by CISCO Talos",
         "link": "https://talosintelligence.com/vulnerability_reports",
         "region": "GLOBAL",
@@ -668,6 +687,7 @@
     },
     {
         "title": "SPLC Hate Map",
+        "social": ["https://twitter.com/splcenter", "https://www.facebook.com/SPLCenter"],
         "description": "Each year since 1990, the SPLC has published an annual census of hate groups operating within the United States. The hate map, which depicts the groups' approximate locations, is the result of a year of monitoring by analysts and researchers and is typically published every January or February. It represents activity by hate groups during the previous year.",
         "link": "https://www.splcenter.org/hate-map",
         "region": "U.S.A.",
@@ -675,6 +695,7 @@
     },
     {
         "title": "ICSR",
+        "social": ["https://www.twitter.com/ICSR_Centre"],
         "description": "The International Centre for the Study of Radicalisation (ICSR) is a world-class and internationally acclaimed academic research centre based in the Department of War Studies at King's College London.",
         "link": "https://icsr.info",
         "region": "GLOBAL",
@@ -690,6 +711,7 @@
     },
     {
         "title": "START Publications",
+        "social": ["http://twitter.com/START_umd", "http://www.facebook.com/STARTConsortium/"],
         "description": "Publications from a consortium of researchers dedicated to improving the understanding of the human causes and consequences of terrorism.",
         "link": "https://www.start.umd.edu/publications",
         "region": "GLOBAL",
@@ -712,6 +734,7 @@
     },
     {
         "title": "Mapping Militants",
+        "social": ["https://twitter.com/FSIStanford", "https://www.facebook.com/StanfordFSI"],
         "description": "The Mapping Militants Project identifies patterns in the evolution of militant organizations in specified conflict theatres and provides representations of changing relationships among groups.",
         "link": "https://cisac.fsi.stanford.edu/mappingmilitants",
         "region": "GLOBAL",
@@ -719,6 +742,7 @@
     },
     {
         "title": "NCTC Guide",
+        "social": ["https://www.twitter.com/odnigov"],
         "description": "NCTC serves as the primary organization in the United States Government for analyzing and integrating information pertaining to international terrorism. This Guide focuses on the international terrorist organizations that are assessed to present the most serious threats to the United States.",
         "link": "https://www.dni.gov/nctc/index.html",
         "region": "U.S.A.",
@@ -726,7 +750,7 @@
     },
     {
         "title": "Sekurak",
-        "social": ["https://twitter.com/Sekurak"],
+        "social": ["https://twitter.com/Sekurak", "http://facebook.com/sekurak"],
         "description": "News, knowledge, tools, texts - everything related to IT security",
         "link": "https://sekurak.pl",
         "region": "GLOBAL",
@@ -734,7 +758,7 @@
     },
     {
         "title": "Critical Threats",
-        "social": ["https://twitter.com/criticalthreats"],
+        "social": ["https://twitter.com/criticalthreats", "https://www.facebook.com/criticalthreats"],
         "description": "Critical Threats' objective is to inform and educate policymakers, the intelligence and military communities, and all interested citizens who need to understand the nuance and scale of threats to America's security.",
         "link": "https://www.criticalthreats.org",
         "region": "GLOBAL",
@@ -749,6 +773,7 @@
     },
     {
         "title": "Arms Control",
+        "social": ["https://twitter.com/armscontrolnow", "https://www.facebook.com/armscontrol"],
         "description": "Working to eliminate the threats posed by the world's most dangerous weapons",
         "link": "https://www.armscontrol.org",
         "region": "GLOBAL",
@@ -756,6 +781,7 @@
     },
     {
         "title": "ReliefWeb",
+        "social": ["https://twitter.com/reliefweb", "https://www.facebook.com/reliefweb"],
         "description": "ReliefWeb is a humanitarian information service provided by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA)",
         "link": "https://reliefweb.int",
         "region": "GLOBAL",
@@ -763,6 +789,7 @@
     },
     {
         "title": "SIPRI",
+        "social": ["http://www.facebook.com/sipri.org"],
         "description": "Stockholm International Peace Research Institute (SIPRI) is an independent international institute dedicated to research into conflict, armaments, arms control and disarmament. Established in 1966, SIPRI provides data, analysis and recommendations, based on open sources.",
         "link": "https://www.sipri.org",
         "region": "GLOBAL",
@@ -770,7 +797,7 @@
     },
     {
         "title": "RUSI",
-        "social": ["https://twitter.com/RUSI_org"],
+        "social": ["https://twitter.com/RUSI_org", "https://www.facebook.com/RUSI.org"],
         "description": "The Royal United Services Institute (RUSI) is the world's oldest and the UK's leading defence and security think tank. Our mission is to inform, influence and enhance public debate to help build a safer and more stable world.",
         "link": "https://rusi.org",
         "region": "GLOBAL",
@@ -785,7 +812,7 @@
     },
     {
         "title": "Crisis Group",
-        "social": ["https://twitter.com/CrisisGroup"],
+        "social": ["https://twitter.com/CrisisGroup", "https://www.facebook.com/crisisgroup"],
         "description": "The International Crisis Group is an independent organisation working to prevent wars and shape policies that will build a more peaceful world. Crisis Group sounds the alarm to prevent deadly conflict.",
         "link": "https://www.crisisgroup.org",
         "region": "GLOBAL",
@@ -801,6 +828,7 @@
     },
     {
         "title": "CSIS",
+        "social": ["https://twitter.com/csis", "https://www.facebook.com/CSIS.org"],
         "description": "The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research organization dedicated to advancing practical ideas to address the world's greatest challenges. Its purpose is to define the future of national security.",
         "link": "https://www.csis.org",
         "region": "GLOBAL",
@@ -808,6 +836,7 @@
     },
     {
         "title": "Small Arms Survey",
+        "social": ["https://twitter.com/SmallArmsSurvey", "https://www.facebook.com/SmallArmsSurvey"],
         "description": "For over 20 years, the Small Arms Survey has provided impartial, evidence-based, and policy-relevant knowledge on all aspects of small arms and armed violence to governments, policymakers, researchers, and civil society.",
         "link": "https://www.smallarmssurvey.org",
         "region": "GLOBAL",
@@ -815,6 +844,7 @@
     },
     {
         "title": "PRIO",
+        "social": ["https://twitter.com/PRIOresearch", "https://www.facebook.com/PRIO.org"],
         "description": "The Peace Research Institute Oslo (PRIO) conducts research on the conditions for peaceful relations between states, groups and people.",
         "link": "https://www.prio.org",
         "region": "GLOBAL",
@@ -868,6 +898,7 @@
     },
     {
         "title": "FraudGuard",
+        "social": ["https://twitter.com/fraudguard_io"],
         "description": "FraudGuard is a service designed to provide an easy way to validate usage by continuously collecting and analyzing real-time internet traffic. Utilizing just a few simple API endpoints we make integration as simple as possible and return data such as: Risk Level, Threat Type, Geo Location, etc.",
         "link": "https://fraudguard.io",
         "region": "GLOBAL",
@@ -883,6 +914,7 @@
     },
     {
         "title": "Cyware Feeds",
+        "social": ["https://twitter.com/cywareco", "https://www.facebook.com/Cywareco/"],
         "description": "Free Cyware Threat Intelligence Feeds",
         "link": "https://cyware.com/community/ctix-feeds",
         "region": "GLOBAL",
@@ -890,6 +922,7 @@
     },
     {
         "title": "MalwareTech",
+        "social": ["https://twitter.com/MalwareTechBlog", "https://facebook.com/MalwareTech"],
         "description": "Cyber Security, Tech, Analysis.",
         "link": "https://malwaretech.com",
         "region": "GLOBAL",
