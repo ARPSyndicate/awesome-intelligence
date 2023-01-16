@@ -5,7 +5,7 @@
         "description": "CVE Exploits Search Utility",
         "link": "https://in.scanfactory.io/cvemon.html",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "Shodan",
@@ -151,7 +151,7 @@
         "description": "Default passwords for IoT devices and for web applications (for ex. MySQL and PostgreSQL admin panels)",
         "link": "https://github.com/many-passwords/many-passwords",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "BrandDB",
@@ -197,7 +197,7 @@
         "description": "The ultimate exploits/references finder",
         "link": "https://github.com/ARPSyndicate/xlocate",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "Public Intelligence",
@@ -333,7 +333,7 @@
         "description": "One place for all the default credentials",
         "link": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "PayloadAllTheThings",
@@ -341,7 +341,7 @@
         "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF.",
         "link": "https://github.com/swisskyrepo/PayloadsAllTheThings",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "HardwareAllTheThings",
@@ -349,7 +349,7 @@
         "description": "A list of useful payloads and bypasses for Hardware and IOT Security.",
         "link": "https://github.com/swisskyrepo/HardwareAllTheThings",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "Metabigor",
@@ -424,7 +424,7 @@
         "description": "The wonderland of JavaScript unexpected usages, and more.",
         "link": "http://www.xss-payloads.com",
         "region": "GLOBAL",
-        "tags": "exploit"
+        "tags": "exploit,vulnerability"
     },
     {
         "title": "LOLBAS",
@@ -652,7 +652,7 @@
         "description": "Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs. 600+ sites Supported! Largest Reverse User Search Online!",
         "link": "https://usersearch.org",
         "region": "GLOBAL",
-        "tags": "social"
+        "tags": "social,individual"
     },
     {
         "title": "Domlock",
@@ -763,7 +763,7 @@
         "description": "Critical Threats' objective is to inform and educate policymakers, the intelligence and military communities, and all interested citizens who need to understand the nuance and scale of threats to America's security.",
         "link": "https://www.criticalthreats.org",
         "region": "GLOBAL",
-        "tags": "geopolitcs,terrorism"
+        "tags": "geopolitics,terrorism"
     },
     {
         "title": "NTI",
@@ -1004,6 +1004,62 @@
         "description": "Set up in 1990, Observer Research Foundation (ORF) seeks to lead and aid policy thinking towards building a strong and prosperous India in a fair and equitable world. It helps discover and inform India's choices, and carries Indian voices and ideas to forums shaping global debates. ORF provides non-partisan, independent analyses and inputs on matters of security, strategy, economy, development, energy, resources and global governance to diverse decision-makers (governments, business communities, academia, civil society). ORF's mandate is to conduct in-depth research, provide inclusive platforms and invest in tomorrow's thought leaders today.",
         "link": "https://www.orfonline.org",
         "region": "GLOBAL",
-        "tags": "geopolitcs,terrorism,economics"
+        "tags": "geopolitics,terrorism,economics"
+    },
+    {
+        "title": "Verdict Network",
+        "social": ["https://twitter.com/VerdictUK","https://www.facebook.com/globaldataplc","https://www.linkedin.com/company/globaldataplc"],
+        "description": "Publications in the Verdict network cover multi-sector business and innovation news with speed, accuracy and intelligence.",
+        "link": "https://www.verdict.co.uk/verdict-network/",
+        "region": "GLOBAL",
+        "tags": "geopolitics,economics"
+    },
+    {
+        "title": "Watcher Guru",
+        "social": ["https://twitter.com/watcherguru", "https://instagram.com/watcher.guru", "https://youtube.com/c/watcherguru", "https://t.me/watcherguru"],
+        "description": "Watcher Guru gives you unparalleled coverage of automated cryptocurrency tracking in real-time.",
+        "link": "https://watcher.guru",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Safe Air Space",
+        "social": ["https://twitter.com/_opsgroup", "https://www.facebook.com/weareopsgroup"],
+        "description": "The Conflict Zone & Risk Database provides a single, independent, and eternally free resource for all airspace risk warnings, so that airlines and aircraft operators can easily see the current risk picture for unfamiliar airspace.",
+        "link": "https://safeairspace.net",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "CryptoQuant",
+        "social": ["https://t.me/cryptoquant_official", "https://twitter.com/cryptoquant_com"],
+        "description": "Track daily Bitcoin overview, on-chain data analytics, price, statistics, derivatives, dex trades, charts and trending articles etc.",
+        "link": "https://cryptoquant.com",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "AntiChat",
+        "social": ["https://www.facebook.com/AntichatCom", "https://twitter.com/antichatru", "https://youtube.com/antichat", "https://t.me/antichat"],
+        "description": "Online community where people discuss computer vulnerabilities, hacks, and cybersecurity news.",
+        "link": "https://forum.antichat.com",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability,breach"
+    },
+    {
+        "title": "Global Detention Project",
+        "social": ["https://twitter.com/migradetention", "https://www.facebook.com/globaldetentionproject", "https://linkedin.com/company/global-detention-project"],
+        "description": "The World's leading research centre for immigration detention as response to migration and refugee movements; promoting respect for the rights of detainees.",
+        "link": "https://www.globaldetentionproject.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "ICIJ Offshore Leaks",
+        "social": ["https://www.linkedin.com/company/1732242/", "https://twitter.com/ICIJorg", "https://instagram.com/icijorg"],
+        "description": "Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.",
+        "link": "https://offshoreleaks.icij.org",
+        "region": "GLOBAL",
+        "tags": "breach,geopolitics,company,individual"
     }
 ]
