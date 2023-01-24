@@ -1,11 +1,27 @@
 [
     {
         "title": "CVEMON",
-        "social": ["https://twitter.com/scanfactory_io"],
+        "social": ["https://twitter.com/scanfactory_io", "https://www.linkedin.com/company/scanfactory-io"],
         "description": "CVE Exploits Search Utility",
         "link": "https://in.scanfactory.io/cvemon.html",
         "region": "GLOBAL",
         "tags": "exploit,vulnerability"
+    },
+    {
+        "title": "Scanny",
+        "social": ["https://t.me/scanfactorybot", "https://twitter.com/scanfactory_io", "https://www.linkedin.com/company/scanfactory-io"],
+        "description": "Vulnerability Scanning for Businesses & Security Researchers. Scanny will identify potential security risks and provide a brief report summarizing the overall security posture of an external network infrastructure.",
+        "link": "https://in.scanfactory.io/free-vulnerability-scanning.html",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability,network,web,image"
+    },
+    {
+        "title": "BBR Dataset",
+        "social": ["https://twitter.com/scanfactory_io", "https://www.linkedin.com/company/scanfactory-io/"],
+        "description": "Recon data for public bug bounty programs.",
+        "link": "https://mega.nz/folder/KXJyQKSA#pRHtZzEO4mxqKDgfzNK8iA",
+        "region": "GLOBAL",
+        "tags": "network,web"
     },
     {
         "title": "Shodan",
@@ -14,6 +30,28 @@
         "link": "https://shodan.io",
         "region": "GLOBAL",
         "tags": "web,network,vulnerability,image"
+    },
+    {
+        "title": "ZieTRAD Forecast",
+        "description": "Stock, Crypto, Commodity, Index & Currency Forecasts.",
+        "link": "https://forecast.zietrad.app",
+        "region": "GLOBAL",
+        "tags": "stocks,crypto,economics"
+    },
+    {
+        "title": "ZieTRAD Trends",
+        "description": "Popular Trends from the Global Markets.",
+        "link": "https://trends.zietrad.app",
+        "region": "GLOBAL",
+        "tags": "stocks,crypto,economics"
+    },
+    {
+        "title": "Chaos Dataset",
+        "social": ["https://twitter.com/pdiscoveryio"],
+        "description": "This project is meant to enhance research and analyse changes around DNS for better insights.",
+        "link": "https://chaos.projectdiscovery.io",
+        "region": "GLOBAL",
+        "tags": "network"
     },
     {
         "title": "Censys Search",
@@ -93,22 +131,6 @@
         "link": "https://analyze.intezer.com",
         "region": "GLOBAL",
         "tags": "malware"
-    },
-    {
-        "title": "Chaos Dataset",
-        "social": ["https://twitter.com/pdiscoveryio"],
-        "description": "This project is meant to enhance research and analyse changes around DNS for better insights.",
-        "link": "https://chaos.projectdiscovery.io",
-        "region": "GLOBAL",
-        "tags": "network"
-    },
-    {
-        "title": "BBR Dataset",
-        "social": ["https://twitter.com/scanfactory_io"],
-        "description": "Recon data for public bug bounty programs.",
-        "link": "https://mega.nz/folder/KXJyQKSA#pRHtZzEO4mxqKDgfzNK8iA",
-        "region": "GLOBAL",
-        "tags": "network,web"
     },
     {
         "title": "Arkham Intelligence",
@@ -1131,5 +1153,13 @@
         "link": "https://gsdn.live",
         "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "HuggingFace",
+        "social": ["https://github.com/huggingface"],
+        "description": "The AI community building the future. Build, train and deploy state of the art models powered by the reference open source in machine learning.",
+        "link": "https://huggingface.co",
+        "region": "GLOBAL",
+        "tags": "artificial-intelligence"
     }
 ]
