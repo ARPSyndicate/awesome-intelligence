@@ -372,7 +372,7 @@
         "description": "Benjamin Strick creates digital research tutorials and videos for this web generation on Open Source Intelligence (OSINT), digital research, geolocation and curious bytes so that no matter who you are, or where you are in the world, you can learn how to identify, verify and analyse information online.",
         "link": "https://benjaminstrick.com",
         "region": "GLOBAL",
-        "tags": "social,network,crypto,geopolitics,web,tor"
+        "tags": "individual"
     },
     {
         "title": "Counter Extremism",
@@ -652,7 +652,7 @@
         "description": "Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs. 600+ sites Supported! Largest Reverse User Search Online!",
         "link": "https://usersearch.org",
         "region": "GLOBAL",
-        "tags": "social,individual"
+        "tags": "social"
     },
     {
         "title": "Domlock",
@@ -927,7 +927,7 @@
         "description": "Cyber Security, Tech, Analysis.",
         "link": "https://malwaretech.com",
         "region": "GLOBAL",
-        "tags": "malware,exploit,vulnerability"
+        "tags": "individual,malware,exploit,vulnerability"
     },
     {
         "title": "OpenPhish",
@@ -1060,6 +1060,76 @@
         "description": "Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.",
         "link": "https://offshoreleaks.icij.org",
         "region": "GLOBAL",
-        "tags": "breach,geopolitics,company,individual"
+        "tags": "breach,geopolitics,company"
+    },
+    {
+        "title": "ThreatView",
+        "description": "Actionable cyber threat intelligence feeds.",
+        "link": "https://threatview.io",
+        "region": "GLOBAL",
+        "tags": "malware,phishing"
+    },
+    {
+        "title": "Domains Index",
+        "description": "Domains Index is domain names database updated regularly - gTLD, ccTLD, and newgTLDs, everything in one place.",
+        "link": "https://domains-index.com",
+        "region": "GLOBAL",
+        "tags": "network"
+    },
+    {
+        "title": "Cyber Detective",
+        "social": ["https://twitter.com/cyb_detective", "https://github.com/cipher387", "https://t.me/cybdetective"],
+        "description": "Cyber Detective writes about OSINT tools and techniques.",
+        "link": "https://cybdetective.substack.com",
+        "region": "GLOBAL",
+        "tags": "individual"
+    },
+    {
+        "title": "TheresAnAIForThat",
+        "social": ["https://twitter.com/imakecoolsites"],
+        "description": "Comprehensive database of AIs available for every task. Find the best AI for your task.",
+        "link": "https://theresanaiforthat.com",
+        "region": "GLOBAL",
+        "tags": "individual,artificial-intelligence"
+    },
+    {
+        "title": "Curated Intel",
+        "social": ["https://github.com/curated-intel", "https://twitter.com/CuratedIntel"],
+        "description": "Bringing together intelligence researchers and incident responders.",
+        "link": "https://www.curatedintel.org",
+        "region": "GLOBAL",
+        "tags": "phishing,vulnerability,breach,malware"
+    },
+    {
+        "title": "Offensive OSINT",
+        "social": ["https://twitter.com/the_wojciech", "https://github.com/woj-ciech"],
+        "description": "Offensive OSINT is a project by Wojciech, an experienced Systems Engineer, Pentester, Security Analyst and OSINT researcher.",
+        "link": "https://www.offensiveosint.io",
+        "region": "GLOBAL",
+        "tags": "individual"
+    },
+    {
+        "title": "Pew Research",
+        "social": ["https://twitter.com/pewresearch", "https://www.facebook.com/pewresearch/", "https://www.youtube.com/user/PewResearchCenter"],
+        "description": "Pew Research Center is a nonpartisan fact tank that informs the public about the issues, attitudes and trends shaping the world. It conducts public opinion polling, demographic research, media content analysis and other empirical social science research. Pew Research Center does not take policy positions.",
+        "link": "https://www.pewresearch.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "ACLED",
+        "social": ["https://twitter.com/ACLEDINFO", "https://www.linkedin.com/company/acleddata", "https://www.facebook.com/ACLEDINFO"],
+        "description": "The Armed Conflict Location & Event Data Project (ACLED) collects real-time data on the locations, dates, actors, fatalities, and types of all reported political violence and protest events around the world. ACLED is the highest quality and most widely used real-time data and analysis source on political violence and protest around the world. Practitioners, researchers, journalists, and governments depend on ACLED for the latest reliable information on current conflict and disorder patterns.",
+        "link": "https://acleddata.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "GSDN",
+        "social": ["https://www.facebook.com/profile.php?id=100087188602320", "https://www.instagram.com/globalstrategicdefence", "https://www.linkedin.com/in/global-strategic-defence-news-367aa6255", "https://www.youtube.com/channel/UCOfm22cokj70NPpsaQJ952g", "https://twitter.com/gsdnlive"],
+        "description": "Global Strategic and Defence News (GSDN) is a forum to provide accurate analysis on geopolitical and defence issues that concern the world at large.",
+        "link": "https://gsdn.live",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
     }
 ]
