@@ -40,7 +40,7 @@
     },
     {
         "title": "ZieTRAD Trends",
-        "description": "Popular Trends from the Global Markets.",
+        "description": "Popular Trends based on the News of Global Markets.",
         "link": "https://trends.zietrad.app",
         "region": "GLOBAL",
         "tags": "stocks,crypto,economics"
@@ -1161,5 +1161,193 @@
         "link": "https://huggingface.co",
         "region": "GLOBAL",
         "tags": "artificial-intelligence"
+    },
+    {
+        "title": "Million Short",
+        "social": ["http://facebook.com/millionshort", "https://twitter.com/millionshort", "https://www.youtube.com/user/millionshort"],
+        "description": "Million Short started out as an experimental web search engine that allows you to filter and refine your search results set. The thinking was that web searches yield the same popular sites. Million Short makes it easy to discover sites that just don't make it to the top of the search engine results for whatever reason - whether it be poor SEO, new site, small marketing budget, or competitive keywords. The Million Short technology gives users access to the wealth of untapped information on the web.",
+        "link": "https://millionshort.com",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "Effect Group",
+        "social": ["https://www.facebook.com/EffectGroupOS","https://twitter.com/EffectGroupOS","https://www.youtube.com/channel/UCDwzl8Il0UB3EwejZ7XUZHQ","https://www.linkedin.com/company/effectgroupos"],
+        "description": "Effect Group is a project formed by Cyber Security Specialists, Cyber Researchers and Programmers, which arises in response to the need of reduce time and resources involved in Information Gathering and re-allocate them in Research and Strategic Planning Processes. Our mission is focused on offering a Service that allows Analysts / Organizations to access, from a single place, all the necessary information to have a solid and reliable starting point in their investigations.",
+        "link": "https://effectgroup.io",
+        "region": "GLOBAL",
+        "tags": "web,geopolitics,breach,network,company"
+    },
+    {
+        "title": "Effect International",
+        "description": "Explore Data on over 170 million companies across 200 countries. Find Business information for Corporate Risk, B2B Marketing and Sales.",
+        "link": "https://effect.international",
+        "region": "GLOBAL",
+        "tags": "company"
+    },
+    {
+        "title": "Smith+Crown",
+        "social": [" https://twitter.com/smithandcrown"],
+        "description": "Understanding how businesses, economies, and social systems will function in the near future requires knowledge of cryptoeconomic systems' potential and limits. Smith + Crown is the world's leading blockchain research group, providing free industry intelligence and analysis on key networks and topics.",
+        "link": " https://smithandcrown.com/research",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Morning Brew",
+        "social": ["https://twitter.com/MorningBrew","https://www.linkedin.com/company/the-morning-brew","https://www.facebook.com/MorningBrew","https://www.youtube.com/channel/UC_-hYjoNe4PJNFa9iZ4lraA","https://www.instagram.com/morningbrew"],
+        "description": "The daily email newsletter covering the latest news from Wall St. to Silicon Valley. Informative, witty, and everything you need to start your day.",
+        "link": "https://www.morningbrew.com",
+        "region": "GLOBAL",
+        "tags": "economics,geopolitics,crypto,stocks"
+    },
+    {
+        "title": "CPRS",
+        "description": "Copyright Public Records System (CPRS) is powerful search engine that provides easy filtering capability, and follows user-centered design principles in line with the Enterprise Copyright System. In addition to information that appears in the official Copyright Public Catalog, CPRS now also includes images and searchable metadata from an initial release of Card Catalog registration applications from the 1938-1945 period.",
+        "link": "https://publicrecords.copyright.gov",
+        "region": "GLOBAL",
+        "tags": "company"
+    },
+    {
+        "title": "TrendsMap",
+        "social": ["https://twitter.com/trendsmap"],
+        "description": "Analyse any topic globally or by region in detail. Create unique map based visualisations showing tweet activity across a country, a region, or the world. Our powerful querying and filtering tools allows you to focus on your particular area of interest.",
+        "link": "https://www.trendsmap.com",
+        "region": "GLOBAL",
+        "tags": "social"
+    },
+    {
+        "title": "AIDR",
+        "description": "Artificial Intelligence for Digital Response (AIDR) is a free and open platform to filter and classify social media messages related to emergencies, disasters, and humanitarian crises. AIDR uses human and machine intelligence to automatically tag up to thousands of messages per minute.",
+        "link": "http://aidr.qcri.org",
+        "region": "GLOBAL",
+        "tags": "artificial-intelligence"
+    },
+    {
+        "title": "ZoomEye",
+        "description": "ZoomEye is China's first and also the world's famous cyberspace search engine. Through the accumulated large amount of surveying and mapping data for trend analysis, it finally realizes the dynamic cyberspace surveying and mapping image across time and space.",
+        "link": "https://www.zoomeye.org",
+        "region": "GLOBAL",
+        "tags": "web,network,vulnerability,image"
+    },
+    {
+        "title": "SimilarSiteSearch",
+        "description": "SimilarSiteSearch helps you find similar, related, or alternative websites.",
+        "link": "https://www.similarsitesearch.com",
+        "region": "GLOBAL",
+        "tags": "web,image"
+    },
+    {
+        "title": "AccountAnalysis",
+        "social": ["https://www.twitter.com/accountanalysis"],
+        "description": "This tool enables you to evaluate Twitter accounts. For example how automated they are, how many Retweets they post, or which websites they link to most often.",
+        "link": "https://accountanalysis.app",
+        "region": "GLOBAL",
+        "tags": "social"
+    },
+    {
+        "title": "FindSimilarSites",
+        "description": "FindSimilarSites helps you to discover similar and related websites for a given website. Based on a deep keyword analysis FindSimilarSites calculates the most similar websites according to the keywords and topics of a specific website. Just type in a domain name in the search field and start exploring new sites and alternatives.",
+        "link": "http://www.findsimilarsites.com",
+        "region": "GLOBAL",
+        "tags": "web,image"
+    },
+    {
+        "title": "Webometric Analyst",
+        "description": "Webometric Analyst is a free Windows-based program for altmetrics, citation analysis, social web analysis and webometrics, including link analysis. It downloads data from the web through APIs or directly and includes a wide range of text and citation processing options.",
+        "link": "http://lexiurl.wlv.ac.uk",
+        "region": "GLOBAL",
+        "tags": "social,web"
+    },
+    {
+        "title": "MiddleEastEye",
+        "social": ["https://www.facebook.com/MiddleEastEye", "https://www.twitter.com/MiddleEastEye", "https://www.instagram.com/middleeasteye", "https://www.youtube.com/MiddleEastEye"],
+        "description": "Founded in April 2014, Middle East Eye is an independently funded digital news organisation covering stories from the Middle East and North Africa, as well as related content from beyond the region. Its unique coverage offers on-the-ground news, comment and analysis that brings local viewpoints to the fore. Reporters are encouraged to read between the lines and take stories one step further rather than simply follow the official narrative.",
+        "link": "https://www.middleeasteye.net",
+        "region": "MENA",
+        "tags": "terrorism,geopolitics"
+    },
+    {
+        "title": "SwissCows",
+        "social": ["https://www.facebook.com/swisscows","https://www.instagram.com/swisscows.official","https://www.linkedin.com/company/swisscows","https://twitter.com/swisscows_ch"],
+        "description": "Swisscows is an anonymous search engine protects the privacy of our users when searching and from inappropriate content when finding it.",
+        "link": "https://swisscows.com",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "SearX",
+        "social": ["https://github.com/searx", "https://twitter.com/Searx_engine"],
+        "description": "Searx is a metasearch engine, aggregating the results of other search engines while not storing information about its users.",
+        "link": "https://searx.info",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "GigaBlast",
+        "description": "A powerful, new search engine that does real-time indexing.",
+        "link": "https://www.gigablast.com",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "ICSVE",
+        "social": ["https://twitter.com/icsve","https://www.facebook.com/icsve.org","https://www.youtube.com/ICSVE"],
+        "description": "Founded in 2015, the International Center for the Study of Violent Extremism (ICSVE) provides research, training, and strategic advice to government leaders, intelligence, defense, international organizations, police and civilian communities worldwide to prevent and deter the threat of violent extremism in the core areas such as capacity building and programmatic support, countering extremist narrative, alternative narrative, developing community resilience, managing intervention activities, and training.",
+        "link": "https://www.icsve.org",
+        "region": "GLOBAL",
+        "tags": "terrorism,geopolitics"
+    },
+    {
+        "title": "TSAS",
+        "social": ["https://twitter.com/TSASNetwork"],
+        "description": "The Canadian Network for Research on Terrorism, Security and Society (TSAS) engages more than 280 affiliates to conduct policy-relevant research on the threat of terrorism, security responses to terrorism, and the impact of both terrorism and securitization on Canadian society.",
+        "link": "https://www.tsas.ca",
+        "region": "GLOBAL",
+        "tags": "terrorism,geopolitics"
+    },
+    {
+        "title": "JihadIntel",
+        "description": "Vital Intelligence on Designated Islamic Terrorist Organizations",
+        "link": "https://jihadintel.meforum.org",
+        "region": "GLOBAL",
+        "tags": "terrorism"
+    }, 
+    {
+        "title": "PrivateSH",
+        "description": "The search engine that cryptographically protects your privacy",
+        "link": "https://private.sh",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "Jihadology",
+        "description": "A clearinghouse for jihādī primary source material, original analysis, and translation service.",
+        "link": "https://jihadology.net",
+        "region": "GLOBAL",
+        "tags": "terrorism"
+    },
+    {
+        "title": "DNSlytics",
+        "description": "Find out everything about a domain name, IP address or provider. Discover relations between them and see historical data. Use it for your digital investigation, fraud prevention or brand protection.",
+        "link": "https://dnslytics.com",
+        "region": "GLOBAL",
+        "tags": "network"
+    },
+    {
+        "title": "Visualping",
+        "social": ["https://twitter.com/visualping","https://www.linkedin.com/company/9480446","https://www.youtube.com/channel/UCgyjvEr5OWQ10DR82_HWgjg","https://www.facebook.com/visualping.io"],
+        "description": "More than 1.5 millions users monitor changes in websites with Visualping, The No. 1 website change detection, website checker, webpage change monitoring and webpage change detection tool.",
+        "link": "https://visualping.io",
+        "region": "GLOBAL",
+        "tags": "web,image"
+    },
+    {
+        "title": "Carrot2",
+        "social": ["https://github.com/carrot2"],
+        "description": "Carrot2 organizes your search results into topics. With an instant overview of what's available, you will quickly find what you're looking for.",
+        "link": "https://search.carrot2.org",
+        "region": "GLOBAL",
+        "tags": "web"
     }
 ]
