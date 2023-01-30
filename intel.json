@@ -1186,10 +1186,10 @@
         "tags": "company"
     },
     {
-        "title": "Smith+Crown",
-        "social": [" https://twitter.com/smithandcrown"],
+        "title": "Smith & Crown",
+        "social": ["https://twitter.com/smithandcrown"],
         "description": "Understanding how businesses, economies, and social systems will function in the near future requires knowledge of cryptoeconomic systems' potential and limits. Smith + Crown is the world's leading blockchain research group, providing free industry intelligence and analysis on key networks and topics.",
-        "link": " https://smithandcrown.com/research",
+        "link": "https://smithandcrown.com/research",
         "region": "GLOBAL",
         "tags": "crypto"
     },
