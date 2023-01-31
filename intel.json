@@ -1349,5 +1349,77 @@
         "link": "https://search.carrot2.org",
         "region": "GLOBAL",
         "tags": "web"
+    },
+    {
+        "title": "Stocktwits",
+        "social": ["https://www.instagram.com/stocktwits","https://twitter.com/stocktwits", "https://facebook.com/stocktwits"],
+        "description": "Stocktwits is the largest social network for investors and traders.",
+        "link": "https://stocktwits.com",
+        "region": "GLOBAL",
+        "tags": "stocks"
+    },
+    {
+        "title": "Middle East Monitor",
+        "social": ["https://www.facebook.com/middleeastmonitor", "https://www.twitter.com/middleeastmnt", "https://www.youtube.com/channel/UCJX8Wn6opMsBng3QWh0dK6g", "https://www.instagram.com/middleeastmonitor"],
+        "description": "The use or misuse of information is central to the conflict in the Middle East. There has been a growing need for supporters of, in particular, the Palestinian cause, to master the art of information gathering, analysis and dissemination. This requires well organised, focused and targeted operations. Such initiatives are virtually non-existent in the West today. The Middle East Monitor (MEMO) was established to fill this gap. While there are several outstanding media monitoring networks online, their main activity is invariably confined to exposing the flaws in existing coverages. We go one step further; reaching out to opinion-makers and decision-makers in a deliberate, organised and sustained manner.",
+        "link": "https://www.middleeastmonitor.com",
+        "region": "MENA",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "HRW",
+        "social": ["https://twitter.com/hrw", "https://www.facebook.com/HumanRightsWatch", "https://www.youtube.com/user/HumanRightsWatch", "https://www.instagram.com/humanrightswatch"],
+        "description": "Human Rights Watch defends the rights of people in 100 countries worldwide, spotlighting abuses and bringing perpetrators to justice.",
+        "link": "https://www.hrw.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "SeekingAlpha",
+        "social": ["https://www.facebook.com/Seekingalpha","https://www.linkedin.com/company/56547","https://www.instagram.com/seekingalpha/","https://www.youtube.com/channel/UC9ZGkLwawKeG5C0Dt9FS-lQ","https://twitter.com/SeekingAlpha"],
+        "description": "Seeking Alpha, the largest investing community in the world. Get stock market news and analysis, investing ideas, earnings calls, charts and portfolio analysis tools.",
+        "link": "https://seekingalpha.com",
+        "region": "GLOBAL",
+        "tags": "stocks"
+    },
+    {
+        "title": "Hindenburg Research",
+        "social": ["https://twitter.com/hindenburgres", "https://twitter.com/ClarityToast"],
+        "description": "Founded by Nate Anderson, CFA, CAIA, Hindenburg Research specializes in forensic financial research. Our experience in the investment management industry spans decades, with a historical focus on equity, credit, and derivatives analysis.",
+        "link": "https://hindenburgresearch.com",
+        "region": "GLOBAL",
+        "tags": "economics,stocks"
+    },
+    {
+        "title": "Regional Economic Outlook",
+        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728/","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf/","http://www.youtube.com/imf"],
+        "description": "Regional Economic Outlook discuss recent economic developments and prospects for countries in various regions. They also address economic policy developments that have affected economic performance in the regions, and discuss key challenges faced by policymakers. They address regional policy developments and challenges, and provide country-specific data and analysis, including through analytical pieces on issues of interest to a particular region.",
+        "link": "https://www.imf.org/en/Publications/REO",
+        "region": "GLOBAL",
+        "tags": "economics"
+    },
+    {
+        "title": "Fiscal Monitor",
+        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728/","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf/","http://www.youtube.com/imf"],
+        "description": "As the global economy faces increasing fiscal challenges, multilateral surveillance of fiscal developments has become an important part of the IMF's surveillance responsibilities. The Fiscal Monitor series provides an overview of latest public finance developments, updates the medium-term fiscal outlook, and assesses fiscal implications of policies relevant to the global economy. The Fiscal Monitor is prepared twice a year by the IMF's Fiscal Affairs Department. Its projections are based on the same database used for the World Economic Outlook (WEO) and the Global Financial Stability Report (GFSR). The fiscal projections for individual countries have been prepared by IMF desk economists, and, in line with the WEO guidelines.",
+        "link": "https://www.imf.org/en/Publications/FM",
+        "region": "GLOBAL",
+        "tags": "economics"
+    },
+    {
+        "title": "GFSR",
+        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728/","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf/","http://www.youtube.com/imf"],
+        "description": "The Global Financial Stability Report provides an assessment of the global financial system and markets, and addresses emerging market financing in a global context. It focuses on current market conditions, highlighting systemic issues that could pose a risk to financial stability and sustained market access by emerging market borrowers. The Report draws out the financial ramifications of economic imbalances highlighted by the IMF's World Economic Outlook. It contains, as special features, analytical chapters or essays on structural or systemic issues relevant to international financial stability.",
+        "link": "https://www.imf.org/en/Publications/GFSR",
+        "region": "GLOBAL",
+        "tags": "economics"
+    },
+    {
+        "title": "World Economic Outlook",
+        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728/","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf/","http://www.youtube.com/imf"],
+        "description": "A Survey by the IMF staff usually published twice a year. It presents IMF staff economists' analyses of global economic developments during the near and medium term. Chapters give an overview as well as more detailed analysis of the world economy; consider issues affecting industrial countries, developing countries, and economies in transition to market; and address topics of pressing current interest.",
+        "link": "https://www.imf.org/en/Publications/WEO",
+        "region": "GLOBAL",
+        "tags": "economics"
     }
 ]
