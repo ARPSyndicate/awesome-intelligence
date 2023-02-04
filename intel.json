@@ -1421,5 +1421,112 @@
         "link": "https://www.imf.org/en/Publications/WEO",
         "region": "GLOBAL",
         "tags": "economics"
+    },
+    {
+        "title": "SITE",
+        "description": "SITE Intelligence Group has provided governments and institutions worldwide with verified, actionable intelligence and analysis on designated terrorist and violent extremist groups. The multi-lingual staff at SITE has years of experience in the research and analysis of terrorist networks, from jihadists to far-right and far-left extremists: monitoring propaganda, studying trends within online communities, tracking events, and breaking down how these networks operate on the Internet.",
+        "link": "https://ent.siteintelgroup.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "Educate Against Hate",
+        "social": ["https://www.facebook.com/Educate-Against-Hate-880079592113682","https://twitter.com/EducateAgainst","https://www.youtube.com/channel/UChu2N6XCzeofkq0v5WyfKGg"],
+        "description": "The purpose of this website is to provide practical advice, support and resources to protect children from extremism and radicalisation.",
+        "link": "https://educateagainsthate.com",
+        "region": "GLOBAL",
+        "tags": "terrorism"
+    },
+    {
+        "title": "GNET Research",
+        "social": ["https://www.twitter.com/GNET_research","https://www.facebook.com/Global-Network-on-Extremism-and-Technology-GNET-101981374670687"],
+        "description": "The Global Network on Extremism and Technology (GNET) is the academic research arm of the Global Internet Forum to Counter Terrorism (GIFCT) and aims to better understand the ways in which terrorists use technology.",
+        "link": "https://gnet-research.org",
+        "region": "GLOBAL",
+        "tags": "terrorism"
+    },
+    {
+        "title": "ECFR",
+        "social": ["https://twitter.com/ecfr","https://www.facebook.com/ECFRthinktank","https://www.youtube.com/c/ECFRTV","https://www.linkedin.com/company/european-council-on-foreign-relations"],
+        "description": "The European Council on Foreign Relations (ECFR) is an award-winning international think-tank that aims to conduct cutting-edge independent research on European foreign and security policy and to provide a safe meeting space for decision-makers, activists and influencers to share ideas. We build coalitions for change at the European level and promote informed debate about Europe's role in the world.",
+        "link": "https://ecfr.eu",
+        "region": "GLOBAL",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "SATP",
+        "social": ["https://www.facebook.com/satporg","https://twitter.com/satporg","https://www.linkedin.com/in/icm-satp-530a1a13b"],
+        "description": "South Asia Terrorism Portal (SATP) is the largest website on terrorism and low intensity warfare in South Asia, and creates the database and analytic context for research and analysis of all extremist movements in the region.",
+        "link": "https://www.satp.org",
+        "region": "SOUTH ASIA",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "BDI",
+        "description": "The Bridging Divides Initiative (BDI) is a non-partisan research initiative that tracks and mitigates political violence in the United States. It also created non-public map as a resource to view and track contentious demonstrations, counter-protests, and militia-related, armed, and other vigilante activity across the US..",
+        "link": "https://bridgingdivides.princeton.edu",
+        "region": "U.S.A.",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "RiskMap",
+        "description": "RiskMap provides industry-leading security threat analysis with fast, accurate data. Sourcing data from global media and social channels, our intelligence engine continuously monitors thousands of sources in multiple languages. We filter out the noise and extract useful information to provide accurate intelligence insights.",
+        "link": "https://www.riskmap.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "SanctionsMap",
+        "social": ["https://twitter.com/EUSanctionsMap"],
+        "description": "The EU Sanctions Map provides information on restrictive measures (sanctions) adopted by the European Union - either to transpose measures imposed by the United Nations Security Council or autonomously. The EU Sanctions Map does not provide information on national sanctions of the EU Member States or any other sanctions imposed by third states.",
+        "link": "https://sanctionsmap.eu",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "Bellingcat",
+        "description": "Bellingcat is an independent international collective of researchers, investigators and citizen journalists using open source and social media investigation to probe a variety of subjects - from Mexican drug lords and crimes against humanity, to tracking the use of chemical weapons and conflicts worldwide.",
+        "link": "https://www.bellingcat.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "ORKL",
+        "social": ["https://twitter.com/orkleu","https://github.com/ORKL"],
+        "description": "This project has been created to serve the needs of the international Cyber Threat Intelligence community for a library of their collective past achievements in the realm of CTI reporting. Over time, the goal is to collect a complete corpus of all publicly released CTI reports to be used as a reference in scientific research and CTI reporting.",
+        "link": "https://orkl.eu",
+        "region": "GLOBAL",
+        "tags": "phishing,malware"
+    },
+    {
+        "title": "How To Verify",
+        "description": "Learn about verification workflows and tools by exploring this interactive website. DW's team for the KID2 project has gathered its verification experience and insights from diverse sources in an interactive knowledge graph to share with you. Key sources for this knowledge graph are our colleague Julia Bayer, Sector035, Quiztime, Bellingcat, First Draft, The Verification Handbook and members of the OSINT community.",
+        "link": "https://www.howtoverify.info",
+        "region": "GLOBAL",
+        "tags": "image"
+    },
+    {
+        "title": "Solidity Scan",
+        "social": ["https://t.me/solidityscan","https://www.instagram.com/solidityscan","https://twitter.com/solidityscan"],
+        "description": "A highly secure and trusted Blockchain smart contract scan platform for swift and accurate security audit results, along with detailed reports at unbeatable pricing options to choose from.",
+        "link": "https://solidityscan.com",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability,crypto"
+    },
+    {
+        "title": "Invest Yadnya",
+        "social": ["https://facebook.com/investyadnya","https://www.linkedin.com/company/7970114","https://twitter.com/investyadnya","https://www.instagram.com/investyadnya","https://twitter.com/AdeParimal"],
+        "description": "Invest Yadnya is one of the best personal financial planning and advisory website which provides information on companies' stocks and share recommendations, fundamental analysis and much more.",
+        "link": "https://investyadnya.in",
+        "region": "INDIA",
+        "tags": "economics,stocks,individual"
+    },
+    {
+        "title": "ShrewdEye",
+        "social": ["https://github.com/zzzteph/sheye", "https://twitter.com/w34kp455"],
+        "description": "ShrewdEye is a set of utilities bundled into a single automated workflow to improve, simplify, and speed up resource discovery and vulnerabilities finding.",
+        "link": "https://shrewdeye.app",
+        "region": "GLOBAL",
+        "tags": "web,network,vulnerability"
     }
 ]
