@@ -234,7 +234,7 @@
         "description": "Strategic Intelligence News publishes intelligence reports, geopolitics, military intelligence, and crime reports analysis.",
         "link": "https://intelligencebriefs.com",
         "region": "GLOBAL",
-        "tags": "geopolitics,terrorism"
+        "tags": "geopolitics,terrorism,crimes"
     },
     {
         "title": "RAND Corporation",
@@ -730,7 +730,7 @@
         "description": "Militant Wire is a media company focused on providing independent analysis of militant activity and armed conflict around the world. Our global network of researchers produces expert insight on issues of political street violence, terrorism, insurgency, organized crime, irregular warfare, and more.",
         "link": "https://www.militantwire.com",
         "region": "GLOBAL",
-        "tags": "geopolitics,terrorism"
+        "tags": "geopolitics,terrorism,crimes"
     },
     {
         "title": "START Publications",
@@ -1488,7 +1488,7 @@
         "description": "Bellingcat is an independent international collective of researchers, investigators and citizen journalists using open source and social media investigation to probe a variety of subjects - from Mexican drug lords and crimes against humanity, to tracking the use of chemical weapons and conflicts worldwide.",
         "link": "https://www.bellingcat.com",
         "region": "GLOBAL",
-        "tags": "geopolitics,terrorism"
+        "tags": "geopolitics,terrorism,crimes"
     },
     {
         "title": "ORKL",
@@ -1528,5 +1528,345 @@
         "link": "https://shrewdeye.app",
         "region": "GLOBAL",
         "tags": "web,network,vulnerability"
+    },
+    {
+        "title": "LeakIX",
+        "social": ["https://twitter.com/leak_ix", "https://www.linkedin.com/company/leakix", "https://github.com/leakix"],
+        "description": "This project goes around the Internet and finds services to index them.",
+        "link": "https://leakix.net",
+        "region": "GLOBAL",
+        "tags": "web,network,vulnerability,breach"
+    },
+    {
+        "title": "FOFA",
+        "description": "FOFA is a cyberspace search engine that can help researchers or enterprises to quickly match network assets through cyberspace mapping, such as analysis of vulnerability impact range, application distribution statistics, application popularity ranking statistics, etc.",
+        "link": "https://fofa.info",
+        "region": "GLOBAL",
+        "tags": "web,network"
+    },
+    {
+        "title": "DorkSearch",
+        "description": "Automated Google Dorking with ChatGPT AI, speeding up for your searching, for free.",
+        "link": "https://dorksearch.com",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "SecurityTrails",
+        "social": ["https://www.linkedin.com/company/securitytrails", "https://twitter.com/securitytrails"],
+        "description": "SecurityTrails enables you to explore complete current and historical data for any internet assets. IP & DNS history, domain, SSL and Open Port intelligence made easy.",
+        "link": "https://securitytrails.com",
+        "region": "GLOBAL",
+        "tags": "web,network"
+    },
+    {
+        "title": "Dehashed",
+        "description": "DeHashed provides free deep-web scans and protection against credential leaks. A modern personal asset search engine created for security analysts, journalists, security companies, and everyday people to help secure accounts and provide insight on compromised assets. Free breach alerts & breach notifications.",
+        "link": "https://dehashed.com",
+        "region": "GLOBAL",
+        "tags": "breach"
+    },
+    {
+        "title": "GrepApp",
+        "description": "GrepApp searches code from over a half million public repositories on GitHub. It searches for the exact string you enter, including any punctuation or other characters. You can also search by regular expression, using the RE2 syntax.",
+        "link": "https://grep.app",
+        "region": "GLOBAL",
+        "tags": "code"
+    },
+    {
+        "title": "ONYPHE",
+        "social": ["https://twitter.com/onyphe"],
+        "description": "ONYPHE is a Cyber Defense Search Engine for open-source and cyber threat intelligence data collected by crawling various sources available on the Internet or by listening to Internet background noise. ONYPHE does correlate this information with data gathered by performing active Internet scanning for connected devices and also by crawling Web site URLs. It then normalizes information and makes it available via an API and its query language.",
+        "link": "https://www.onyphe.io",
+        "region": "GLOBAL",
+        "tags": "web,network,malware"
+    },
+    {
+        "title": "FullHunt",
+        "social": ["https://www.facebook.com/fullhunt.io", "https://twitter.com/fullhunt", "https://github.com/fullhunt"],
+        "description": "Discover, monitor, and secure your attack surface. FullHunt delivers the best platform in the market for attack surface security.",
+        "link": "https://fullhunt.io",
+        "region": "GLOBAL",
+        "tags": "web,network"
+    },
+    {
+        "title": "crtSH",
+        "social": ["https://github.com/crtsh"],
+        "description": "Free CT Log Certificate Search Tool from Sectigo (formerly Comodo CA)",
+        "link": "https://crt.sh",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "Web Archive",
+        "social": ["https://twitter.com/internetarchive","https://www.facebook.com/internetnetarchive"],
+        "description": "Explore more than 787 billion web pages saved over time.",
+        "link": "https://web.archive.org",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "Vulners",
+        "social": ["https://t.me/VulnersChat","https://facebook.com/vulnersdb","https://www.linkedin.com/company/vulners","https://twitter.com/vulnerscom","https://github.com/vulnerscom"],
+        "description": "Search Engine for Security Intelligence",
+        "link": "https://vulners.com",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability"
+    },
+    {
+        "title": "Triage",
+        "description": "Analyze malware samples free. A state-of-the-art malware analysis sandbox, with all the features you need. High-volume sample submission in a customizable environment with detections and configuration extraction for many malware families. View public reports and classify your malware today!",
+        "link": "https://tria.ge",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "URLScan",
+        "description": "Website scanner for suspicious and malicious URLs.",
+        "link": "https://urlscan.io",
+        "region": "GLOBAL",
+        "tags": "malware,phishing"
+    },
+    {
+        "title": "PacketStormSecurity",
+        "social": ["https://twitter.com/packet_storm"],
+        "description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers.",
+        "link": "https://packetstormsecurity.com",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability"
+    },
+    {
+        "title": "Hunter",
+        "social": ["https://twitter.com/EmailHunter","https://www.facebook.com/EmailHunter.co","https://www.linkedin.com/company/hunter-io/","https://www.youtube.com/channel/UCAaEqu5fM-nSVvWZ656nd5g","https://github.com/hunter-io"],
+        "description": "Hunter is the leading solution to find and verify professional email addresses. Start using Hunter and connect with the people that matter for your business.",
+        "link": "https://hunter.io",
+        "region": "GLOBAL",
+        "tags": "company"
+    },
+    {
+        "title": "BinaryEdge",
+        "social": ["https://twitter.com/binaryedgeio","https://www.facebook.com/binaryedgeio","https://www.linkedin.com/company/binaryedge"],
+        "description": "BinaryEdge scans the internet and acquire data that can be transformed into threat intelligence feeds or security reports.",
+        "link": "https://www.binaryedge.io",
+        "region": "GLOBAL",
+        "tags": "web,network,breach,malware"
+    },
+    {
+        "title": "Wigle",
+        "social": ["https://twitter.com/wiglenet"],
+        "description": "Maps and database of 802.11 wireless networks, with statistics, submitted by wardrivers, netstumblers, and net huggers.",
+        "link": "https://www.wigle.net",
+        "region": "GLOBAL",
+        "tags": "network,vulnerability"
+    },
+    {
+        "title": "Insecam",
+        "description": "The world biggest directory of online surveillance security cameras. Select a country to watch live street, traffic, parking, office, road, beach, earth online webcams. Now you can search live web cams around the world. You can find here Axis, Panasonic, Linksys, Sony, TPLink, Foscam and a lot of other network video cams available online without a password.",
+        "link": "http://www.insecam.org",
+        "region": "GLOBAL",
+        "tags": "network"
+    },
+    {
+        "title": "FindEmails",
+        "description": "Sales, marketing, and recruiting professionals use our tools to find emails, verify emails, and buy email lists.",
+        "link": "https://www.findemails.com",
+        "region": "GLOBAL",
+        "tags": "company"
+    },
+    {
+        "title": "Advangle",
+        "description": "Advangle is a simple and convenient builder of complex web-search queries. This service allows you to quickly build a query with multiple parameters (such as the 'domain', 'language' or 'date published') and immediately see the result of this query in Google or Bing search engines. You can save your queries in Advangle account (reqistration is free) to get back to them later.",
+        "link": "https://advangle.com",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "InQuest Labs",
+        "social": ["https://www.twitter.com/inquest","https://www.linkedin.com/company/inquest.net","https://github.com/inquest","https://www.youtube.com/channel/UCKra9C__cMHfyqi8dB5roEA"],
+        "description": "InQuest Labs is an open API and interactive research portal designed to empower individual analysts with the tools and data requisite to discover and publish new and novel threats.",
+        "link": "https://labs.inquest.net",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "VirusTotal",
+        "description": "Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.",
+        "link": "https://www.virustotal.com",
+        "region": "GLOBAL",
+        "tags": "malware,phishing,breach"
+    },
+    {
+        "title": "ForeignAffairs",
+        "social": ["https://twitter.com/foreignaffairs","https://www.facebook.com/ForeignAffairs","https://www.instagram.com/foreignaffairsmag","https://www.linkedin.com/company/foreign-affairs-magazine","https://www.youtube.com/user/ForeignAffairsMag"],
+        "description": "Since its founding in 1922, Foreign Affairs has been the leading forum for serious discussion of American foreign policy and global affairs. It is now a multiplatform media organization with a print magazine, a website, a mobile site, various apps and social media feeds, an event business, and more.",
+        "link": "https://www.foreignaffairs.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "MaltiVerse",
+        "social": ["https://github.com/maltiverse", "https://twitter.com/maltiverse_com"],
+        "description": "Small and medium SecOps teams cannot invest such a big time and effort to onboard tens of Threat Intelligence sources, curate and maintain them. Maltiverse automates this hard job and provides a strongly effective and affordable Threat Intelligence service. Maltiverse Threat Intelligence Feeds can be integrated with your security stack to provide improvement in terms of detections and protection capabilities from different points of view. You can also upload an deploy your own Threat Intelligence!",
+        "link": "https://maltiverse.com",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "CommonCrawl",
+        "social": ["https://twitter.com/commoncrawl"],
+        "description": "We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone.",
+        "link": "https://index.commoncrawl.org",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "USAID",
+        "social": ["https://www.facebook.com/USAID","https://twitter.com/usaid","https://www.youtube.com/USaidVideo","https://www.linkedin.com/company/usaid","https://www.instagram.com/usaid"],
+        "description": "USAID is the world's premier international development agency and a catalytic actor driving development results. USAID's work advances U.S. national security and economic prosperity, demonstrates American generosity, and promotes a path to recipient self-reliance and resilience.",
+        "link": "https://www.usaid.gov",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism,economics"
+    },
+    {
+        "title": "Cyber Campaigns",
+        "description": "Keeping track of the silent fight in cyberspace",
+        "link": "https://www.cybercampaigns.net",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "Skymem",
+        "social": ["https://www.facebook.com/groups/169518103095402","https://www.facebook.com/Skymem-128969217176249","https://twitter.com/skymem"],
+        "description": "Find email addresses of companies and people",
+        "link": "https://www.skymem.info",
+        "region": "GLOBAL",
+        "tags": "company"
+    },
+    {
+        "title": "ZDI",
+        "social": ["https://twitter.com/thezdi"],
+        "description": "The Zero Day Initiative (ZDI) was created to encourage the reporting of 0-day vulnerabilities privately to the affected vendors by financially rewarding researchers. At the time, there was a perception by some in the information security industry that those who find vulnerabilities are malicious hackers looking to do harm. Some still feel that way. While skilled, malicious attackers do exist, they remain a small minority of the total number of people who actually discover new flaws in software.",
+        "link": "https://www.zerodayinitiative.com",
+        "region": "GLOBAL",
+        "tags": "vulnerability,exploit"
+    },
+    {
+        "title": "CIFOR",
+        "description": "The Center for International Forestry Research (CIFOR) envisions a more equitable world where forestry and landscapes enhance the environment and well-being all. It is a non-profit, scientific institution that conducts research on the most pressing challenges of forest and landscape management around the world. Using a global, multidisciplinary approach, we aim to improve human well-being, protect the environment, and increase equity. To do so, we conduct innovative research, develop partners' capacity, and actively engage in dialogue with all stakeholders to inform policies and practices that affect forests and people.",
+        "link": "https://www.cifor.org",
+        "region": "GLOBAL",
+        "tags": "natural"
+    },
+    {
+        "title": "Noema",
+        "social": ["https://www.facebook.com/NoemaMag","https://twitter.com/NoemaMag","https://www.instagram.com/noemamag","https://www.linkedin.com/company/noemamag"],
+        "description": "Noema is an award-winning magazine exploring the transformations sweeping our world. We publish essays, interviews, reportage, videos and art on the overlapping realms of philosophy, governance, geopolitics, economics, technology and culture.",
+        "link": "https://www.cifor.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "URLVoid",
+        "social": ["https://twitter.com/URLVoid","https://www.facebook.com/URLVoid"],
+        "description": "This service helps you detect potentially malicious websites.",
+        "link": "https://www.urlvoid.com",
+        "region": "GLOBAL",
+        "tags": "malware,phishing"
+    },
+    {
+        "title": "PhoneBook",
+        "social": ["https://twitter.com/_IntelligenceX"],
+        "description": "Phonebook lists all domains, email addresses, or URLs for the given input domain.",
+        "link": "https://phonebook.cz",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "FIRMS",
+        "description": "Fire Information for Resource Management System (FIRMS) is a global fire map and data from NASA. It provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
+        "link": "https://firms.modaps.eosdis.nasa.gov",
+        "region": "GLOBAL",
+        "tags": "natural"
+    },
+    {
+        "title": "Search4Faces",
+        "description": "Search4Faces is a service for searching people on the Internet by photo. Thanks to the technology of neural networks and machine learning, we will help you find the right person or someone very similar to him in a few seconds. The result is a link to the profile of the found person in the social network vk.com or ok.ru, and others in the near future).",
+        "link": "https://search4faces.com",
+        "region": "GLOBAL",
+        "tags": "image"
+    },
+    {
+        "title": "Earthquake Track",
+        "description": "Earthquake Track was created to make understanding earthquakes easier. It contains information on earthquakes since the year 1900. New earthquakes usually appear on the site within a few minutes.",
+        "link": "https://earthquaketrack.com",
+        "region": "GLOBAL",
+        "tags": "natural"
+    },
+    {
+        "title": "AnalyzeID",
+        "social": ["https://twitter.com/analyzeid"],
+        "description": "Find Other Websites Owned By The Same Person",
+        "link": "https://analyzeid.com",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "OSINT Dojo",
+        "social": ["https://www.youtube.com/osintdojo","https://twitter.com/osintdojo"],
+        "description": "OSINT Dojo provides those new to the OSINT field a number of free resources and simple challenges that build on one another to provide a simple road map for learning more about the field and polishing up related skills while also earning badges to show off your accomplishments.",
+        "link": "https://www.osintdojo.com",
+        "region": "GLOBAL",
+        "tags": "roadmap"
+    },
+    {
+        "title": "CrimeMapping",
+        "description": "CrimeMapping has been developed by CentralSquare Technologies to help law enforcement agencies throughout North America provide the public with valuable information about recent crime activity in their neighborhood. Our goal is to assist police departments in reducing crime through a better-informed citizenry. Creating more self-reliance among community members is a great benefit to community oriented policing efforts everywhere and has been proven effective in combating crime.",
+        "link": "https://www.crimemapping.com",
+        "region": "GLOBAL",
+        "tags": "crimes"
+    },
+    {
+        "title": "Citizen",
+        "social": ["https://twitter.com/citizenapp","https://www.instagram.com/citizen_app","https://www.facebook.com/citizenapp"],
+        "description": "Citizen helps you stay safe & informed, by providing instant notifications and live broadcasts of reported crimes and incidents near you.",
+        "link": "https://citizen.com",
+        "region": "GLOBAL",
+        "tags": "crimes"
+    },
+    {
+        "title": "HungerMap",
+        "description": "HungerMap is the World Food Programme (WFP)'s global hunger monitoring system. It combines key metrics from various data sources - such as food security information, weather, population size, conflict, hazards, nutrition information and macro-economic data - to help assess, monitor and predict the magnitude and severity of hunger in near real-time. The resulting analysis is displayed on an interactive map that helps WFP staff, key decision makers and the broader humanitarian community to make more informed and timely decisions relating to food security.",
+        "link": "https://hungermap.wfp.org",
+        "region": "GLOBAL",
+        "tags": "economics"
+    },
+    {
+        "title": "EarthCam",
+        "description": "EarthCam is the leading network of live streaming webcams for tourism and entertainment. Explore unique and interesting locations around the world with 4K streaming technology. EarthCam provides complete infrastructure services to manage, host and maintain live streaming video solutions for its consumers and corporate clients.",
+        "link": "https://www.earthcam.com",
+        "region": "GLOBAL",
+        "tags": "network"
+    },
+    {
+        "title": "Rain Alarm",
+        "description": "This weather app alerts you when rain is approaching.",
+        "link": "https://www.rain-alarm.com",
+        "region": "GLOBAL",
+        "tags": "natural"
+    },
+    {
+        "title": "Freedom House",
+        "social": ["https://twitter.com/freedomhouse","https://www.facebook.com/FreedomHouseDC"],
+        "description": "Freedom House is founded on the core conviction that freedom flourishes in democratic nations where governments are accountable to their people; the rule of law prevails; and freedoms of expression, association, and belief, as well as respect for the rights of women, minority communities, and historically marginalized groups, are guaranteed.",
+        "link": "https://freedomhouse.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism,crimes"
+    },
+    {
+        "title": "LPM",
+        "description": "Interactive world light pollution map. The map uses NOAA/EOG VIIRS, World Atlas 2015, Aurora prediction, observatories, clouds and SQM/SQC overlay contributed by users.",
+        "link": "https://www.lightpollutionmap.info",
+        "region": "GLOBAL",
+        "tags": "natural"
     }
 ]
