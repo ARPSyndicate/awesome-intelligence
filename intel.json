@@ -1868,5 +1868,104 @@
         "link": "https://www.lightpollutionmap.info",
         "region": "GLOBAL",
         "tags": "natural"
+    },
+    {
+        "title": "VARIoT",
+        "description": "VARIoT is an EU project Databases of IoT vulnerabilities and exploits aggregated from many sources. These databases has been created as a part of VARIoT, EU project co-financed by the Connecting Europe Facility of the European Union and the Polish Ministry of Education and Science.",
+        "link": "https://www.variotdbs.pl",
+        "region": "GLOBAL",
+        "tags": "network,web,vulnerability,exploit"
+    },
+    {
+        "title": "GeoCam",
+        "description": "A site of webcams from around the world, broadcasting in real time, that you can watch for free. Live webcam are structured by countries, cities and categories",
+        "link": "https://www.geocam.ru",
+        "region": "GLOBAL",
+        "tags": "network"
+    },
+    {
+        "title": "LiveTraffic",
+        "description": "Real-time monitoring of Europe's 5,481 live traffic cameras",
+        "link": "https://livetraffic.eu",
+        "region": "EUROPE",
+        "tags": "network"
+    },
+    {
+        "title": "Arab Barometer",
+        "social": ["https://twitter.com/ArabBarometer","https://www.facebook.com/arabbarometer"],
+        "description": "Arab Barometer is a nonpartisan research network that provides insight into the social, political, and economic attitudes and values of ordinary citizens across the Arab world.",
+        "link": "https://www.arabbarometer.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,economics,terrorism"
+    },
+    {
+        "title": "EMMNewsbrief",
+        "social": ["https://www.facebook.com/EMMNewsbrief"],
+        "description": "World news as a topic based NewsBrief, which is updated every 10 minutes, or sent as real-time email alerts. EMM Newsbrief presents the news aggregation and analysis from over 7000 news websites world wide.",
+        "link": "https://emm.newsbrief.eu",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism,economics"
+    },
+    {
+        "title": "Domains Project",
+        "social": ["https://github.com/tb0hdan"],
+        "description": "World's single largest Internet domains dataset. This public dataset contains freely available sorted list of Internet domains.",
+        "link": "https://domainsproject.org",
+        "region": "GLOBAL",
+        "tags": "web,network"
+    },
+    {
+        "title": "Afrobarometer",
+        "social": ["https://twitter.com/afrobarometer","https://www.linkedin.com/company/afrobarometer","https://www.facebook.com/Afrobarometer","https://www.instagram.com/afrobarometer"],
+        "description": "Afrobarometer, a non-profit company limited by guarantee with headquarters in Ghana, is a pan-African, non-partisan survey research network that conducts public attitude surveys on democracy, governance, the economy, and society.",
+        "link": "https://www.afrobarometer.org",
+        "region": "MENA",
+        "tags": "geopolitics,economics,terrorism"
+    },
+    {
+        "title": "Router Default",
+        "social": ["https://twitter.com/danstools00"],
+        "description": "Find out the default login, username, password, and ip address of your router.",
+        "link": "https://www.cleancss.com/router-default",
+        "region": "GLOBAL",
+        "tags": "vulnerability,exploit"
+    },
+    {
+        "title": "LeakPeak",
+        "description": "LeakPeek is an all-in-one online data protection platform. Search for your publicly leaked passwords using an email or username.",
+        "link": "https://leakpeek.com",
+        "region": "GLOBAL",
+        "tags": "breach"
+    },
+    {
+        "title": "CrackStation",
+        "social": ["https://twitter.com/defusesec"],
+        "description": "CrackStation uses massive pre-computed lookup tables to crack password hashes. These tables store a mapping between the hash of a password, and the correct password for that hash.",
+        "link": "https://crackstation.net",
+        "region": "GLOBAL",
+        "tags": "breach"
+    },
+    {
+        "title": "Open Ownership",
+        "social": ["https://twitter.com/openownership", "https://www.linkedin.com/company/openownership", "https://www.facebook.com/openownership","https://github.com/openownership"],
+        "description": "Open Ownership is driving the global shift towards transparency over who owns and controls companies",
+        "link": "https://www.openownership.org",
+        "region": "GLOBAL",
+        "tags": "company"
+    },
+    {
+        "title": "openAFRICA`",
+        "description": "openAFRICA aims to be the largest independent repository of open data on the African continent.",
+        "link": "http://openafrica.net",
+        "region": "AFRICA",
+        "tags": "geopolitics,economics,natural,company"
+    },
+    {
+        "title": "Hunter",
+        "social": ["https://twitter.com/HunterMapping","https://t.me/hunter4good"],
+        "description": "Internet search engine for security researchers",
+        "link": "https://hunter.how",
+        "region": "GLOBAL",
+        "tags": "web,network"
     }
 ]
