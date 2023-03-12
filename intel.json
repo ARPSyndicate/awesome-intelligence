@@ -1967,5 +1967,54 @@
         "link": "https://hunter.how",
         "region": "GLOBAL",
         "tags": "web,network"
+    },
+    {
+        "title": "Blocktivity",
+        "description": "Embrace decentralization, Heal the world",
+        "link": "https://blocktivity.info/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Santiment",
+        "description": "We provide tools to help you analyze crypto markets and find data-driven opportunities to optimize your investing. Santiment is a behavior analytics platform for cryptocurrencies, sourcing on-chain, social and development information on 2000+ coins.",   
+        "link": "https://santiment.net/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Glassnode",
+        "description": "Glassnode makes blockchain data accessible for everyone. We source and carefully dissect on-chain data, to deliver contextualized and actionable insights relevant for traders and investors.",
+        "link": "https://glassnode.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Coin Metrics",
+        "description": "Crypto intelligence for the future of finance. Coin Metrics organizes the world's crypto data and makes it transparent and accessible.",
+        "link": "https://coinmetrics.io/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Datamish",
+        "description": "Charts for Bitcoin long and short positions on Bitinex. Gauge sentiment and analyze the BTC market to see if leveraged bears or bulls are due for a margin squeeze.",
+        "link": "https://datamish.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CoinLib",
+        "description": "Coinlib provides live and historic cryptocurrency prices, portfolio, alerts, news, charts and detailed coin data.",
+        "link": "https://coinlib.io/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Messari",
+        "description": "Gain an edge over the crypto market with professional grade data, tools, and research.",
+        "link": "https://messari.io/",
+        "region": "GLOBAL",
+        "tags": "crypto"
     }
 ]
