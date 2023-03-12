@@ -1954,7 +1954,7 @@
         "tags": "company"
     },
     {
-        "title": "openAFRICA`",
+        "title": "openAFRICA",
         "description": "openAFRICA aims to be the largest independent repository of open data on the African continent.",
         "link": "http://openafrica.net",
         "region": "AFRICA",
@@ -1970,51 +1970,82 @@
     },
     {
         "title": "Blocktivity",
-        "description": "Embrace decentralization, Heal the world",
-        "link": "https://blocktivity.info/",
+        "social": ["https://twitter.com/Blocktivity1"],
+        "description": "Blocktivity aim to provide the maximum raw data possible from a wide variety of blockchains. By providing this object data and tools to analyse and compare it, they hope to provide a way for investors to better understand the projects available in the space.",
+        "link": "https://blocktivity.info",
         "region": "GLOBAL",
         "tags": "crypto"
     },
     {
         "title": "Santiment",
+        "social": ["https://twitter.com/santimentfeed", "https://github.com/santiment", "https://t.me/santiment_network", "https://www.youtube.com/c/santimentnetwork"],
         "description": "We provide tools to help you analyze crypto markets and find data-driven opportunities to optimize your investing. Santiment is a behavior analytics platform for cryptocurrencies, sourcing on-chain, social and development information on 2000+ coins.",   
-        "link": "https://santiment.net/",
+        "link": "https://santiment.net",
         "region": "GLOBAL",
         "tags": "crypto"
     },
     {
         "title": "Glassnode",
-        "description": "Glassnode makes blockchain data accessible for everyone. We source and carefully dissect on-chain data, to deliver contextualized and actionable insights relevant for traders and investors.",
-        "link": "https://glassnode.com/",
+        "social": ["https://twitter.com/glassnode", "https://t.me/glassnode", "https://linkedin.com/company/glassnode", "https://www.youtube.com/glassnode"],
+        "description": "Glassnode makes blockchain data accessible for everyone. THey source and carefully dissect on-chain data, to deliver contextualized and actionable insights relevant for traders and investors.",
+        "link": "https://glassnode.com",
         "region": "GLOBAL",
         "tags": "crypto"
     },
     {
         "title": "Coin Metrics",
+        "social": ["https://twitter.com/coinmetrics", "https://www.linkedin.com/company/coinmetrics"],
         "description": "Crypto intelligence for the future of finance. Coin Metrics organizes the world's crypto data and makes it transparent and accessible.",
-        "link": "https://coinmetrics.io/",
+        "link": "https://coinmetrics.io",
         "region": "GLOBAL",
         "tags": "crypto"
     },
     {
         "title": "Datamish",
+        "social": ["https://twitter.com/8bitCaliph"],
         "description": "Charts for Bitcoin long and short positions on Bitinex. Gauge sentiment and analyze the BTC market to see if leveraged bears or bulls are due for a margin squeeze.",
-        "link": "https://datamish.com/",
+        "link": "https://datamish.com",
         "region": "GLOBAL",
         "tags": "crypto"
     },
     {
-        "title": "CoinLib",
+        "title": "Coinlib",
+        "social": ["https://www.facebook.com/coinlib", "https://twitter.com/coinlibio"],
         "description": "Coinlib provides live and historic cryptocurrency prices, portfolio, alerts, news, charts and detailed coin data.",
-        "link": "https://coinlib.io/",
+        "link": "https://coinlib.io",
         "region": "GLOBAL",
         "tags": "crypto"
     },
     {
         "title": "Messari",
+        "social": ["https://twitter.com/MessariCrypto","https://t.me/messaricrypto", "https://www.youtube.com/c/Messari"],
         "description": "Gain an edge over the crypto market with professional grade data, tools, and research.",
-        "link": "https://messari.io/",
+        "link": "https://messari.io",
         "region": "GLOBAL",
         "tags": "crypto"
+    },
+    {
+        "title": "ISW",
+        "social": ["https://www.youtube.com/user/UnderstandingWarOrg", "https://twitter.com/TheStudyofWar"],
+        "description": "The Institute for the Study of War advances an informed understanding of military affairs through reliable research, trusted analysis, and innovative education. We are committed to improving the nation's ability to execute military operations and respond to emerging threats in order to achieve U.S. strategic objectives. ISW is a non-partisan, non-profit, public policy research organization.",
+        "link": "https://www.understandingwar.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,economics,terrorism"
+    },
+    {
+        "title": "Kyiv Independent",
+        "social": ["https://www.facebook.com/kyivindependent", "https://www.instagram.com/kyivindependent_official", "https://t.me/KyivIndependent_official", "https://www.twitter.com/kyivindependent", "https://www.linkedin.com/company/kyivindependent", "https://www.youtube.com/channel/UCGAC5yzlYgjKoJABDZ7zEyw"],
+        "description": "The Kyiv Independent is Ukraine's English-language media outlet, created by journalists who were fired from the Kyiv Post for defending editorial independence.",
+        "link": "https://kyivindependent.com",
+        "region": "EUROPE",
+        "tags": "geopolitics,economics,terrorism"
+    },
+    {
+        "title": "PutinDirect",
+        "social": ["https://twitter.com/PutinDirect", "https://www.youtube.com/@putindirect", "https://www.facebook.com/PutinDirect", "https://www.instagram.com/PutinDirect", "https://t.me/PutinDirect"],
+        "description": "Excerpts of Vladimir Putin's remarks and speeches with English subtitles.",
+        "link": "https://twitter.com/PutinDirect",
+        "region": "RUSSIA",
+        "tags": "geopolitics,economics"
     }
 ]
