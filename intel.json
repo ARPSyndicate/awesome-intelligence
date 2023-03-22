@@ -2016,5 +2016,292 @@
         "link": "https://messari.io/",
         "region": "GLOBAL",
         "tags": "crypto"
+    },
+    {
+        "title": "CoinDesk",
+        "description": "Latest in crypto research, bitcoin, ethereum, and other cryptocurrency research",
+        "link": "https://www.coindesk.com/research/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Cryptowatch",
+        "description": "Live price charts, trading and alerts for cryptocurrencies like Bitcoin (BTC) and Ethereum (ETH) on Kraken, Coinbase Pro, Binance, and more.",
+        "link": "https://cryptowat.ch/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Cointelegraph",
+        "description": "Founded in 2013, Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.",
+        "link": "https://cointelegraph.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CoinGecko",
+        "description": "View top cryptocurrency prices live, crypto charts, market cap, and trading volume. Discover today\u2019s new and trending coins, top crypto gainers and losers in the market.",
+        "link": "https://www.coingecko.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "LunarCrush",
+        "description": "Smarter crypto, NFT, and stock investing with insights from millions of conversations happening across social.",
+        "link": "https://lunarcrush.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CoinMarketCap",
+        "description": "Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.",
+        "link": "https://coinmarketcap.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Yahoo Finance",
+        "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+        "link": "https://finance.yahoo.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "TradingView",
+        "description": "Where the world charts, chats and trades markets. We're a supercharged super-charting platform and social network for traders and investors. Free to sign up.",
+        "link": "https://www.tradingview.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Crypto Daily",
+        "description": "Cryptocurrency News and digital finance analysis from Crypto Daily. Live price updates, and crypto currency articles and videos for the latest Blockchain news.",
+        "link": "https://cryptodaily.co.uk/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "altFINS",
+        "description": "Find crypto trading ideas. altFINS offers coin screening, crypto charting, chart patterns, technical analysis, fundamental research, on-chain data, trade execution.",
+        "link": "https://altfins.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "S&P Global Market Intelligence",
+        "description": "We provide essential insights for our clients through powerful business intelligence solutions that combine comprehensive data, actionable analytics, and deep sector intelligence.",
+        "link": "https://www.spglobal.com/marketintelligence/en/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Decrypt",
+        "description": "Read the latest Bitcoin and Ethereum news from Decrypt. Get the latest on cryptocurrency prices, breaking news, and more about Bitcoin and blockchain.",
+        "link": "https://decrypt.co/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Bankless",
+        "description": "Get the world's most popular crypto email with daily alpha, news, & analysis, all free.",
+        "link": "https://www.bankless.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "The Defiant",
+        "description": "The latest DeFi, Ethereum, and Web3 news from The Defiant. In-depth DeFi guides and analysis to help you find the important developments in DeFi.",
+        "link": "https://thedefiant.io/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "BeInCrypto",
+        "description": "BeInCrypto was created to unite and set you free from the hands, pockets, and minds of a controlling monetary system. Here, we create educational content and products for all things crypto that will help you to pave your way in Web3.",
+        "link": "https://beincrypto.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "The Block",
+        "description": "The Block is your reliable and expert source for all things about blockchain and crypto.",
+        "link": "https://www.theblock.co/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Bitcoin Magazine",
+        "description": "Bitcoin Magazine is the oldest and most established source of news, information and expert commentary on Bitcoin, its underlying blockchain technology and the industry that has been built up around it.",
+        "link": "https://bitcoinmagazine.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Blockworks",
+        "description": "Blockworks is a media and information platform that delivers news and insights about crypto to millions of investors.",
+        "link": "https://blockworks.co/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Coin Bureau",
+        "description": "Enter the cryptoverse and enjoy all the FREE content, videos, newsletters and everything The Coin Bureau has to offer.",
+        "link": "https://www.coinbureau.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CoinGape",
+        "description": "Built, Operated and Nourished by Crypto Enthusiasts with over 5 years of experience in Content, Journalism & Marketing",
+        "link": "https://coingape.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Brave New Coin",
+        "description": "Brave New Coin (BNC) is a data and research company focused on the blockchain and cryptographic assets industry.",
+        "link": "https://bravenewcoin.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "NullTX",
+        "description": "Hottest cryptocurrency news straight from the source. Content to help you navigate the complex and everchanging world of crypto.", 
+        "link": "https://nulltx.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Bitrates",
+        "description": "View prices, historical data analysis and live charts for Bitcoin (BTC), Ethereum (ETH), and all other popular cryptocurrencies. We offer daily crypto news on all aspects of the altcoin market as well as guides answering complex questions and ones as simple as \"what is Bitcoin or Ethereum?\".",
+        "link": "https://www.bitrates.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "ZyCrypto",
+        "description": "ZyCrypto is a Leading Cryptocurrency News and Information Website Focusing On Daily News, Expert Opinions, Coins Analysis and Reviews.",
+        "link": "https://zycrypto.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "The Crypto Basic",
+        "description": "The Crypto Basic is a leading Bitcoin and crypto news website that brings you the latest happenings from the fast-moving and emerging crypto industry.",
+        "link": "https://thecryptobasic.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Blockchain News",
+        "description": "Find the latest Bitcoin, Ethereum, blockchain, and crypto news, interviews, and price analyses at Blockchain.News.",
+        "link": "https://blockchain.news/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Coinspeaker",
+        "description": "Coinspeaker - the Speaker in Finance World, from Bitcoin and Blockhain to Fintech and Stock Markets",
+        "link": "https://www.coinspeaker.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CoinJournal",
+        "description": "CoinJournal was founded in 2014, a time when cryptocurrency was still the preserve of cryptography nerds and (now very rich) investors who stumbled onto the opportunity of a lifetime.",
+        "link": "https://coinjournal.net/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Protos",
+        "description": "Informed crypto news. Protos cuts through the noise to provide clear insight, considered expert opinion, and market-moving information on Bitcoin and crypto as efficiently as possible.",
+        "link": "https://protos.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "TheNewsCrypto",
+        "description": "TheNewsCrypto is an online media publication that helps to educate readers about news, exchanges, and markets in the crypto and blockchain industry.",
+        "link": "https://thenewscrypto.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CryptoSlate",
+        "description": "CryptoSlate is a comprehensive and contextualized source for crypto news, insights and data.",
+        "link": "https://cryptoslate.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Chainalysis",
+        "description": "Chainalysis helps government agencies, cryptocurrency businesses, and financial institutions engage confidently with cryptocurrency.",
+        "link": "https://www.chainalysis.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Crypto Adventure",
+        "description": "Latest Crypto news on Bitcoin, Altcoins, Blockchain, Web3 and Market updates. Stay informed with Crypto Adventure our daily news.",    
+        "link": "https://cryptoadventure.com/news",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "NewsBTC",
+        "description": "NewsBTC is a cryptocurrency news service that covers latest bitcoin news today, technical analysis & price for bitcoin and other altcoins.",
+        "link": "https://www.newsbtc.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Coinpedia",
+        "description": "Coinpedia is Crypto Encyclopedia offering crypto-related comprehensive information, Cryptocurrency News, Events, PR and Bitcoin Event info.",
+        "link": "https://coinpedia.org/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "AMBCrypto",
+        "description": "Get the latest news about the cryptocurrency. We provide Bitcoin, Altcoin, Bitcoin Cash, Mining tool information. We are the leader in the Crypto Market.",
+        "link": "https://ambcrypto.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CoinGeek",
+        "description": "CoinGeek offers the latest Bitcoin News and Government & Enterprise Utility Blockchain information. Gain insights into the true Vision of Satoshi Nakamoto.",
+        "link": "https://coingeek.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CryptoPotato",
+        "description": "The ultimate gate to the cryptocurrency world: The latest Bitcoin and crypto news, price analysis, trading and how-to guides for beginners and experts",
+        "link": "https://cryptopotato.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CryptoPanic",
+        "description": "News aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts",
+        "link": "https://cryptopanic.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Crypto Briefing",
+        "description": "Bitcoin, Ethereum and the future of finance",
+        "link": "https://cryptobriefing.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CryptoNewsZ",
+        "description": "Get CryptoNewsZ for latest crypto news & updates. From top stories on Bitcoin, Altcoins, Blockchain, DeFi, Web3, NFT, Metaverse, Gaming, DAO, Finance, Forex & more.",
+        "link": "https://www.cryptonewsz.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
     }
 ]
