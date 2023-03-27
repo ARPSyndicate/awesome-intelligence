@@ -2359,5 +2359,68 @@
         "link": "https://www.cryptonewsz.com",
         "region": "GLOBAL",
         "tags": "crypto"
+    },
+    {
+        "title": "The Global Crypto Press Association | NEWSROOM",
+        "description": "Cryptocurrency News Live and Breaking in Real-Time! Current crypto coin prices, analysis, and predictions from the Global Crypto Press Association.",
+        "link": "https://www.globalcryptopress.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Crypto Daily",
+        "description": "Cryptocurrency News and digital finance analysis from Crypto Daily. Live price updates, and crypto currency articles and videos for the latest Blockchain news.",
+        "link": "https://cryptodaily.co.uk/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Coinpedia",
+        "description": "Latest News on Cryptocurrency, Bitcoin, Blockchain, Events, Startups, decentralized market and more.",
+        "link": "https://coinPedia.org/news/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Financial Times",
+        "description": "News, analysis and comment from the Financial Times, the world\u02bcs leading global business publication",
+        "link": "https://www.ft.com",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Chainwire Newsroom",
+        "description": "The Chainwire newsroom is a source for the latest news in crypto & blockchain, from the leading crypto press release distribution service.",
+        "link": "https://chainwire.org/newsroom/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "CryptoNews",
+        "description": "News from the world of cryptocurrencies",
+        "link": "https://www.crypto-news.net/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Coinfea",
+        "description": "Crypto and Blockchain News",
+        "link": "https://coinfea.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Coinnounce",
+        "description": "Coinnounce has been the best source for the latest crypto & bitcoin news since 2018. Read the latest on the blockchain, BTC, eth, NFTs, and metaverse.",
+        "link": "https://coinnounce.com/",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "The Crypto Times",
+        "description": "Stay informed with the latest crypto news and updates on Bitcoin, Ethereum, NFTs, Altcoin, DeFi, and Metaverse trends from Crypto Times.",
+        "link": "https://www.cryptotimes.io/",
+        "region": "GLOBAL",
+        "tags": "crypto"
     }
 ]
