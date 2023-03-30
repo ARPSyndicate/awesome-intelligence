@@ -149,6 +149,7 @@
     },
     {
         "title": "ExploitDB",
+        "social": ["https://twitter.com/exploitdb", "https://www.facebook.com/ExploitDB"],
         "description": "An archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers.",
         "link": "https://www.exploit-db.com",
         "region": "GLOBAL",
@@ -200,6 +201,7 @@
     },
     {
         "title": "Global Terrorism Catalogue",
+        "social": ["https://github.com/klapeye"],
         "description": "Catalogue of Terrorist Incidents occurred globally since 1968.",
         "link": "https://www.kaggle.com/datasets/klapeyefoundation/global-terrorism",
         "region": "GLOBAL",
@@ -315,6 +317,7 @@
     },
     {
         "title": "Botvrij",
+        "social": ["https://www.twitter.com/cudeso"],
         "description": "Botvrij provides different sets of open source IOCs that you can use in your security devices to detect possible malicious activity. The information contains network info (IPs), file hashes, file paths, domain names, URLs.",
         "link": "https://www.botvrij.eu",
         "region": "GLOBAL",
@@ -322,6 +325,7 @@
     },
     {
         "title": "BGP Ranking",
+        "social": ["https://github.com/D4-project"],
         "description": "BGP Ranking is a free software to calculate the security ranking of Internet Service Providers. The system is gathering external datasources (e.g. dshield, shadowserver, Arbor ATLAS) in order to evaluate the ranking over time.",
         "link": "https://bgpranking.circl.lu",
         "region": "GLOBAL",
@@ -413,6 +417,7 @@
     },
     {
         "title": "Economist Intelligence",
+        "social": ["https://www.linkedin.com/company/the-economist-intelligence-unit", "https://twitter.com/theeiu", "https://www.youtube.com/user/eiumedia", "http://facebook.com/TheEIU"],
         "description": "Stay current on important trending topics that impact business decisions through EIU curated set of global themes which range from climate change to Covid-19 and digital payments. Learn how global issues are impacting various industries and markets today.",
         "link": "https://www.eiu.com/n/global-themes/",
         "region": "GLOBAL",
@@ -511,6 +516,7 @@
     },
     {
         "title": "Stored Website",
+        "social": ["https://twitter.com/shapito27"],
         "description": "View cached web pages/website",
         "link": "https://stored.website",
         "region": "GLOBAL",
@@ -557,6 +563,7 @@
     },
     {
         "title": "Have I Been Pwned",
+        "social": ["https://twitter.com/haveibeenpwned","https://twitter.com/troyhunt","https://www.facebook.com/haveibeenpwned","https://www.facebook.com/troyahunt"],
         "description": "Check if your email or phone is in a data breach",
         "link": "https://haveibeenpwned.com",
         "region": "GLOBAL",
@@ -564,6 +571,7 @@
     },
     {
         "title": "DNSViz",
+        "social": ["https://github.com/dnsviz"],
         "description": "DNSViz is a tool for visualizing the status of a DNS zone. It was designed as a resource for understanding and troubleshooting deployment of the DNS Security Extensions (DNSSEC). It provides a visual analysis of the DNSSEC authentication chain for a domain name and its resolution path in the DNS namespace, and it lists configuration errors detected by the tool.",
         "link": "https://dnsviz.net",
         "region": "GLOBAL",
@@ -617,6 +625,7 @@
     },
     {
         "title": "CP Research",
+        "social": ["https://twitter.com/_cpresearch_", "https://www.facebook.com/checkpointresearch", "https://www.linkedin.com/company/check-point-software-technologies"],
         "description": "Check Point Research provides leading cyber threat intelligence to Check Point Software customers and the greater intelligence community.",
         "link": "https://research.checkpoint.com",
         "region": "GLOBAL",
@@ -742,6 +751,7 @@
     },
     {
         "title": "SPLC Resources",
+        "social": ["https://twitter.com/splcenter", "https://www.facebook.com/SPLCenter", "https://www.instagram.com/splcenter"],
         "description": "Search SPLC publications, cases, Extremist Files, Intelligence Project articles, and more.",
         "link": "https://www.splcenter.org/resources",
         "region": "GLOBAL",
@@ -789,6 +799,7 @@
     },
     {
         "title": "NTI",
+        "social": ["https://twitter.com/nti_wmd", "https://www.facebook.com/nti.org", "https://www.instagram.com/nti_wmd", "https://www.linkedin.com/company/the-nuclear-threat-initiative", "https://www.youtube.com/channel/ucmyr23uc-vxlckdb0dtg6-a"],
         "description": "NTI is a nonprofit global security organization focused on reducing nuclear and biological threats imperiling humanity.",
         "link": "https://www.nti.org",
         "region": "GLOBAL",
@@ -1842,6 +1853,7 @@
     },
     {
         "title": "EarthCam",
+        "social": ["http://twitter.com/earthcam", "http://www.facebook.com/earthcaminc", "https://instagram.com/earthcam", "https://www.linkedin.com/company/earthcam-inc-", "https://www.youtube.com/channel/uc6qrg3w8smk0jior2olka3g"],
         "description": "EarthCam is the leading network of live streaming webcams for tourism and entertainment. Explore unique and interesting locations around the world with 4K streaming technology. EarthCam provides complete infrastructure services to manage, host and maintain live streaming video solutions for its consumers and corporate clients.",
         "link": "https://www.earthcam.com",
         "region": "GLOBAL",
@@ -2252,6 +2264,7 @@
     },
     {
         "title": "Coinspeaker",
+        "social": ["https://t.me/coinspeaker", "https://twitter.com/coinspeaker", "https://www.facebook.com/coinspeaker", "https://www.instagram.com/coinspeaker", "https://www.linkedin.com/company/coinspeaker"],
         "description": "Coinspeaker - the Speaker in Finance World, from Bitcoin and Blockhain to Fintech and Stock Markets",
         "link": "https://www.coinspeaker.com",
         "region": "GLOBAL",
@@ -2259,6 +2272,7 @@
     },
     {
         "title": "CoinJournal",
+        "social": ["https://facebook.com/coinjournalnews", "https://in.linkedin.com/in/ashish-sood-8b38668", "https://twitter.com/coinjournal"],
         "description": "CoinJournal was founded in 2014, a time when cryptocurrency was still the preserve of cryptography nerds and (now very rich) investors who stumbled onto the opportunity of a lifetime.",
         "link": "https://coinjournal.net",
         "region": "GLOBAL",
@@ -2266,6 +2280,7 @@
     },
     {
         "title": "Protos",
+        "social": ["https://twitter.com/protos", "https://www.linkedin.com/company/protosmedia"],
         "description": "Informed crypto news. Protos cuts through the noise to provide clear insight, considered expert opinion, and market-moving information on Bitcoin and crypto as efficiently as possible.",
         "link": "https://protos.com",
         "region": "GLOBAL",
@@ -2281,6 +2296,7 @@
     },
     {
         "title": "CryptoSlate",
+        "social": ["https://facebook.com/cryptoslate", "https://instagram.com/cryptoslate", "https://t.me/cryptoslatenews", "https://twitter.com/cryptoslate", "https://www.linkedin.com/company/cryptoslate"],
         "description": "CryptoSlate is a comprehensive and contextualized source for crypto news, insights and data.",
         "link": "https://cryptoslate.com",
         "region": "GLOBAL",
@@ -2312,6 +2328,7 @@
     },
     {
         "title": "Coinpedia",
+        "social": ["https://t.me/coinpediamarket", "https://twitter.com/coinpedianews", "https://www.facebook.com/coinpedia.org", "https://www.instagram.com/coinpedianews", "https://www.linkedin.com/company/coinpedia", "https://www.youtube.com/channel/uc3e1ubcekau7rmoty3cx75q"],
         "description": "Coinpedia is Crypto Encyclopedia offering crypto-related comprehensive information, Cryptocurrency News, Events, PR and Bitcoin Event info.",
         "link": "https://coinpedia.org",
         "region": "GLOBAL",
@@ -2326,6 +2343,7 @@
     },
     {
         "title": "CoinGeek",
+        "social": ["https://t.me/realcoingeekdiscussion", "https://twitter.com/realcoingeek", "https://www.facebook.com/realcoingeek", "https://www.instagram.com/coingeek_official", "https://www.linkedin.com/company/coingeek", "https://www.youtube.com/channel/uc95_nqes9m5arhot1lt1sfg"],
         "description": "CoinGeek offers the latest Bitcoin News and Government & Enterprise Utility Blockchain information. Gain insights into the true Vision of Satoshi Nakamoto.",
         "link": "https://coingeek.com",
         "region": "GLOBAL",
@@ -2361,7 +2379,8 @@
         "tags": "crypto"
     },
     {
-        "title": "The Global Crypto Press Association | NEWSROOM",
+        "title": "Global Crypto Press",
+        "social": ["https://twitter.com/thecryptopress", "https://www.facebook.com/globalcryptopress", "https://www.instagram.com/global_crypto_press", "https://www.linkedin.com/company/global-crypto-press-news"],
         "description": "Cryptocurrency News Live and Breaking in Real-Time! Current crypto coin prices, analysis, and predictions from the Global Crypto Press Association.",
         "link": "https://www.globalcryptopress.com/",
         "region": "GLOBAL",
@@ -2369,6 +2388,7 @@
     },
     {
         "title": "Crypto Daily",
+        "social": ["https://t.me/officialcryptodaily", "https://twitter.com/cryptodailyuk", "https://www.facebook.com/cryptodailyofficial", "https://www.instagram.com/cryptodailyofficial"],
         "description": "Cryptocurrency News and digital finance analysis from Crypto Daily. Live price updates, and crypto currency articles and videos for the latest Blockchain news.",
         "link": "https://cryptodaily.co.uk/",
         "region": "GLOBAL",
@@ -2397,6 +2417,7 @@
     },
     {
         "title": "CryptoNews",
+        "social": ["https://twitter.com/_cryptonews_net", "https://www.linkedin.com/company/crypto-news-net"],
         "description": "News from the world of cryptocurrencies",
         "link": "https://www.crypto-news.net/",
         "region": "GLOBAL",
@@ -2404,6 +2425,7 @@
     },
     {
         "title": "Coinfea",
+        "social": ["http://t.me/coinfea", "https://twitter.com/coinfea", "https://www.facebook.com/coinfeaofficial", "https://www.linkedin.com/company/coinfea"],
         "description": "Crypto and Blockchain News",
         "link": "https://coinfea.com/",
         "region": "GLOBAL",
@@ -2411,6 +2433,7 @@
     },
     {
         "title": "Coinnounce",
+        "social": ["https://twitter.com/coinnounce","https://www.facebook.com/coinnounce","https://www.instagram.com/coinnounce"],
         "description": "Coinnounce has been the best source for the latest crypto & bitcoin news since 2018. Read the latest on the blockchain, BTC, eth, NFTs, and metaverse.",
         "link": "https://coinnounce.com/",
         "region": "GLOBAL",
@@ -2418,6 +2441,7 @@
     },
     {
         "title": "The Crypto Times",
+        "social": ["https://facebook.com/cryptotimes.io", "https://t.me/cryptotimesio", "https://twitter.com/cryptotimes_io", "https://www.instagram.com/cryptotimes.io", "https://www.linkedin.com/company/74922434"],
         "description": "Stay informed with the latest crypto news and updates on Bitcoin, Ethereum, NFTs, Altcoin, DeFi, and Metaverse trends from Crypto Times.",
         "link": "https://www.cryptotimes.io/",
         "region": "GLOBAL",
