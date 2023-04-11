@@ -233,6 +233,7 @@
     },
     {
         "title": "Intelligence Briefs",
+        "social": ["https://twitter.com/CTNSIS","https://www.facebook.com/CTNSIS"],
         "description": "Strategic Intelligence News publishes intelligence reports, geopolitics, military intelligence, and crime reports analysis.",
         "link": "https://intelligencebriefs.com",
         "region": "GLOBAL",
@@ -501,6 +502,7 @@
     },
     {
         "title": "Rescure",
+        "social": ["https://github.com/Fruxlabs"],
         "description": "Enhance your cyber security capabilities with highly tailored, accurate and relevant threat intelligence which integrates seamlessly with your detection workflows.",
         "link": "https://rescure.me/feeds.html",
         "region": "GLOBAL",
@@ -839,6 +841,7 @@
     },
     {
         "title": "Conflict Arm",
+        "social": ["https://twitter.com/conflictarm"],
         "description": "Established in 2011, Conflict Armament Research generates unique evidence on weapon supplies into armed conflicts in order to inform and support effective weapon management and control.",
         "link": "https://www.conflictarm.com",
         "region": "GLOBAL",
@@ -1435,6 +1438,7 @@
     },
     {
         "title": "SITE",
+        "social": ["https://twitter.com/Rita_Katz","https://twitter.com/SITE_Bioterror","https://twitter.com/SITE_CYBER","https://twitter.com/site_finance","https://twitter.com/SITE_FRFL","https://twitter.com/siteintelgroup","https://twitter.com/siteintel_jt"],
         "description": "SITE Intelligence Group has provided governments and institutions worldwide with verified, actionable intelligence and analysis on designated terrorist and violent extremist groups. The multi-lingual staff at SITE has years of experience in the research and analysis of terrorist networks, from jihadists to far-right and far-left extremists: monitoring propaganda, studying trends within online communities, tracking events, and breaking down how these networks operate on the Internet.",
         "link": "https://ent.siteintelgroup.com",
         "region": "GLOBAL",
@@ -1633,6 +1637,7 @@
     },
     {
         "title": "URLScan",
+        "social": ["https://twitter.com/urlscanio"],
         "description": "Website scanner for suspicious and malicious URLs.",
         "link": "https://urlscan.io",
         "region": "GLOBAL",
@@ -1679,6 +1684,7 @@
     },
     {
         "title": "FindEmails",
+        "social": ["https://twitter.com/EmailPatterns","https://www.facebook.com/FindEmails"],
         "description": "Sales, marketing, and recruiting professionals use our tools to find emails, verify emails, and buy email lists.",
         "link": "https://www.findemails.com",
         "region": "GLOBAL",
@@ -1763,6 +1769,7 @@
     },
     {
         "title": "CIFOR",
+        "social": ["https://twitter.com/CIFOR","https://www.facebook.com/cifor","https://www.instagram.com/cifor_forests","https://www.linkedin.com/company/center-for-international-forestry-research"],
         "description": "The Center for International Forestry Research (CIFOR) envisions a more equitable world where forestry and landscapes enhance the environment and well-being all. It is a non-profit, scientific institution that conducts research on the most pressing challenges of forest and landscape management around the world. Using a global, multidisciplinary approach, we aim to improve human well-being, protect the environment, and increase equity. To do so, we conduct innovative research, develop partners' capacity, and actively engage in dialogue with all stakeholders to inform policies and practices that affect forests and people.",
         "link": "https://www.cifor.org",
         "region": "GLOBAL",
@@ -1861,6 +1868,7 @@
     },
     {
         "title": "Rain Alarm",
+        "social": ["https://twitter.com/rainalarm"],
         "description": "This weather app alerts you when rain is approaching.",
         "link": "https://www.rain-alarm.com",
         "region": "GLOBAL",
@@ -2257,6 +2265,7 @@
     },
     {
         "title": "Blockchain News",
+        "social": ["https://twitter.com/BlockchainNewsM","https://www.facebook.com/BlockchainNewsM","https://www.instagram.com/blockchain.news_official","https://www.linkedin.com/company/blockchainnewsbn"],
         "description": "Find the latest Bitcoin, Ethereum, blockchain, and crypto news, interviews, and price analyses at Blockchain.News.",
         "link": "https://blockchain.news",
         "region": "GLOBAL",
@@ -2336,6 +2345,7 @@
     },
     {
         "title": "AMBCrypto",
+        "social": ["https://twitter.com/CryptoAmb","https://www.facebook.com/cryptoamb","https://www.instagram.com/ambcrypto","https://www.linkedin.com/company/13629485","https://www.youtube.com/channel/UC8kD7TvdcdQUMvURhSnho4A"],
         "description": "Get the latest news about the cryptocurrency. We provide Bitcoin, Altcoin, Bitcoin Cash, Mining tool information. We are the leader in the Crypto Market.",
         "link": "https://ambcrypto.com",
         "region": "GLOBAL",
@@ -2351,6 +2361,7 @@
     },
     {
         "title": "CryptoPotato",
+        "social": ["https://t.me/CryptoPotato","https://twitter.com/Crypto_Potato","https://www.facebook.com/CryptoPotato"],
         "description": "The ultimate gate to the cryptocurrency world: The latest Bitcoin and crypto news, price analysis, trading and how-to guides for beginners and experts",
         "link": "https://cryptopotato.com",
         "region": "GLOBAL",
@@ -2365,6 +2376,7 @@
     },
     {
         "title": "Crypto Briefing",
+        "social": ["https://t.me/cryptobriefing","https://twitter.com/crypto_briefing","https://www.facebook.com/cryptobriefing","https://www.linkedin.com/company/cryptobriefing"],
         "description": "Bitcoin, Ethereum and the future of finance",
         "link": "https://cryptobriefing.com",
         "region": "GLOBAL",
@@ -2395,15 +2407,9 @@
         "tags": "crypto"
     },
     {
-        "title": "Coinpedia",
-        "description": "Latest News on Cryptocurrency, Bitcoin, Blockchain, Events, Startups, decentralized market and more.",
-        "link": "https://coinPedia.org/news",
-        "region": "GLOBAL",
-        "tags": "crypto"
-    },
-    {
         "title": "Financial Times",
-        "description": "News, analysis and comment from the Financial Times, the world\u02bcs leading global business publication",
+        "social": ["https://twitter.com/financialtimes"],
+        "description": "News, analysis and comment from the Financial Times, the world's leading global business publication",
         "link": "https://www.ft.com",
         "region": "GLOBAL",
         "tags": "crypto"
@@ -2449,6 +2455,7 @@
     },
     {
         "title": "Crypto-ML",
+        "social": ["https://twitter.com/crypto_ml","https://www.facebook.com/CryptoML.Official","https://www.linkedin.com/company/crypto-ml"],
         "description": "Crypto-ML machine learning and big data for crypto investors. With human-friendly market intelligence. Bitcoin, Ethereum, and top cryptocurrencies.",
         "link": "https://crypto-ml.com",
         "region": "GLOBAL",
@@ -2470,6 +2477,7 @@
     },
     {
         "title": "EPB Research",
+        "social": ["https://twitter.com/EPBResearch","https://www.facebook.com/profile.php?id=100088700287961","https://www.linkedin.com/in/eric-basmajian-32614116a"],
         "description": "EPB's industry-leading research, reports, and videos will give you the knowledge you need to stay ahead of economic cycles and make more informed investment decisions.",
         "link": "https://epbresearch.com/category/written-reports",
         "region": "GLOBAL",
@@ -2477,6 +2485,7 @@
     },
     {
         "title": "Mint",
+        "social": ["https://twitter.com/livemint","https://www.facebook.com/mint.live","https://www.linkedin.com/company/livemint","https://www.youtube.com/channel/UCUI9vm69ZbAqRK3q3vKLWCQ"],
         "description": "latest Business News headlines, LIVE share market news and updates, financial, economic and banking news from India & across the World on Mint.",
         "link": "https://www.livemint.com",
         "region": "GLOBAL",
@@ -2484,6 +2493,7 @@
     },
     {
         "title": "MacroVisor",
+        "social": ["https://twitter.com/theMacroVisors"],
         "description": "Bringing you unique and in-depth analysis on the economy and financial markets from the big picture macro view to the fundamentals and beyond.",
         "link": "https://www.macrovisor.com",
         "region": "GLOBAL",
@@ -2491,6 +2501,7 @@
     },
     {
         "title": "Palladium Magazine",
+        "social": ["https://twitter.com/palladiummag"],
         "description": "Palladium is a San Francisco-based non-partisan publication that explores the future of governance and society through journalism, analysis, and philosophy.",
         "link": "https://www.palladiummag.com",
         "region": "GLOBAL",
@@ -2505,6 +2516,7 @@
     },
     {
         "title": "Project Syndicate",
+        "social": ["https://twitter.com/prosyn","https://www.facebook.com/projectsyndicate","https://www.linkedin.com/company/project-syndicate","https://www.youtube.com/user/ProjectSyndicate"],
         "description": "Project Syndicate produces and delivers original, high-quality commentaries to a global audience. Featuring exclusive contributions by prominent political leaders, policymakers, scholars, business leaders, and civic activists from around the world, we provide news media and their readers with cutting-edge analysis and insight, regardless of ability to pay.",
         "link": "https://www.project-syndicate.org",
         "region": "GLOBAL",
