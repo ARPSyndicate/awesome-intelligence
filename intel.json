@@ -165,7 +165,7 @@
     {
         "title": "Dehashed",
         "description": "DeHashed provides free deep-web scans and protection against credential leaks. A modern personal asset search engine to help secure accounts and provide insight on compromised assets.",
-        "link": "https://dehashed.com/",
+        "link": "https://dehashed.com",
         "region": "GLOBAL",
         "tags": "breach"
     },
@@ -195,7 +195,7 @@
         "title": "The World Factbook",
         "social": ["https://twitter.com/cia","https://www.facebook.com/Central.Intelligence.Agency", "https://www.instagram.com/cia", "https://www.linkedin.com/company/central-intelligence-agency"],
         "description": "The World Factbook provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.",
-        "link": "https://www.cia.gov/the-world-factbook/",
+        "link": "https://www.cia.gov/the-world-factbook",
         "region": "GLOBAL",
         "tags": "geopolitics,terrorism,economics"
     },
@@ -419,7 +419,7 @@
         "title": "Economist Intelligence",
         "social": ["https://www.linkedin.com/company/the-economist-intelligence-unit", "https://twitter.com/theeiu", "https://www.youtube.com/user/eiumedia", "http://facebook.com/TheEIU"],
         "description": "Stay current on important trending topics that impact business decisions through EIU curated set of global themes which range from climate change to Covid-19 and digital payments. Learn how global issues are impacting various industries and markets today.",
-        "link": "https://www.eiu.com/n/global-themes/",
+        "link": "https://www.eiu.com/n/global-themes",
         "region": "GLOBAL",
         "tags": "economics"
     },
@@ -579,7 +579,7 @@
     },
     {
         "title": "DNS Twister",
-        "social": ["https://twitter.com/dnstwister", "https://www.linkedin.com/in/elceef/", "https://github.com/elceef", "https://linkedin.com/in/elceef"],
+        "social": ["https://twitter.com/dnstwister", "https://www.linkedin.com/in/elceef", "https://github.com/elceef", "https://linkedin.com/in/elceef"],
         "description": "The anti-phishing domain name search engine and DNS monitoring service",
         "link": "https://dnstwister.report",
         "region": "GLOBAL",
@@ -633,7 +633,7 @@
     },
     {
         "title": "Wikistrat",
-        "social": ["https://twitter.com/Wikistrat", "https://www.facebook.com/Wikistrat/", "https://www.linkedin.com/company/wikistrat"],
+        "social": ["https://twitter.com/Wikistrat", "https://www.facebook.com/Wikistrat", "https://www.linkedin.com/company/wikistrat"],
         "description": "Wikistrat is perfectly suited for collaborative analysis, strategic planning, and simulations, thanks to their ability to engage large crowds of experts to collaborate using their interactive online platform",
         "link": "https://www.wikistrat.com/blog",
         "region": "GLOBAL",
@@ -948,7 +948,7 @@
     },
     {
         "title": "Cyware Feeds",
-        "social": ["https://twitter.com/cywareco", "https://www.facebook.com/Cywareco/", "https://www.linkedin.com/company/cyware", "https://www.youtube.com/channel/UCBPcVKjzXijVkBWwV3wNjag"],
+        "social": ["https://twitter.com/cywareco", "https://www.facebook.com/Cywareco", "https://www.linkedin.com/company/cyware", "https://www.youtube.com/channel/UCBPcVKjzXijVkBWwV3wNjag"],
         "description": "Free Cyware Threat Intelligence Feeds",
         "link": "https://cyware.com/community/ctix-feeds",
         "region": "GLOBAL",
@@ -1001,7 +1001,7 @@
     },
     {
         "title": "ThreatCop Phishing",
-        "social": ["https://twitter.com/threatcop", "https://www.linkedin.com/company/threatcop/", "https://www.youtube.com/@threatcop"],
+        "social": ["https://twitter.com/threatcop", "https://www.linkedin.com/company/threatcop", "https://www.youtube.com/@threatcop"],
         "description": "Phishing URL Checker detects malicious links instantly. It provides you with real-time results to help you detect if a URL is legitimate or a phishing link. So, don't fret if you come across any suspicious links. Just use this phishing link scanner to protect yourself against malicious links, phishing scams and suspicious websites.",
         "link": "https://threatcop.com/phishing-url-checker",
         "region": "GLOBAL",
@@ -1033,7 +1033,7 @@
     },
     {
         "title": "ORF",
-        "social": ["https://www.facebook.com/Observer-Research-Foundation-184850724955326/","https://twitter.com/orfonline", "https://www.instagram.com/orfonline", "https://www.linkedin.com/company/observer-research-foundation", "https://www.youtube.com/channel/UCkcjGxTW_mLZmmEfWP2UMtQ", "https://t.me/orftg"],
+        "social": ["https://www.facebook.com/Observer-Research-Foundation-184850724955326","https://twitter.com/orfonline", "https://www.instagram.com/orfonline", "https://www.linkedin.com/company/observer-research-foundation", "https://www.youtube.com/channel/UCkcjGxTW_mLZmmEfWP2UMtQ", "https://t.me/orftg"],
         "description": "Set up in 1990, Observer Research Foundation (ORF) seeks to lead and aid policy thinking towards building a strong and prosperous India in a fair and equitable world. It helps discover and inform India's choices, and carries Indian voices and ideas to forums shaping global debates. ORF provides non-partisan, independent analyses and inputs on matters of security, strategy, economy, development, energy, resources and global governance to diverse decision-makers (governments, business communities, academia, civil society). ORF's mandate is to conduct in-depth research, provide inclusive platforms and invest in tomorrow's thought leaders today.",
         "link": "https://www.orfonline.org",
         "region": "GLOBAL",
@@ -1043,7 +1043,7 @@
         "title": "Verdict Network",
         "social": ["https://twitter.com/VerdictUK","https://www.facebook.com/globaldataplc","https://www.linkedin.com/company/globaldataplc"],
         "description": "Publications in the Verdict network cover multi-sector business and innovation news with speed, accuracy and intelligence.",
-        "link": "https://www.verdict.co.uk/verdict-network/",
+        "link": "https://www.verdict.co.uk/verdict-network",
         "region": "GLOBAL",
         "tags": "geopolitics,economics"
     },
@@ -1089,7 +1089,7 @@
     },
     {
         "title": "ICIJ Offshore Leaks",
-        "social": ["https://www.linkedin.com/company/1732242/", "https://twitter.com/ICIJorg", "https://instagram.com/icijorg"],
+        "social": ["https://www.linkedin.com/company/1732242", "https://twitter.com/ICIJorg", "https://instagram.com/icijorg"],
         "description": "Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.",
         "link": "https://offshoreleaks.icij.org",
         "region": "GLOBAL",
@@ -1143,7 +1143,7 @@
     },
     {
         "title": "Pew Research",
-        "social": ["https://twitter.com/pewresearch", "https://www.facebook.com/pewresearch/", "https://www.youtube.com/user/PewResearchCenter"],
+        "social": ["https://twitter.com/pewresearch", "https://www.facebook.com/pewresearch", "https://www.youtube.com/user/PewResearchCenter"],
         "description": "Pew Research Center is a nonpartisan fact tank that informs the public about the issues, attitudes and trends shaping the world. It conducts public opinion polling, demographic research, media content analysis and other empirical social science research. Pew Research Center does not take policy positions.",
         "link": "https://www.pewresearch.org",
         "region": "GLOBAL",
@@ -1387,7 +1387,7 @@
     },
     {
         "title": "SeekingAlpha",
-        "social": ["https://www.facebook.com/Seekingalpha","https://www.linkedin.com/company/56547","https://www.instagram.com/seekingalpha/","https://www.youtube.com/channel/UC9ZGkLwawKeG5C0Dt9FS-lQ","https://twitter.com/SeekingAlpha"],
+        "social": ["https://www.facebook.com/Seekingalpha","https://www.linkedin.com/company/56547","https://www.instagram.com/seekingalpha","https://www.youtube.com/channel/UC9ZGkLwawKeG5C0Dt9FS-lQ","https://twitter.com/SeekingAlpha"],
         "description": "Seeking Alpha, the largest investing community in the world. Get stock market news and analysis, investing ideas, earnings calls, charts and portfolio analysis tools.",
         "link": "https://seekingalpha.com",
         "region": "GLOBAL",
@@ -1403,7 +1403,7 @@
     },
     {
         "title": "Regional Economic Outlook",
-        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728/","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf/","http://www.youtube.com/imf"],
+        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf","http://www.youtube.com/imf"],
         "description": "Regional Economic Outlook discuss recent economic developments and prospects for countries in various regions. They also address economic policy developments that have affected economic performance in the regions, and discuss key challenges faced by policymakers. They address regional policy developments and challenges, and provide country-specific data and analysis, including through analytical pieces on issues of interest to a particular region.",
         "link": "https://www.imf.org/en/Publications/REO",
         "region": "GLOBAL",
@@ -1411,7 +1411,7 @@
     },
     {
         "title": "Fiscal Monitor",
-        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728/","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf/","http://www.youtube.com/imf"],
+        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf","http://www.youtube.com/imf"],
         "description": "As the global economy faces increasing fiscal challenges, multilateral surveillance of fiscal developments has become an important part of the IMF's surveillance responsibilities. The Fiscal Monitor series provides an overview of latest public finance developments, updates the medium-term fiscal outlook, and assesses fiscal implications of policies relevant to the global economy. The Fiscal Monitor is prepared twice a year by the IMF's Fiscal Affairs Department. Its projections are based on the same database used for the World Economic Outlook (WEO) and the Global Financial Stability Report (GFSR). The fiscal projections for individual countries have been prepared by IMF desk economists, and, in line with the WEO guidelines.",
         "link": "https://www.imf.org/en/Publications/FM",
         "region": "GLOBAL",
@@ -1419,7 +1419,7 @@
     },
     {
         "title": "GFSR",
-        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728/","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf/","http://www.youtube.com/imf"],
+        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf","http://www.youtube.com/imf"],
         "description": "The Global Financial Stability Report provides an assessment of the global financial system and markets, and addresses emerging market financing in a global context. It focuses on current market conditions, highlighting systemic issues that could pose a risk to financial stability and sustained market access by emerging market borrowers. The Report draws out the financial ramifications of economic imbalances highlighted by the IMF's World Economic Outlook. It contains, as special features, analytical chapters or essays on structural or systemic issues relevant to international financial stability.",
         "link": "https://www.imf.org/en/Publications/GFSR",
         "region": "GLOBAL",
@@ -1427,7 +1427,7 @@
     },
     {
         "title": "World Economic Outlook",
-        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728/","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf/","http://www.youtube.com/imf"],
+        "social": ["http://www.twitter.com/imfnews","https://www.facebook.com/International-Monetary-Fund-152292984850728","http://www.linkedin.com/company/international-monetary-fund","https://www.instagram.com/the_imf","http://www.youtube.com/imf"],
         "description": "A Survey by the IMF staff usually published twice a year. It presents IMF staff economists' analyses of global economic developments during the near and medium term. Chapters give an overview as well as more detailed analysis of the world economy; consider issues affecting industrial countries, developing countries, and economies in transition to market; and address topics of pressing current interest.",
         "link": "https://www.imf.org/en/Publications/WEO",
         "region": "GLOBAL",
@@ -1648,7 +1648,7 @@
     },
     {
         "title": "Hunter",
-        "social": ["https://twitter.com/EmailHunter","https://www.facebook.com/EmailHunter.co","https://www.linkedin.com/company/hunter-io/","https://www.youtube.com/channel/UCAaEqu5fM-nSVvWZ656nd5g","https://github.com/hunter-io"],
+        "social": ["https://twitter.com/EmailHunter","https://www.facebook.com/EmailHunter.co","https://www.linkedin.com/company/hunter-io","https://www.youtube.com/channel/UCAaEqu5fM-nSVvWZ656nd5g","https://github.com/hunter-io"],
         "description": "Hunter is the leading solution to find and verify professional email addresses. Start using Hunter and connect with the people that matter for your business.",
         "link": "https://hunter.io",
         "region": "GLOBAL",
@@ -2117,7 +2117,7 @@
     },
     {
         "title": "TradingView",
-        "social": ["https://t.me/tradingview/","https://www.facebook.com/tradingview/","https://www.instagram.com/tradingview","https://www.linkedin.com/company/tradingview"],
+        "social": ["https://t.me/tradingview","https://www.facebook.com/tradingview","https://www.instagram.com/tradingview","https://www.linkedin.com/company/tradingview"],
         "description": "Where the world charts, chats and trades markets. We're a supercharged super-charting platform and social network for traders and investors. Free to sign up.",
         "link": "https://www.tradingview.com",
         "region": "GLOBAL",
@@ -2382,7 +2382,7 @@
         "title": "Global Crypto Press",
         "social": ["https://twitter.com/thecryptopress", "https://www.facebook.com/globalcryptopress", "https://www.instagram.com/global_crypto_press", "https://www.linkedin.com/company/global-crypto-press-news"],
         "description": "Cryptocurrency News Live and Breaking in Real-Time! Current crypto coin prices, analysis, and predictions from the Global Crypto Press Association.",
-        "link": "https://www.globalcryptopress.com/",
+        "link": "https://www.globalcryptopress.com",
         "region": "GLOBAL",
         "tags": "crypto"
     },
@@ -2390,14 +2390,14 @@
         "title": "Crypto Daily",
         "social": ["https://t.me/officialcryptodaily", "https://twitter.com/cryptodailyuk", "https://www.facebook.com/cryptodailyofficial", "https://www.instagram.com/cryptodailyofficial"],
         "description": "Cryptocurrency News and digital finance analysis from Crypto Daily. Live price updates, and crypto currency articles and videos for the latest Blockchain news.",
-        "link": "https://cryptodaily.co.uk/",
+        "link": "https://cryptodaily.co.uk",
         "region": "GLOBAL",
         "tags": "crypto"
     },
     {
         "title": "Coinpedia",
         "description": "Latest News on Cryptocurrency, Bitcoin, Blockchain, Events, Startups, decentralized market and more.",
-        "link": "https://coinPedia.org/news/",
+        "link": "https://coinPedia.org/news",
         "region": "GLOBAL",
         "tags": "crypto"
     },
@@ -2411,7 +2411,7 @@
     {
         "title": "Chainwire Newsroom",
         "description": "The Chainwire newsroom is a source for the latest news in crypto & blockchain, from the leading crypto press release distribution service.",
-        "link": "https://chainwire.org/newsroom/",
+        "link": "https://chainwire.org/newsroom",
         "region": "GLOBAL",
         "tags": "crypto"
     },
@@ -2419,7 +2419,7 @@
         "title": "CryptoNews",
         "social": ["https://twitter.com/_cryptonews_net", "https://www.linkedin.com/company/crypto-news-net"],
         "description": "News from the world of cryptocurrencies",
-        "link": "https://www.crypto-news.net/",
+        "link": "https://www.crypto-news.net",
         "region": "GLOBAL",
         "tags": "crypto"
     },
@@ -2427,7 +2427,7 @@
         "title": "Coinfea",
         "social": ["http://t.me/coinfea", "https://twitter.com/coinfea", "https://www.facebook.com/coinfeaofficial", "https://www.linkedin.com/company/coinfea"],
         "description": "Crypto and Blockchain News",
-        "link": "https://coinfea.com/",
+        "link": "https://coinfea.com",
         "region": "GLOBAL",
         "tags": "crypto"
     },
@@ -2435,7 +2435,7 @@
         "title": "Coinnounce",
         "social": ["https://twitter.com/coinnounce","https://www.facebook.com/coinnounce","https://www.instagram.com/coinnounce"],
         "description": "Coinnounce has been the best source for the latest crypto & bitcoin news since 2018. Read the latest on the blockchain, BTC, eth, NFTs, and metaverse.",
-        "link": "https://coinnounce.com/",
+        "link": "https://coinnounce.com",
         "region": "GLOBAL",
         "tags": "crypto"
     },
@@ -2443,8 +2443,71 @@
         "title": "The Crypto Times",
         "social": ["https://facebook.com/cryptotimes.io", "https://t.me/cryptotimesio", "https://twitter.com/cryptotimes_io", "https://www.instagram.com/cryptotimes.io", "https://www.linkedin.com/company/74922434"],
         "description": "Stay informed with the latest crypto news and updates on Bitcoin, Ethereum, NFTs, Altcoin, DeFi, and Metaverse trends from Crypto Times.",
-        "link": "https://www.cryptotimes.io/",
+        "link": "https://www.cryptotimes.io",
         "region": "GLOBAL",
         "tags": "crypto"
+    },
+    {
+        "title": "Crypto-ML",
+        "description": "Crypto-ML machine learning and big data for crypto investors. With human-friendly market intelligence. Bitcoin, Ethereum, and top cryptocurrencies.",
+        "link": "https://crypto-ml.com",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "Quantify Crypto",
+        "description": "Free cryptocurrency analytics, price alerts, professional tools, heatmaps, strategies, educational content, news, charts and more.",
+        "link": "https://quantifycrypto.com",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "IntoTheBlock",
+        "description": "ITB is set out on a journey to unlock the mysteries of crypto assets and provide investors with relevant intelligence about the market.",
+        "link": "https://app.intotheblock.com",
+        "region": "GLOBAL",
+        "tags": "crypto"
+    },
+    {
+        "title": "EPB Research",
+        "description": "EPB's industry-leading research, reports, and videos will give you the knowledge you need to stay ahead of economic cycles and make more informed investment decisions.",
+        "link": "https://epbresearch.com/category/written-reports",
+        "region": "GLOBAL",
+        "tags": "economics,stocks"
+    },
+    {
+        "title": "Mint",
+        "description": "latest Business News headlines, LIVE share market news and updates, financial, economic and banking news from India & across the World on Mint.",
+        "link": "https://www.livemint.com",
+        "region": "GLOBAL",
+        "tags": "economics,stocks"
+    },
+    {
+        "title": "MacroVisor",
+        "description": "Bringing you unique and in-depth analysis on the economy and financial markets from the big picture macro view to the fundamentals and beyond.",
+        "link": "https://www.macrovisor.com",
+        "region": "GLOBAL",
+        "tags": "economics,stocks"
+    },
+    {
+        "title": "Palladium Magazine",
+        "description": "Palladium is a San Francisco-based non-partisan publication that explores the future of governance and society through journalism, analysis, and philosophy.",
+        "link": "https://www.palladiummag.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,economics,terrorism"
+    },
+    {
+        "title": "Epieos",
+        "description": "An OSINT search engine that allows you to perform reverse email search, find related google reviews, use Holehe online, and many other things.",
+        "link": "https://epieos.com",
+        "region": "GLOBAL",
+        "tags": "web,social"
+    },
+    {
+        "title": "Project Syndicate",
+        "description": "Project Syndicate produces and delivers original, high-quality commentaries to a global audience. Featuring exclusive contributions by prominent political leaders, policymakers, scholars, business leaders, and civic activists from around the world, we provide news media and their readers with cutting-edge analysis and insight, regardless of ability to pay.",
+        "link": "https://www.project-syndicate.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,economics,stocks"
     }
 ]
