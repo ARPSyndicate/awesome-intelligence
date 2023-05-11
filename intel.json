@@ -2521,5 +2521,13 @@
         "link": "https://www.project-syndicate.org",
         "region": "GLOBAL",
         "tags": "geopolitics,economics,stocks"
-    }
+    },
+    {
+        "title": "Digital Footprint Check",
+        "social": ["https://twitter.com/FootPrintCheck","https://www.facebook.com/DigitalFootprintCheck","https://www.linkedin.com/in/digital-footprint-check/"],
+        "description": "Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.",
+        "link": "https://digitalfootprintcheck.com",
+        "region": "GLOBAL",
+        "tags": "web,social"
+    }    
 ]
