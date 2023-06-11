@@ -8,12 +8,12 @@
         "tags": "exploit,vulnerability"
     },
     {
-        "title": "Scanny",
-        "social": ["https://t.me/scanfactorybot", "https://twitter.com/scanfactory_io", "https://www.linkedin.com/company/scanfactory-io"],
-        "description": "Vulnerability Scanning for Businesses & Security Researchers. Scanny will identify potential security risks and provide a brief report summarizing the overall security posture of an external network infrastructure.",
-        "link": "https://in.scanfactory.io/free-vulnerability-scanning.html",
+        "title": "Subdomain Center",
+        "social": ["https://twitter.com/scanfactory_io", "https://www.linkedin.com/company/scanfactory-io"],
+        "description": "ARPSyndicate's Subdomain Center API",
+        "link": "https://www.subdomain.center",
         "region": "GLOBAL",
-        "tags": "exploit,vulnerability,network,web,image"
+        "tags": "network"
     },
     {
         "title": "BBR Dataset",
@@ -2529,5 +2529,124 @@
         "link": "https://digitalfootprintcheck.com",
         "region": "GLOBAL",
         "tags": "web,social"
-    }    
+    },
+    {
+        "title": "CivilNet",
+        "description": "News from Armenia, Karabakh, and the post-Soviet neighborhood.",
+        "link": "https://www.civilnet.am/en",
+        "region": "FORMER SOVIET UNION",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "BizNar",
+        "description": "Deep Web Business Intelligence",
+        "link": "https://biznar.com/biznar/desktop/en/search.html",
+        "region": "GLOBAL",
+        "tags": "web,company"
+    },
+    {
+        "title": "Defense News",
+        "description": "Defense News is a global website and magazine about the politics, business and technology of defense, serving senior military and industry decision-makers.",
+        "link": "https://www.defensenews.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "Naval News",
+        "description": "Naval News brings you news coverage of the latest naval defense shows & events. We are also reporting on naval technology from all over the world.",
+        "link": "https://www.navalnews.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "USNI News",
+        "description": "Maritime News and Analysis",
+        "link": "https://news.usni.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "Institute of International Relations",
+        "description": "The Institute of International Relations Prague (IIR) is an independent public research institution that conducts excellent academic research in the larger field of international relations. It is established by the Ministry of Foreign Affairs of the Czech Republic.",
+        "link": "https://www.iir.cz/en/",
+        "region": "GLOBAL",
+        "tags": "geopolitics"
+    },
+    {
+        "title": "Janes",
+        "description": "The trusted source for defence intelligence - Unrivalled defence and security analysis - Military platforms - Threat intelligence - Industry awareness and advisory services",
+        "link": "https://www.janes.com/",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "Valhalla",
+        "description": "Valhalla YARA Rules",
+        "link": "https://valhalla.nextron-systems.com/",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "TASS News",
+        "description": "Since 1904 TASS has been Russia's leading news agency. For more than 113 years, TASS has ceaselessly strived to deliver the latest and most accurate news from around the world",
+        "link": "https://tass.com",
+        "region": "RUSSIA",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "Sputnik News",
+        "description": "Sputnik International is a global news agency keeping you updated on all the latest world news 24/7. Browse Sputnik for breaking news and top stories on politics, economy, social media and the most viral trends.",
+        "link": "https://sputnikglobe.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "PIPS",
+        "description": "Pak Institute For Peace Studies (PIPS) | An independent think-tank",
+        "link": "https://www.pakpips.com",
+        "region": "PAKISTAN",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "PICSS",
+        "description": "Pakistan Institute for Conflict and Security Studies (PICSS) works as an institution, that provides authentic, credible, reliable, up to date, and efficient information and objective analysis related to defense and security, for policy development leading to peace and stability",
+        "link": "https://www.picss.net",
+        "region": "PAKISTAN",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "Reuters",
+        "description": "Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+        "link": "https://www.reuters.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism,stocks"
+    },
+    {
+        "title": "RT",
+        "description": "RT is the first Russian 24/7 English-language news channel which brings the Russian view on global news.",
+        "link": "https://rt.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "InternetActivism",
+        "description": "A nonprofit that develops digital humanitarian tools in response to crisis.",
+        "link": "https://internetactivism.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "IISS",
+        "description": "International Institute for Strategic Studies (IISSS) is a world-leading authority on global security, political risk and military conflict.",
+        "link": "https://iiss.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "CFR",
+        "description": "The Council on Foreign Relations (CFR) newsletters are available on a range of international relations and foreign policy topics from a Daily News Brief and The World This Week to Eyes on Asia and This Month in Geoeconomics.",
+        "link": "https://cfr.org/newsletters",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism"
+    }
 ]
