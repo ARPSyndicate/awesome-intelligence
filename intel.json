@@ -2648,5 +2648,40 @@
         "link": "https://cfr.org/newsletters",
         "region": "GLOBAL",
         "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "SciHub",
+        "description": "Get free access to academic journals. Download research papers for free from ScienceDirect, IEEE, Wiley, Springer, Nature and others",
+        "link": "https://sci-hub.ru",
+        "region": "GLOBAL",
+        "tags": "academic"
+    },
+    {
+        "title": "IDCrawl",
+        "description": "Search a friend, relative, yourself, or someone else you may know",
+        "link": "https://www.idcrawl.com",
+        "region": "U.S.A.",
+        "tags": "social"
+    },
+    {
+        "title": "Osint Industries",
+        "description": "Discover how Osint Industries specializes in leveraging OSINT to investigate emails and phone numbers. Unlock valuable insights and conduct comprehensive investigations using our advanced tools and resources.",
+        "link": "https://osint.industries",
+        "region": "GLOBAL",
+        "tags": "social"
+    },
+    {
+        "title": "ESPY",
+        "description": "Reverse phone numbers into detailed and reliable OSINT data, by using our Phone Lookup API to collect real-time intelligence from dozens of sources.",
+        "link": "http://espysys.com",
+        "region": "GLOBAL",
+        "tags": "social"
+    },
+    {
+        "title": "SUNDERS",
+        "description": "Surveillance under Surveillance shows you cameras and guards — watching you — almost everywhere. You can see where they are located and, if the information is available, what type they are, the area they observe, or other interesting facts.",
+        "link": "https://sunders.uber.space",
+        "region": "GLOBAL",
+        "tags": "network"
     }
 ]
