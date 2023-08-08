@@ -31,6 +31,14 @@
         "region": "GLOBAL",
         "tags": "web,network,vulnerability,image"
     },
+        {
+        "title": "Deepinfo",
+        "social": ["https://deepinfo.com/deepinfo", "https://www.linkedin.com/company/deepinfo"],
+        "description": "Deepinfo has the most comprehensive Internet-wide data and has been using this data for years to empower cybersecurity of all sizes of organizations worldwide.",
+        "link": "https://deepinfo.com",
+        "region": "GLOBAL",
+        "tags": "web,vulnerability"
+    },
     {
         "title": "ZieTRAD Forecast",
         "description": "Stock, Crypto, Commodity, Index & Currency Forecasts.",
