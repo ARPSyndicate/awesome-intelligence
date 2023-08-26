@@ -2691,5 +2691,12 @@
         "link": "https://sunders.uber.space",
         "region": "GLOBAL",
         "tags": "network"
+    },
+    {
+        "title": "Privacy Watch",
+        "description": "Privacy Watch is a site with several online OSINT tools. No installation and easy to access. Some tools are free.",
+        "link": "https://privacywatch.app",
+        "region": "GLOBAL",
+        "tags": "social"
     }
 ]
