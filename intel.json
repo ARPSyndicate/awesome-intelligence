@@ -1453,16 +1453,6 @@
         "tags": "artificial-intelligence"
     },
     {
-        "title": "HDRobots",
-        "social": [
-            "https://twitter.com/HDRobots"
-        ],
-        "description": "HDRobots is an easy-to-search AI tool directory with a chatbot that can quickly help you find the tool that you need.",
-        "link": "https://hdrobots.com",
-        "region": "GLOBAL",
-        "tags": "artificial-intelligence"
-    },
-    {
         "title": "Curated Intel",
         "social": [
             "https://github.com/curated-intel",
@@ -3992,5 +3982,106 @@
         "link": "https://factinsect.com",
         "region": "GLOBAL",
         "tags": "artificial-intelligence"
+    },
+    {
+        "title": "HDRobots",
+        "social": [
+            "https://twitter.com/HDRobots"
+        ],
+        "description": "HDRobots is an easy-to-search AI tool directory with a chatbot that can quickly help you find the tool that you need.",
+        "link": "https://hdrobots.com",
+        "region": "GLOBAL",
+        "tags": "artificial-intelligence"
+    },
+    {
+        "title": "Channel 4 News",
+        "description": "Channel 4 News is committed to challenging expectations with stories that reveal and inspire, innovatively produced - with just a touch of mischief.",
+        "link": "https://www.channel4.com/news",
+        "region": "GLOBAL",
+        "tags": "crimes,terrorism,geopolitics,economics"
+    },
+    {
+        "title": "OSINT TEAM",
+        "description": "Quality articles on searching information. OSINT tools and techniques to find what is hidden. SOCMINT, GEOINT, HUMINT, and other types of intelligence.",
+        "link": "https://www.osintteam.com",
+        "region": "GLOBAL",
+        "tags": "roadmap"
+    },
+    {
+        "title": "ThreatMon Reports",
+        "description": "The most comprehensive threat intelligence & cyber risk reports from ThreatMon's cyber analysts. Completely free to download and read.",
+        "link": "https://threatmon.io/reports",
+        "region": "GLOBAL",
+        "tags": "malware"
+    },
+    {
+        "title": "0t.rocks Search",
+        "description": "People's Records Search",
+        "link": "https://search.0t.rocks",
+        "region": "GLOBAL",
+        "tags": "breach,social"
+    },
+    {
+        "title": "Israel Datasets",
+        "description": "Israel Datasets",
+        "link": "https://data.gov.il/dataset",
+        "region": "ISRAEL",
+        "tags": "tracking,natural,network,economics"
+    },
+    {
+        "title": "Simplex 3D",
+        "description": "Realistic 3D Search for over 60 cities in Israel.",
+        "link": "https://simplex3dx.co.il/?en",
+        "region": "ISRAEL",
+        "tags": "image,tracking"
+    },
+    {
+        "title": "AI Dubbing",
+        "description": "Best Voice Translation & Voiceover Tool. Localize your content across 29 languages in seconds with voice translation, speaker detection, and audio dubbing",
+        "link": "https://elevenlabs.io/dubbing",
+        "region": "GLOBAL",
+        "tags": "artificial-intelligence"
+    },
+    {
+        "title": "Budget Key",
+        "description": "We have collected and made available in the budget key all the information about the state budget and government expenditures of Israel - so that we can know what we are doing with our money.",
+        "link": "https://next.obudget.org/?lang=en",
+        "region": "ISRAEL",
+        "tags": "economics"
+    },
+    {
+        "title": "Ship Spotting",
+        "description": "World's Central for Ship Photography and Information",
+        "link": "https://www.shipspotting.com",
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "Broadcastify",
+        "description": "Live Police, Fire, EMS, Aircraft, and Rail Audio Feeds",
+        "link": "https://www.broadcastify.com",
+        "region": "GLOBAL",
+        "tags": "crimes,terrorism,natural,tracking"
+    },
+    {
+        "title": "OpenCelliD",
+        "description": "OpenCelliD is the largest Open Database of Cell Towers & their locations. You can geolocate IoT & Mobile devices without GPS, explore Mobile Operator coverage and more!",
+        "link": "https://www.opencellid.org",
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "AviationStack",
+        "description": "Free, powerful REST API for real-time flight status and tracking information. Live data for flights, airports, schedules, timetables, iata codes, and more.",
+        "link": "https://aviationstack.com",
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "DigitalSide TI",
+        "description": "This site contains a set of Open Source Cyber Threat Intellegence information, monstly based on malware analysis and compromised URLs, IPs and domains. The purpose of this project is to develop and test new wayes to hunt, analyze, collect and share relevants sets of IoCs to be used by SOC/CSIRT/CERT with minimun effort.",
+        "link": "https://osint.digitalside.it",
+        "region": "GLOBAL",
+        "tags": "malware,network,web"
     }
 ]
