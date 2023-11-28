@@ -3,7 +3,10 @@
         "title": "Exploit Observer",
         "social": [
             "https://twitter.com/scanfactory_io",
-            "https://www.linkedin.com/company/scanfactory-io"
+            "https://twitter.com/arpsyndicate",
+            "https://www.linkedin.com/company/scanfactory-io",
+            "https://www.linkedin.com/company/arpsyndicate",
+            "https://t.me/s/arpsyndicate"
         ],
         "description": "Exploit Observer utilizes Apache's Nutch & a few of our proprietary tools to discover & curate more exploits than anyone else.",
         "link": "https://www.exploit.observer",
@@ -14,23 +17,15 @@
         "title": "Subdomain Center",
         "social": [
             "https://twitter.com/scanfactory_io",
-            "https://www.linkedin.com/company/scanfactory-io"
+            "https://twitter.com/arpsyndicate",
+            "https://www.linkedin.com/company/scanfactory-io",
+            "https://www.linkedin.com/company/arpsyndicate",
+            "https://t.me/s/arpsyndicate"
         ],
         "description": "Subdomain Center utilizes Apache's Nutch, Calidog's Certstream, OpenAI's Embedding Models & a few of our proprietary tools to discover more subdomains than anyone else.",
         "link": "https://www.subdomain.center",
         "region": "GLOBAL",
         "tags": "network"
-    },
-    {
-        "title": "BBR Dataset",
-        "social": [
-            "https://twitter.com/scanfactory_io",
-            "https://www.linkedin.com/company/scanfactory-io"
-        ],
-        "description": "Recon data for public bug bounty programs.",
-        "link": "https://mega.nz/folder/KXJyQKSA#pRHtZzEO4mxqKDgfzNK8iA",
-        "region": "GLOBAL",
-        "tags": "network,web"
     },
     {
         "title": "Shodan",
@@ -46,18 +41,15 @@
         "tags": "web,network,vulnerability,image"
     },
     {
-        "title": "ZieTRAD Forecast",
-        "description": "Stock, Crypto, Commodity, Index & Currency Forecasts.",
-        "link": "https://forecast.zietrad.app",
+        "title": "Malcore",
+        "social": [
+            "https://twitter.com/Malcoreio",
+            "https://www.linkedin.com/company/malcore"
+        ],
+        "description": "Malcore is the fastest commercial sandbox built with a reverse engineering platform at its core. Its speed allows seamless integration in browser, desktop, and email.",
+        "link": "https://malcore.io",
         "region": "GLOBAL",
-        "tags": "stocks,crypto,economics"
-    },
-    {
-        "title": "ZieTRAD Trends",
-        "description": "Popular Trends based on the News of Global Markets.",
-        "link": "https://trends.zietrad.app",
-        "region": "GLOBAL",
-        "tags": "stocks,crypto,economics"
+        "tags": "malware"
     },
     {
         "title": "Chaos Dataset",
@@ -3373,7 +3365,7 @@
             "https://www.linkedin.com/company/livemint",
             "https://www.youtube.com/channel/UCUI9vm69ZbAqRK3q3vKLWCQ"
         ],
-        "description": "latest Business News headlines, LIVE share market news and updates, financial, economic and banking news from India & across the World on Mint.",
+        "description": "Latest Business News headlines, LIVE share market news and updates, financial, economic and banking news from India & across the World on Mint.",
         "link": "https://www.livemint.com",
         "region": "GLOBAL",
         "tags": "economics,stocks"
@@ -4083,5 +4075,23 @@
         "link": "https://osint.digitalside.it",
         "region": "GLOBAL",
         "tags": "malware,network,web"
+    },
+    {
+        "title": "DocumentCloud",
+        "description": "DocumentCloud is an all-in-one platform used by newsrooms around the world to manage primary source documents. You can use the platform to organize, analyze, annotate, search and embed these resources as needed.",
+        "link": "https://www.documentcloud.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,academics"
+    },
+    {
+        "title": "IDRW",
+        "social": [
+            "https://www.facebook.com/idrw.org",
+            "https://www.youtube.com/channel/UChCONU0XnVC2671b7Jf7lcQ"
+        ],
+        "description": "Indian Defence Research Wing brings latest and in-depth coverage + analysis of Indian Defence News.",
+        "link": "https://idrw.org",
+        "region": "INDIA",
+        "tags": "geopolitics,economics"
     }
 ]
