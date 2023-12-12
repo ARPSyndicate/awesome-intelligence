@@ -2,9 +2,6 @@
     {
         "title": "Exploit Observer",
         "social": [
-            "https://twitter.com/scanfactory_io",
-            "https://twitter.com/arpsyndicate",
-            "https://www.linkedin.com/company/scanfactory-io",
             "https://www.linkedin.com/company/arpsyndicate",
             "https://t.me/s/arpsyndicate"
         ],
@@ -16,9 +13,6 @@
     {
         "title": "Subdomain Center",
         "social": [
-            "https://twitter.com/scanfactory_io",
-            "https://twitter.com/arpsyndicate",
-            "https://www.linkedin.com/company/scanfactory-io",
             "https://www.linkedin.com/company/arpsyndicate",
             "https://t.me/s/arpsyndicate"
         ],
@@ -262,16 +256,6 @@
         "link": "https://ransom.wiki",
         "region": "GLOBAL",
         "tags": "breach"
-    },
-    {
-        "title": "Xlocate",
-        "social": [
-            "https://twitter.com/scanfactory_io"
-        ],
-        "description": "The ultimate exploits/references finder",
-        "link": "https://github.com/ARPSyndicate/xlocate",
-        "region": "GLOBAL",
-        "tags": "exploit,vulnerability"
     },
     {
         "title": "Public Intelligence",
@@ -852,36 +836,6 @@
         "link": "https://usersearch.org",
         "region": "GLOBAL",
         "tags": "social"
-    },
-    {
-        "title": "Domlock",
-        "social": [
-            "https://twitter.com/scanfactory_io"
-        ],
-        "description": "Convert Domains to Netblocks & ASN",
-        "link": "https://github.com/ARPSyndicate/domlock",
-        "region": "GLOBAL",
-        "tags": "web"
-    },
-    {
-        "title": "Rescro Sensitives",
-        "social": [
-            "https://twitter.com/scanfactory_io"
-        ],
-        "description": "Regular Expressions for Sensitive Tokens",
-        "link": "https://github.com/ARPSyndicate/rescro/blob/master/signatures/sensitives.yaml",
-        "region": "GLOBAL",
-        "tags": "web"
-    },
-    {
-        "title": "Favinizer",
-        "social": [
-            "https://twitter.com/scanfactory_io"
-        ],
-        "description": "The Biggest Database of Favicon Hashes",
-        "link": "https://github.com/ARPSyndicate/favinizer/blob/master/favinizer.yaml",
-        "region": "GLOBAL",
-        "tags": "web"
     },
     {
         "title": "SecureList",
@@ -4081,7 +4035,7 @@
         "description": "DocumentCloud is an all-in-one platform used by newsrooms around the world to manage primary source documents. You can use the platform to organize, analyze, annotate, search and embed these resources as needed.",
         "link": "https://www.documentcloud.org",
         "region": "GLOBAL",
-        "tags": "geopolitics,academics"
+        "tags": "geopolitics,academic"
     },
     {
         "title": "IDRW",
@@ -4093,5 +4047,19 @@
         "link": "https://idrw.org",
         "region": "INDIA",
         "tags": "geopolitics,economics"
+    },
+    {
+        "title": "XFE",
+        "description": "IBM X-Force Exchange is a threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers.",
+        "link": "https://exchange.xforce.ibmcloud.com",
+        "region": "GLOBAL",
+        "tags": "malware,network,web"
+    },
+    {
+        "title": "Scumware",
+        "description": "Just another free alternative for security and malware researchers. Find latest reports about malware and other threats.",
+        "link": "https://www.scumware.org",
+        "region": "GLOBAL",
+        "tags": "malware,network,web"
     }
 ]
