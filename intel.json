@@ -2143,7 +2143,7 @@
         "description": "The world biggest directory of online surveillance security cameras. Select a country to watch live street, traffic, parking, office, road, beach, earth online webcams. Now you can search live web cams around the world. You can find here Axis, Panasonic, Linksys, Sony, TPLink, Foscam and a lot of other network video cams available online without a password.",
         "link": "http://www.insecam.org",
         "region": "GLOBAL",
-        "tags": "network"
+        "tags": "network,cameras"
     },
     {
         "title": "FindEmails",
@@ -2391,7 +2391,7 @@
         "description": "EarthCam is the leading network of live streaming webcams for tourism and entertainment. Explore unique and interesting locations around the world with 4K streaming technology. EarthCam provides complete infrastructure services to manage, host and maintain live streaming video solutions for its consumers and corporate clients.",
         "link": "https://www.earthcam.com",
         "region": "GLOBAL",
-        "tags": "network"
+        "tags": "network,cameras"
     },
     {
         "title": "Rain Alarm",
@@ -2433,14 +2433,14 @@
         "description": "A site of webcams from around the world, broadcasting in real time, that you can watch for free. Live webcam are structured by countries, cities and categories",
         "link": "https://www.geocam.ru",
         "region": "GLOBAL",
-        "tags": "network"
+        "tags": "network,cameras"
     },
     {
         "title": "LiveTraffic",
         "description": "Real-time monitoring of Europe's 5,481 live traffic cameras",
         "link": "https://livetraffic.eu",
         "region": "EUROPE",
-        "tags": "network"
+        "tags": "network,cameras"
     },
     {
         "title": "Arab Barometer",
@@ -3634,7 +3634,7 @@
         "description": "Surveillance under Surveillance shows you cameras and guards — watching you — almost everywhere. You can see where they are located and, if the information is available, what type they are, the area they observe, or other interesting facts.",
         "link": "https://sunders.uber.space",
         "region": "GLOBAL",
-        "tags": "network"
+        "tags": "network,cameras"
     },
     {
         "title": "Privacy Watch",
@@ -4061,5 +4061,85 @@
         "link": "https://www.scumware.org",
         "region": "GLOBAL",
         "tags": "malware,network,web"
+    },
+    {
+        "title": "Ukraine Live Cams",
+        "description": "Ukraine live camera 3D map. This data visualization was produced by Akihiko Kusanagi.",
+        "link": "https://nagix.github.io/ukraine-livecams/",
+        "region": "UKRAINE",
+        "tags": "network,cameras"
+    },
+    {
+        "title": "TWN",
+        "description": "The Webcam Network offers regional webcam-listings for (almost) every place on earth.",
+        "link": "http://www.the-webcam-network.com/",
+        "region": "GLOBAL",
+        "tags": "network,cameras"
+    },
+    {
+        "title": "Opentopia",
+        "description": "Opentopia showcases thousands of live webcams which are found through clever search techniques",
+        "link": "http://www.opentopia.com/",
+        "region": "GLOBAL",
+        "tags": "network,cameras"
+    },
+    {
+        "title": "Transparency",
+        "description": "Transparency International - A global movement to end the injustice of corruption.",
+        "link": "https://www.transparency.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,economics,crimes"
+    },
+    {
+        "title": "Maigret",
+        "description": "Collect a dossier on a person by username from thousands of sites.",
+        "link": "https://github.com/soxoj/maigret",
+        "social": [
+            "https://t.me/osint_maigret_bot"
+        ],
+        "region": "GLOBAL",
+        "tags": "social"
+    },
+    {
+        "title": "OCCRP",
+        "description": "Organized Crime and Corruption Reporting Project - News on corruption and organized crime by a global network of investigative journalists.",
+        "link": "https://www.occrp.org/en/",
+        "region": "GLOBAL",
+        "tags": "geopolitics,economics,crimes"
+    },
+    {
+        "title": "Qdorks",
+        "description": "Mastering advanced Google queries, made easy. Enhance your advanced Google Search experience with our intuitive query composer. Easily create, organize, and share complex queries.",
+        "link": "https://qdorks.com/",
+        "region": "GLOBAL",
+        "tags": "web"
+    },
+    {
+        "title": "Radio Garden",
+        "description": "Explore live radio by rotating the globe.",
+        "link": "https://radio.garden",
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "LolArchiver OSINT",
+        "description": "An OSINT search engine that lets you perform reverse email search, find related google account reviews, use an alternative to Holehe (that works), and many other things. Cheaper than most other websites.",
+        "link": "https://osint.lolarchiver.com/",
+        "region": "GLOBAL",
+        "tags": "social"
+    },
+    {
+        "title": "BreachBase",
+        "description": "BreachBase archives thousands of leaked databases and lets its users inspect them. We offer an easy-to-use panel to access our archive as well as an API that helps developers ensure the safety of their users.",
+        "link": "https://breachbase.com/",
+        "region": "GLOBAL",
+        "tags": "breach"
+    },
+    {
+        "title": "WorldCam",
+        "description": "Webcams from around the World",
+        "link": "https://worldcam.eu/",
+        "region": "GLOBAL",
+        "tags": "network,cameras"
     }
 ]
