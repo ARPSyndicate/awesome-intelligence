@@ -4065,21 +4065,21 @@
     {
         "title": "Ukraine Live Cams",
         "description": "Ukraine live camera 3D map. This data visualization was produced by Akihiko Kusanagi.",
-        "link": "https://nagix.github.io/ukraine-livecams/",
+        "link": "https://nagix.github.io/ukraine-livecams",
         "region": "UKRAINE",
         "tags": "network,cameras"
     },
     {
         "title": "TWN",
         "description": "The Webcam Network offers regional webcam-listings for (almost) every place on earth.",
-        "link": "http://www.the-webcam-network.com/",
+        "link": "http://www.the-webcam-network.com",
         "region": "GLOBAL",
         "tags": "network,cameras"
     },
     {
         "title": "Opentopia",
         "description": "Opentopia showcases thousands of live webcams which are found through clever search techniques",
-        "link": "http://www.opentopia.com/",
+        "link": "http://www.opentopia.com",
         "region": "GLOBAL",
         "tags": "network,cameras"
     },
@@ -4103,14 +4103,14 @@
     {
         "title": "OCCRP",
         "description": "Organized Crime and Corruption Reporting Project - News on corruption and organized crime by a global network of investigative journalists.",
-        "link": "https://www.occrp.org/en/",
+        "link": "https://www.occrp.org/en",
         "region": "GLOBAL",
         "tags": "geopolitics,economics,crimes"
     },
     {
         "title": "Qdorks",
         "description": "Mastering advanced Google queries, made easy. Enhance your advanced Google Search experience with our intuitive query composer. Easily create, organize, and share complex queries.",
-        "link": "https://qdorks.com/",
+        "link": "https://qdorks.com",
         "region": "GLOBAL",
         "tags": "web"
     },
@@ -4124,22 +4124,82 @@
     {
         "title": "LolArchiver OSINT",
         "description": "An OSINT search engine that lets you perform reverse email search, find related google account reviews, use an alternative to Holehe (that works), and many other things. Cheaper than most other websites.",
-        "link": "https://osint.lolarchiver.com/",
+        "link": "https://osint.lolarchiver.com",
         "region": "GLOBAL",
         "tags": "social"
     },
     {
         "title": "BreachBase",
         "description": "BreachBase archives thousands of leaked databases and lets its users inspect them. We offer an easy-to-use panel to access our archive as well as an API that helps developers ensure the safety of their users.",
-        "link": "https://breachbase.com/",
+        "link": "https://breachbase.com",
         "region": "GLOBAL",
         "tags": "breach"
     },
     {
         "title": "WorldCam",
         "description": "Webcams from around the World",
-        "link": "https://worldcam.eu/",
+        "link": "https://worldcam.eu",
         "region": "GLOBAL",
         "tags": "network,cameras"
+    },
+    {
+        "title": "Webcam Galore",
+        "description": "Thousands of Webcams from all around the World at Webcam Galore - with previews and archive images.",
+        "link": "https://www.webcamgalore.com",
+        "region": "GLOBAL",
+        "tags": "network,cameras"
+    },
+    {
+        "title": "WiFi Map",
+        "description": "Find free WiFi hotspots with WiFi Map and get internet access wherever you travel! We provide access to over 150M+ hotspots worldwide.",
+        "link": "https://www.wifimap.io",
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "OpenTrafficCamMap",
+        "description": "A crowdsourced database of traffic cameras.",
+        "link": "https://otc.armchairresearch.org/map",
+        "social": [
+            "https://github.com/AidanWelch/OpenTrafficCamMap"
+        ],
+        "region": "U.S.A.",
+        "tags": "network,cameras"
+    },
+    {
+        "title": "KrooozCams",
+        "description": "Watch a cruise vacation before you buy. We have over 110 cruise ships with webcams for you to see.",
+        "link": "https://www.kroooz-cams.com",
+        "region": "GLOBAL",
+        "tags": "network,cameras"
+    },
+    {
+        "title": "Skyline Webcams",
+        "description": "Watch the most popular Live Cams.",
+        "link": "https://www.skylinewebcams.com/en/webcm",
+        "region": "GLOBAL",
+        "tags": "network,cameras"
+    },
+    {
+        "title": "Geneva Academy",
+        "description": "The Geneva Academy of International Humanitarian Law and Human Rights.",
+        "link": "https://geneva-academy.ch",
+        "region": "GLOBAL",
+        "tags": "crimes,terrorism,geopolitics,economics"
+    },
+    {
+        "title": "Z-Library",
+        "description": "The world's largest ebook library.",
+        "link": "https://z-lib.io",
+        "region": "GLOBAL",
+        "tags": "academic"
+    },
+    {
+        "title": "ResearchHub",
+        "description": "Discuss and discover academic research on ResearchHub.",
+        "link": "https://www.researchhub.com",
+        "social": ["https://twitter.com/ResearchHub"],
+        "region": "GLOBAL",
+        "tags": "academic"
     }
 ]
