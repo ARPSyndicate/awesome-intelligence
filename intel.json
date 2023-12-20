@@ -1,5 +1,16 @@
 [
     {
+        "title": "The Tor Project",
+        "social": [
+            "https://twitter.com/torproject",
+            "https://infosec.exchange/@torproject@mastodon.social"
+        ],
+        "description": "The Tor Project develops the software that run the Tor network. This is the best source for information on what is Tor and how it works.",
+        "link": "https://torproject.org",
+        "region": "GLOBAL",
+        "tags": "tor"
+    },
+    {
         "title": "Exploit Observer",
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
