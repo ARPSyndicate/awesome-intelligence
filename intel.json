@@ -4198,8 +4198,83 @@
         "title": "ResearchHub",
         "description": "Discuss and discover academic research on ResearchHub.",
         "link": "https://www.researchhub.com",
-        "social": ["https://twitter.com/ResearchHub"],
+        "social": [
+            "https://twitter.com/ResearchHub"
+        ],
         "region": "GLOBAL",
         "tags": "academic"
+    },
+    {
+        "title": "Pimeyes",
+        "description": "PimEyes is an advanced face recognition search engine, a reverse image search tool, and a photo search mechanism used to find which websites publish your photos online.",
+        "link": "https://pimeyes.com/en",
+        "social": [
+            "https://twitter.com/PimEyesOfficial"
+        ],
+        "region": "GLOBAL",
+        "tags": "image"
+    },
+    {
+        "title": "NAPALM FTP",
+        "description": "NAPALM FTP Indexer lets you search and download files located on public FTP servers.",
+        "link": "https://www.searchftps.net",
+        "region": "GLOBAL",
+        "tags": "network"
+    },
+    {
+        "title": "VK Watch",
+        "description": "VK watch is an OSINT tool for finding information about people on VKontakte.",
+        "link": "https://vk.watch",
+        "region": "GLOBAL",
+        "tags": "social"
+    },
+    {
+        "title": "LibGen",
+        "description": "The Library Genesis aggregator is a community aiming at collecting and cataloging items descriptions for the most part of scientific, scientific and technical directions, as well as file metadata.",
+        "link": "https://libgen.li",
+        "region": "GLOBAL",
+        "tags": "academic"
+    },
+    {
+        "title": "HowToHunt",
+        "description": "Collection of methodology and test case for various web vulnerabilities.",
+        "link": "https://github.com/KathanP19/HowToHunt",
+        "social": [
+            "https://twitter.com/KathanP19"
+        ],
+        "region": "GLOBAL",
+        "tags": "roadmap"
+    },
+    {
+        "title": "0xffsec Handbook",
+        "description": "A living document for penetration testing and offensive security.",
+        "link": "https://0xffsec.com/handbook",
+        "social": [
+            "https://github.com/0xffsec/handbook"
+        ],
+        "region": "GLOBAL",
+        "tags": "roadmap"
+    },
+    {
+        "title": "SquareX",
+        "description": "SquareX keeps you safe, anonymous, and private online! Unlike existing products that block access to files and websites, SquareX allows you to open even suspicious or malicious resources fearlessly!",
+        "link": "https://sqrx.com",
+        "social": [
+            "https://twitter.com/getsquarex",
+            "https://www.linkedin.com/company/getsquarex"
+        ],
+        "region": "GLOBAL",
+        "tags": "malware,phishing"
+    },
+    {
+        "title": "James Brine TI",
+        "description": "Threat intelligence, IOCs, STIX2, tools and other tidbits.",
+        "link": "https://jamesbrine.com.au",
+        "social": [
+            "https://github.com/referefref",
+            "https://twitter.com/referefef"
+        ],
+        "region": "GLOBAL",
+        "tags": "malware,phishing"
     }
 ]
