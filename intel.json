@@ -125,6 +125,13 @@
         "tags": "web,network,vulnerability,image"
     },
     {
+        "title": "Tiny Scan",
+        "description": "A URL scan tool that provides detailed information about any URL, including IP address, location, screenshots, technology stack, performance metrics, and more.",
+        "link": "https://www.tiny-scan.com",
+        "region": "GLOBAL",
+        "tags": "web,network,vulnerability"
+    },
+    {
         "title": "Kaspersky OpenTIP",
         "social": [
             "https://twitter.com/kaspersky"
