@@ -5,7 +5,7 @@
             "https://www.linkedin.com/company/arpsyndicate",
             "https://t.me/s/arpsyndicate"
         ],
-        "description": "Exploit Observer utilizes Apache's Nutch & a few of our proprietary tools to discover & curate more exploits than anyone else.",
+        "description": "Exploit Observer aggregates & interprets exploit/vulnerability data from all over the Internet. Consequently, it has evolved into The World's Largest Exploit & Vulnerability Intelligence Database and is freely accessible to all.",
         "link": "https://www.exploit.observer",
         "region": "GLOBAL",
         "tags": "exploit,vulnerability"
@@ -16,7 +16,7 @@
             "https://www.linkedin.com/company/arpsyndicate",
             "https://t.me/s/arpsyndicate"
         ],
-        "description": "Subdomain Center utilizes Apache's Nutch, Calidog's Certstream, OpenAI's Embedding Models & a few of our proprietary tools to discover more subdomains than anyone else.",
+        "description": "Subdomain Center scours the web, gathering and interpreting data from from all over the Internet. Consequently, it has evolved into The World's Fastest Growing Subdomain & Shadow IT Intelligence Database and is freely accessible to all.",
         "link": "https://www.subdomain.center",
         "region": "GLOBAL",
         "tags": "network"
@@ -123,13 +123,6 @@
         "link": "https://www.criminalip.io",
         "region": "GLOBAL",
         "tags": "web,network,vulnerability,image"
-    },
-    {
-        "title": "Tiny Scan",
-        "description": "A URL scan tool that provides detailed information about any URL, including IP address, location, screenshots, technology stack, performance metrics, and more.",
-        "link": "https://www.tiny-scan.com",
-        "region": "GLOBAL",
-        "tags": "web,network,vulnerability"
     },
     {
         "title": "Kaspersky OpenTIP",
@@ -393,7 +386,7 @@
         "tags": "malware"
     },
     {
-        "title": "BGP Ranking",
+        "title": "CIRCL BGP",
         "social": [
             "https://github.com/D4-project"
         ],
@@ -2074,7 +2067,7 @@
             "https://twitter.com/vulnerscom",
             "https://github.com/vulnerscom"
         ],
-        "description": "Search Engine for Security Intelligence",
+        "description": "Vulnerability database enriched with millions CVE, exploits, articles, varied tools and services for vulnerability management against cybersecurity threats.",
         "link": "https://vulners.com",
         "region": "GLOBAL",
         "tags": "exploit,vulnerability"
@@ -4336,5 +4329,110 @@
         "link": "https://picarta.ai",
         "region": "GLOBAL",
         "tags": "image,tracking"
+    },
+    {
+        "title": "Tiny Scan",
+        "description": "A URL scan tool that provides detailed information about any URL, including IP address, location, screenshots, technology stack, performance metrics, and more.",
+        "link": "https://www.tiny-scan.com",
+        "region": "GLOBAL",
+        "tags": "web,network,vulnerability"
+    },
+    {
+        "title": "ZeroDay",
+        "description": "Free zero-day (0day) vulnerability tracking project.",
+        "link": "https://www.zero-day.cz",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability"
+    },
+    {
+        "title": "Predicta Search",
+        "description": "Get digital footprint from email or phone number.",
+        "link": "https://predictasearch.com",
+        "region": "GLOBAL",
+        "tags": "social,web"
+    },
+    {
+        "title": "Ventusky",
+        "description": "Live wind, rain, radar or temperature maps, more than 50 weather layers, detailed forecast for your place, data from the best weather forecast models with high resolution.",
+        "link": "https://www.ventusky.com",
+        "region": "GLOBAL",
+        "tags": "natural"
+    },
+    {
+        "title": "OSV",
+        "description": "Open Source Vulnerabilities - Comprehensive vulnerability database for your open source projects and dependencies.",
+        "link": "https://osv.dev",
+        "region": "GLOBAL",
+        "tags": "vulnerability,exploit"
+    },
+    {
+        "title": "Certs",
+        "description": "Get accurate and reliable TLS Certificate information.",
+        "link": "https://certs.io",
+        "region": "GLOBAL",
+        "tags": "network,web"
+    },
+    {
+        "title": "Coalition ESS",
+        "description": "The Coalition Exploit Scoring System (ESS) is a model that dynamically scores new and existing vulnerabilities to reflect their exploit likelihood.",
+        "link": "https://ess.coalitioninc.com",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability"
+    },
+    {
+        "title": "Validin",
+        "description": "Validin offers cutting-edge DNS, certificate, and crawling data services to empower threat researchers and corporate security teams. Identify, track, and mitigate risks with our advanced threat intelligence solutions.",
+        "link": "https://app.validin.com",
+        "region": "GLOBAL",
+        "tags": "web,malware,network"
+    },
+    {
+        "title": "CastrickClues",
+        "description": "An OSINT platform to discover valuable insights about anyone through reverse email, username, and phone number lookups, leaving no trace behind.",
+        "link": "https://castrickclues.com",
+        "region": "GLOBAL",
+        "tags": "social,web"
+    },
+    {
+        "title": "CIRCL PDNS",
+        "description": "CIRCL Passive DNS (v2) is a database of historical DNS records.",
+        "link": "https://www.circl.lu/services/passive-dns",
+        "region": "GLOBAL",
+        "tags": "network,web"
+    },
+    {
+        "title": "SeeBug",
+        "description": "Knownsec Seebug Vulnerability Platform - Discovering Vulnerabilities & Providing First Hand Intelligence.",
+        "link": "https://www.seebug.org",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability"
+    },
+    {
+        "title": "InTheWild",
+        "description": "Check CVEs in our free, open source feed of exploited vulnerabilities. Use data on exploits, vulnerability exploitation InTheWild to focus your patch management.",
+        "link": "https://inthewild.io",
+        "region": "GLOBAL",
+        "tags": "exploit,vulnerability"
+    },
+    {
+        "title": "DataLead",
+        "description": "The power of people intelligence at your fingertips.",
+        "link": "https://datalead.ai",
+        "region": "GLOBAL",
+        "tags": "social,web"
+    },
+    {
+        "title": "360 Quake",
+        "description": "360 Cyberspace Surveying & Mapping System.",
+        "link": "https://quake.360.net",
+        "region": "GLOBAL",
+        "tags": "web,malware,network"
+    },
+    {
+        "title": "Cloudflare Radar",
+        "description": "Up to date Internet trends and insights.",
+        "link": "https://radar.cloudflare.com/traffic",
+        "region": "GLOBAL",
+        "tags": "network,web"
     }
 ]
