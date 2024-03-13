@@ -4401,13 +4401,6 @@
         "tags": "network,web"
     },
     {
-        "title": "SeeBug",
-        "description": "Knownsec Seebug Vulnerability Platform - Discovering Vulnerabilities & Providing First Hand Intelligence.",
-        "link": "https://www.seebug.org",
-        "region": "GLOBAL",
-        "tags": "exploit,vulnerability"
-    },
-    {
         "title": "InTheWild",
         "description": "Check CVEs in our free, open source feed of exploited vulnerabilities. Use data on exploits, vulnerability exploitation InTheWild to focus your patch management.",
         "link": "https://inthewild.io",
@@ -4425,7 +4418,7 @@
         "title": "360 Quake",
         "description": "360 Cyberspace Surveying & Mapping System.",
         "link": "https://quake.360.net",
-        "region": "GLOBAL",
+        "region": "CHINA",
         "tags": "web,malware,network"
     },
     {
@@ -4434,5 +4427,47 @@
         "link": "https://radar.cloudflare.com/traffic",
         "region": "GLOBAL",
         "tags": "network,web"
+    },
+    {
+        "title": "Crisis24",
+        "description": "Discover security risk management & integrated risk management services & technologies offered to organizations worldwide by Crisis24, a GardaWorld company.",
+        "link": "https://crisis24.garda.com",
+        "region": "GLOBAL",
+        "tags": "geopolitics,economics,terrorism,crimes"
+    },
+    {
+        "title": "arXiv",
+        "description": "arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.",
+        "link": "https://arxiv.org",
+        "region": "GLOBAL",
+        "tags": "academic"
+    },
+    {
+        "title": "Pl@ntNet Identify",
+        "description": "Pl@ntNet is a tool to help to identify plants with pictures. Identify, explore and share your observations of wild plants.",
+        "link": "https://identify.plantnet.org",
+        "region": "GLOBAL",
+        "tags": "natural"
+    },
+    {
+        "title": "OCCRP Aleph",
+        "description": "OCCRP Aleph is an investigative data platform that helps reporters follow the money. The global archive of research material for investigative reporting.",
+        "link": "https://aleph.occrp.org",
+        "region": "GLOBAL",
+        "tags": "geopolitics,terrorism,crimes,economics"
+    },
+    {
+        "title": "Al-Monitor",
+        "description": "Independent, trusted coverage of the Middle East.",
+        "link": "https://www.al-monitor.com",
+        "region": "MENA",
+        "tags": "geopolitics,terrorism"
+    },
+    {
+        "title": "GIFCT",
+        "description": "Global Internet Forum to Counter Terrorism (GIFCT) brings together the technology industry, government, civil society, and academia to foster collaboration and information-sharing to counter terrorist and violent extremist activity online.",
+        "link": "https://gifct.org",
+        "region": "GLOBAL",
+        "tags": "terrorism"
     }
 ]
