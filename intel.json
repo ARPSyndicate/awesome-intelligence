@@ -199,6 +199,13 @@
         "region": "GLOBAL",
         "tags": "breach"
     },
+        {
+        "title": "WhiteIntel",
+        "description": "WhiteIntel provides free deep-web scans which are focused on compromised devices via stealer malwares. Additional to credentials, it also provide information about compromised devices."
+        "link": "https://whiteintel.io",
+        "region": "GLOBAL",
+        "tags": "breach"
+    },
     {
         "title": "ManyPasswords",
         "description": "Default passwords for IoT devices and for web applications (for ex. MySQL and PostgreSQL admin panels)",
