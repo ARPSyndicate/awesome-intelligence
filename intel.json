@@ -692,6 +692,17 @@
         "tags": "breach"
     },
     {
+        "title": "Hudson Rock",
+        "social": [
+            "https://www.linkedin.com/company/hudson-rock/",
+            "https://twitter.com/rockhudsonrock",
+        ],
+        "description": "Check if a digital asset (username, email, domain) was compromised in global Infostealer attacks",
+        "link": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
+        "region": "GLOBAL",
+        "tags": "breach"
+    },
+    {
         "title": "DNSViz",
         "social": [
             "https://github.com/dnsviz"
