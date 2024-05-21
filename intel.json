@@ -2020,13 +2020,6 @@
         "tags": "web,network"
     },
     {
-        "title": "Dehashed",
-        "description": "DeHashed provides free deep-web scans and protection against credential leaks. A modern personal asset search engine created for security analysts, journalists, security companies, and everyday people to help secure accounts and provide insight on compromised assets. Free breach alerts & breach notifications.",
-        "link": "https://dehashed.com",
-        "region": "GLOBAL",
-        "tags": "breach"
-    },
-    {
         "title": "GrepApp",
         "description": "GrepApp searches code from over a half million public repositories on GitHub. It searches for the exact string you enter, including any punctuation or other characters. You can also search by regular expression, using the RE2 syntax.",
         "link": "https://grep.app",
