@@ -199,9 +199,9 @@
         "region": "GLOBAL",
         "tags": "breach"
     },
-        {
+    {
         "title": "WhiteIntel",
-        "description": "WhiteIntel provides free deep-web scans which are focused on compromised devices via stealer malwares. Additional to credentials, it also provide information about compromised devices."
+        "description": "WhiteIntel provides free deep-web scans which are focused on compromised devices via stealer malwares. Additional to credentials, it also provide information about compromised devices.",
         "link": "https://whiteintel.io",
         "region": "GLOBAL",
         "tags": "breach"
@@ -695,7 +695,7 @@
         "title": "Hudson Rock",
         "social": [
             "https://www.linkedin.com/company/hudson-rock/",
-            "https://twitter.com/rockhudsonrock",
+            "https://twitter.com/rockhudsonrock"
         ],
         "description": "Check if a digital asset (username, email, domain) was compromised in global Infostealer attacks",
         "link": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
@@ -4487,5 +4487,61 @@
         "link": "https://gifct.org",
         "region": "GLOBAL",
         "tags": "terrorism"
+    },
+    {
+        "title": "N2YO",
+        "social": [
+            "https://www.facebook.com/n2yodotcom"
+        ],
+        "description": "Select any satellite orbiting the Earth and check where is located now. Check satellite passes over your location and receive alerts on your phone.",
+        "link": "https://n2yo.com",
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "Space Track",
+        "social": [
+            "https://www.facebook.com/SpaceTrack",
+            "https://twitter.com/spacetrackorg"
+        ],
+        "description": "Space-Track.org promotes space flight safety, protection of the space environment and the peaceful use of space worldwide by sharing space situational awareness services and information with U.S. and international satellite owners/operators, academia and other entities.",
+        "link": "https://www.space-track.org",
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "Satnogs",
+        "social": [
+            "https://twitter.com/satnogs",
+            "https://www.facebook.com/satnogs/"
+        ],
+        "description": "Open Source global network of satellite ground-stations",
+        "link": "https://satnogs.org",
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "CelesTrak",
+        "social": [
+            "https://twitter.com/CelesTrak",
+            "https://twitter.com/TSKelso"
+        ],
+        "description": "CelesTrak's mission remains focused on making data and other resources freely available to the space community to facilitate understanding of our orbital environment and how to use it safely and responsibly.",
+        "link": "https://celestrak.org",
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "Open Cosmos",
+        "social": [
+            "https://twitter.com/Open_Cosmos",
+            "https://www.facebook.com/open.cosmos.space",
+            "https://www.instagram.com/opencosmos.space",
+            "https://www.linkedin.com/company/opencosmos"
+        ],
+        "description": "Open Cosmos is dedicated to solving customer problems with insights from space. Whether this is monitoring agricultural yields, assessing the damage of oil spills or providing navigation solutions, we believe that data from satellites is the most effective and sustainable way of achieving this.",
+        "link": "https://open-cosmos.com",
+        "region": "GLOBAL",
+        "tags": "tracking"
     }
 ]
