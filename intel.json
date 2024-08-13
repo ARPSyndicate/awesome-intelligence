@@ -3,7 +3,8 @@
         "title": "Exploit Observer",
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
-            "https://t.me/s/arpsyndicate"
+            "https://t.me/s/arpsyndicate",
+            "https://twitter.com/arpsyndicate"
         ],
         "description": "Exploit Observer aggregates & interprets exploit/vulnerability data from all over the Internet. Consequently, it has evolved into The World's Largest Exploit & Vulnerability Intelligence Database and is freely accessible to all.",
         "link": "https://www.exploit.observer",
@@ -11,10 +12,23 @@
         "tags": "exploit,vulnerability"
     },
     {
+        "title": "Vulnerability Advisories AI",
+        "social": [
+            "https://www.linkedin.com/company/arpsyndicate",
+            "https://t.me/s/arpsyndicate",
+            "https://twitter.com/arpsyndicate"
+        ],
+        "description": "An AI that generates advisories for any vulnerability or exploit identifer.",
+        "link": "https://advisories.arpsyndicate.io",
+        "region": "GLOBAL",
+        "tags": "artificial-intelligence,vulnerability,exploit"
+    },
+    {
         "title": "Subdomain Center",
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
-            "https://t.me/s/arpsyndicate"
+            "https://t.me/s/arpsyndicate",
+            "https://twitter.com/arpsyndicate"
         ],
         "description": "Subdomain Center scours the web, gathering and interpreting data from from all over the Internet. Consequently, it has evolved into The World's Fastest Growing Subdomain & Shadow IT Intelligence Database and is freely accessible to all.",
         "link": "https://www.subdomain.center",
@@ -4536,5 +4550,62 @@
         "link": "https://open-cosmos.com",
         "region": "GLOBAL",
         "tags": "tracking"
+    },
+    {
+        "title": "Trail of Bits Testing Handbook",
+        "description": "The Testing Handbook is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools used at Trail of Bits.",
+        "link": "https://appsec.guide",
+        "social": [
+            "https://twitter.com/trailofbits",
+            "https://github.com/trailofbits",
+            "https://www.linkedin.com/company/trail-of-bits"
+        ],
+        "region": "GLOBAL",
+        "tags": "roadmap"
+    },
+    {
+        "title": "ADS-B Exchange",
+        "description": "The world's largest community of unfiltered ADS-B/Mode S/MLAT feeders, providing enthusiasts, researchers, and journalists access to the globe’s most extensive flight data for unprecedented flight monitoring.",
+        "link": "https://www.adsbexchange.com",
+        "social": [
+            "https://www.facebook.com/adsbexchange/",
+            "https://www.linkedin.com/company/adsbexchange-com/",
+            "https://twitter.com/adsbex",
+            "https://www.reddit.com/r/ADSBexchange/"
+        ],
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "Pivot Atlas",
+        "description": "This website contains simple reference material for how to make the best use of various threat activity observables, such as IP addresses and file hashes. The goal is to map the pivotability of every type of artifact that analysts might encounter in the course of their investigations.",
+        "link": "https://gopivot.ing",
+        "social": [
+            "https://github.com/korniko98/pivot-atlas",
+            "https://twitter.com/AmitaiCo"
+        ],
+        "region": "GLOBAL",
+        "tags": "roadmap"
+    },
+    {
+        "title": "Military Radar",
+        "description": "Track military and interesting aircraft.",
+        "link": "https://military.freedar.uk/VirtualRadar/mobile.html",
+        "region": "GLOBAL",
+        "tags": "tracking"
+    },
+    {
+        "title": "Africa Organized Crime Index",
+        "description": "The ENACT Organised Crime Index is a multi-dimensional tool that measures both the level of countries' criminality and their resilience to organised crime.",
+        "link": "https://africa.ocindex.net",
+        "region": "AFRICA",
+        "tags": "crimes,terrorism"
+    },
+    {
+        "title": "Global Organized Crime Index",
+        "description": "Based on the 2019 ENACT Organised Crime Index for Africa, the Global Organized Crime Index is a key flagship project of the Global Initiative Against Transnational Organized Crime (GI-TOC).",
+        "link": "https://ocindex.net",
+        "region": "GLOBAL",
+        "tags": "crimes,terrorism"
     }
 ]
