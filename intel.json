@@ -11,6 +11,7 @@
         "region": "GLOBAL",
         "tags": "exploit,vulnerability"
     },
+    
     {
         "title": "Vulnerability Advisories AI",
         "social": [
@@ -22,6 +23,17 @@
         "link": "https://advisories.arpsyndicate.io",
         "region": "GLOBAL",
         "tags": "artificial-intelligence,vulnerability,exploit"
+    },
+    {
+        "title": "Webscout",
+        "social": [
+            "https://www.linkedin.com/company/webscout-io/",
+            "https://twitter.com/webscout_io"
+        ],
+        "description": "A Swiss Army knife for scaled intelligence and metadata on IP addresses and domains",
+        "link": "https://webscout.io/",
+        "region": "GLOBAL",
+        "tags": "web,network,company"
     },
     {
         "title": "Subdomain Center",
