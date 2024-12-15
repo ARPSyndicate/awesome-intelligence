@@ -49,6 +49,9 @@
     },
     {
         "title": "SubdomainRadar",
+        "social": [
+            "https://twitter.com/subdomainradar"
+        ],
         "description": "Fast subdomain finder with multiple search modes and the most extensive data sources, offering real-time notifications.",
         "link": "https://www.subdomainradar.io",
         "region": "GLOBAL",
@@ -2026,6 +2029,16 @@
         "link": "https://leakix.net",
         "region": "GLOBAL",
         "tags": "web,network,vulnerability,breach"
+    },
+    {
+        "title": "LeakRadar",
+        "social": [
+            "https://twitter.com/leakradario"
+        ],
+        "description": "Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.",
+        "link": "https://leakradar.io/",
+        "region": "GLOBAL",
+        "tags": "breach"
     },
     {
         "title": "FOFA",
