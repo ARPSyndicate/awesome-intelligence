@@ -4,43 +4,34 @@
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
             "https://t.me/s/arpsyndicate",
-            "https://twitter.com/arpsyndicate"
+            "https://twitter.com/arpsyndicate",
+            "https://github.com/arpsyndicate"
         ],
         "description": "Exploit Observer aggregates & interprets exploit/vulnerability data from all over the Internet. Consequently, it has evolved into The World's Largest Exploit & Vulnerability Intelligence Database and is freely accessible to all.",
         "link": "https://www.exploit.observer",
         "region": "GLOBAL",
         "tags": "exploit,vulnerability"
     },
-    
     {
-        "title": "Vulnerability Advisories AI",
+        "title": "VEDAS Advisories",
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
             "https://t.me/s/arpsyndicate",
-            "https://twitter.com/arpsyndicate"
+            "https://twitter.com/arpsyndicate",
+            "https://github.com/arpsyndicate"
         ],
-        "description": "An AI that generates advisories for any vulnerability or exploit identifer.",
-        "link": "https://advisories.arpsyndicate.io",
+        "description": "Automated Advisories by Vulnerability & Exploit Data Aggregation System (VEDAS)",
+        "link": "https://vedas.arpsyndicate.io",
         "region": "GLOBAL",
         "tags": "artificial-intelligence,vulnerability,exploit"
-    },
-    {
-        "title": "Webscout",
-        "social": [
-            "https://www.linkedin.com/company/webscout-io/",
-            "https://twitter.com/webscout_io"
-        ],
-        "description": "A Swiss Army knife for scaled intelligence and metadata on IP addresses and domains",
-        "link": "https://webscout.io/",
-        "region": "GLOBAL",
-        "tags": "web,network,company"
     },
     {
         "title": "Subdomain Center",
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
             "https://t.me/s/arpsyndicate",
-            "https://twitter.com/arpsyndicate"
+            "https://twitter.com/arpsyndicate",
+            "https://github.com/arpsyndicate"
         ],
         "description": "Subdomain Center scours the web, gathering and interpreting data from from all over the Internet. Consequently, it has evolved into The World's Fastest Growing Subdomain & Shadow IT Intelligence Database and is freely accessible to all.",
         "link": "https://www.subdomain.center",
@@ -69,6 +60,17 @@
         "link": "https://shodan.io",
         "region": "GLOBAL",
         "tags": "web,network,vulnerability,image"
+    },
+    {
+        "title": "Hudson Rock",
+        "social": [
+            "https://www.linkedin.com/company/hudson-rock/",
+            "https://twitter.com/rockhudsonrock"
+        ],
+        "description": "Check if a digital asset (username, email, domain) was compromised in global Infostealer attacks",
+        "link": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
+        "region": "GLOBAL",
+        "tags": "breach"
     },
     {
         "title": "Malcore",
@@ -724,17 +726,6 @@
         ],
         "description": "Check if your email or phone is in a data breach",
         "link": "https://haveibeenpwned.com",
-        "region": "GLOBAL",
-        "tags": "breach"
-    },
-    {
-        "title": "Hudson Rock",
-        "social": [
-            "https://www.linkedin.com/company/hudson-rock/",
-            "https://twitter.com/rockhudsonrock"
-        ],
-        "description": "Check if a digital asset (username, email, domain) was compromised in global Infostealer attacks",
-        "link": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
         "region": "GLOBAL",
         "tags": "breach"
     },
@@ -4639,5 +4630,16 @@
         "link": "https://ocindex.net",
         "region": "GLOBAL",
         "tags": "crimes,terrorism"
+    },
+    {
+        "title": "Webscout",
+        "social": [
+            "https://www.linkedin.com/company/webscout-io/",
+            "https://twitter.com/webscout_io"
+        ],
+        "description": "A Swiss Army knife for scaled intelligence and metadata on IP addresses and domains",
+        "link": "https://webscout.io/",
+        "region": "GLOBAL",
+        "tags": "web,network,company"
     }
 ]
