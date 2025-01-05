@@ -66,7 +66,7 @@
         "description": "Search Engine that lets users search for various types of servers connected to the internet using a variety of filters.",
         "link": "https://shodan.io",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,identity"
+        "tags": "clearweb,darkweb,identity,threat"
     },
     {
         "title": "Hudson Rock",
@@ -77,7 +77,7 @@
         "description": "Check if a digital asset (username, email, domain) was compromised in global Infostealer attacks",
         "link": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
         "region": "GLOBAL",
-        "tags": "threat,identity,research"
+        "tags": "identity,research,threat"
     },
     {
         "title": "Malcore",
@@ -88,7 +88,7 @@
         "description": "Malcore is the fastest commercial sandbox built with a reverse engineering platform at its core. Its speed allows seamless integration in browser, desktop, and email.",
         "link": "https://malcore.io",
         "region": "GLOBAL",
-        "tags": "threat,research"
+        "tags": "research,threat"
     },
     {
         "title": "Chaos Dataset",
@@ -108,7 +108,7 @@
         "description": "Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security.",
         "link": "https://search.censys.io",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,identity"
+        "tags": "clearweb,darkweb,identity,threat"
     },
     {
         "title": "NerdyData",
@@ -155,7 +155,7 @@
         "description": "Internet intelligence apps that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets.",
         "link": "https://netlas.io",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,identity,research"
+        "tags": "clearweb,research,threat"
     },
     {
         "title": "CriminalIP",
@@ -167,7 +167,7 @@
         "description": "Search for information on anything connected to public internet",
         "link": "https://www.criminalip.io",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,identity"
+        "tags": "clearweb,darkweb,threat"
     },
     {
         "title": "Kaspersky OpenTIP",
@@ -177,7 +177,7 @@
         "description": "Kaspersky Threat Intelligence Portal allows you to scan files, domains, IP addresses, and URLs for threats, malware, viruses.",
         "link": "https://opentip.kaspersky.com",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,research"
+        "tags": "clearweb,darkweb,research,threat"
     },
     {
         "title": "GreyNoise",
@@ -187,14 +187,14 @@
         "description": "GreyNoise captures data on IPs that scan the internet and saturate security tools with internet noise, so SOC teams can focus on threats that matter and ignore those that don't.",
         "link": "https://www.greynoise.io",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,research"
+        "tags": "clearweb,darkweb,research,threat"
     },
     {
         "title": "Intezer Analyze",
         "social": [
             "https://twitter.com/IntezerLabs"
         ],
-        "description": "Malware analysis platform quickly classifying malware and unknown files. Unlike Antivirus and EDRs which mostly produce generic results (think “Trojan.Generic”) and can only classify specific hashes, Intezer analyzes the code itself in order to categorize the threat and classify variants from the same malware family.",
+        "description": "Malware analysis platform quickly classifying malware and unknown files. Unlike Antivirus and EDRs which mostly produce generic results and can only classify specific hashes, Intezer analyzes the code itself in order to categorize the threat and classify variants from the same malware family.",
         "link": "https://analyze.intezer.com",
         "region": "GLOBAL",
         "tags": "threat"
@@ -242,14 +242,14 @@
         "description": "DeHashed provides free deep-web scans and protection against credential leaks. A modern personal asset search engine to help secure accounts and provide insight on compromised assets.",
         "link": "https://dehashed.com",
         "region": "GLOBAL",
-        "tags": "threat,identity"
+        "tags": "identity,threat"
     },
     {
         "title": "WhiteIntel",
         "description": "WhiteIntel provides free deep-web scans which are focused on compromised devices via stealer malwares. Additional to credentials, it also provide information about compromised devices.",
         "link": "https://whiteintel.io",
         "region": "GLOBAL",
-        "tags": "threat,identity"
+        "tags": "identity,threat"
     },
     {
         "title": "ManyPasswords",
@@ -328,7 +328,7 @@
         "description": "Strategic Intelligence News publishes intelligence reports, geopolitics, military intelligence, and crime reports analysis.",
         "link": "https://intelligencebriefs.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "RAND Corporation",
@@ -342,7 +342,7 @@
         "description": "The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest.",
         "link": "https://www.rand.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "ProjectDiscovery",
@@ -352,7 +352,7 @@
         "description": "An open-source software company that builds tools to detect and remediate vulnerabilities from development to production.",
         "link": "https://github.com/projectdiscovery",
         "region": "GLOBAL",
-        "tags": "clearweb,threat,research"
+        "tags": "clearweb,research,threat"
     },
     {
         "title": "BeVigil",
@@ -455,7 +455,7 @@
         "description": "War on the Rocks is a platform for analysis and debate on strategy, defense, and foreign affairs. It features articles and podcasts produced by an array of writers with deep experience in these matters: top notch scholars who study war, those who have served or worked in war zones, and more than a few who have done it all.",
         "link": "https://warontherocks.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "NOC DNSRepo",
@@ -472,7 +472,7 @@
         "description": "IntelligenceX delivers fast, high-quality results and make the deepest parts of the internet accessible with a few clicks. It searches billions of selectors in a matter of milliseconds. The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs, CIDRs, Bitcoin addresses, IPFS hashes, etc. It searches in places such as the darknet, document sharing platforms, whois data, public data leaks and others. It keeps a historical data archive of results, similar to how the Wayback Machine from archive.org stores historical copies of websites.",
         "link": "https://intelx.io",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,identity,asset"
+        "tags": "asset,clearweb,darkweb,identity,threat"
     },
     {
         "title": "DefaultCreds",
@@ -524,7 +524,7 @@
         "description": "The Counter Extremism Project (CEP) is a not-for-profit, non-partisan, international policy organization formed to combat the growing threat from extremist ideologies. It strives to build and maintain its best-in-class research and analysis databases on extremist groups, including their ideology, leaders, history, financing, violent activities, tactics, and rhetoric.",
         "link": "https://www.counterextremism.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "McKinsey Insights",
@@ -566,7 +566,7 @@
         "social": [
             "https://twitter.com/MITREattack"
         ],
-        "description": "MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.",
+        "description": "MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.",
         "link": "https://attack.mitre.org",
         "region": "GLOBAL",
         "tags": "threat"
@@ -721,7 +721,7 @@
         "description": "Check if your information was exposed in a data breach",
         "link": "https://breachdirectory.org",
         "region": "GLOBAL",
-        "tags": "threat,identity"
+        "tags": "identity,threat"
     },
     {
         "title": "Have I Been Pwned",
@@ -734,7 +734,7 @@
         "description": "Check if your email or phone is in a data breach",
         "link": "https://haveibeenpwned.com",
         "region": "GLOBAL",
-        "tags": "threat,identity"
+        "tags": "identity,threat"
     },
     {
         "title": "DNSViz",
@@ -794,7 +794,7 @@
         "description": "Exposing covert action since 1978.",
         "link": "https://covertactionmagazine.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Trellix Research",
@@ -806,7 +806,7 @@
         "description": "The latest cybersecurity trends, best practices, security vulnerabilities, and more from Trellix/Fireeye.",
         "link": "https://www.trellix.com/en-us/about/newsroom/stories/research.html",
         "region": "GLOBAL",
-        "tags": "threat,research"
+        "tags": "research,threat"
     },
     {
         "title": "CP Research",
@@ -818,7 +818,7 @@
         "description": "Check Point Research provides leading cyber threat intelligence to Check Point Software customers and the greater intelligence community.",
         "link": "https://research.checkpoint.com",
         "region": "GLOBAL",
-        "tags": "threat,research"
+        "tags": "research,threat"
     },
     {
         "title": "Wikistrat",
@@ -858,7 +858,7 @@
         "description": "WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption. It has so far published more than 10 million documents and associated analyses.",
         "link": "https://wikileaks.org",
         "region": "GLOBAL",
-        "tags": "research,identity,conflict,asset"
+        "tags": "asset,conflict,identity,research"
     },
     {
         "title": "Talos Reports",
@@ -870,7 +870,7 @@
         "description": "Vulnerability Reports disclosed by CISCO Talos",
         "link": "https://talosintelligence.com/vulnerability_reports",
         "region": "GLOBAL",
-        "tags": "threat,research"
+        "tags": "research,threat"
     },
     {
         "title": "MalAPI",
@@ -897,7 +897,7 @@
         "description": "The Securelist blog houses Kaspersky's threat intelligence reports, malware research, APT analysis and statistics",
         "link": "https://securelist.com",
         "region": "GLOBAL",
-        "tags": "threat,research"
+        "tags": "research,threat"
     },
     {
         "title": "SPLC Hate Map",
@@ -909,7 +909,7 @@
         "description": "Each year since 1990, the SPLC has published an annual census of hate groups operating within the United States. The hate map, which depicts the groups' approximate locations, is the result of a year of monitoring by analysts and researchers and is typically published every January or February. It represents activity by hate groups during the previous year.",
         "link": "https://www.splcenter.org/hate-map",
         "region": "U.S.A.",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "ICSR",
@@ -920,7 +920,7 @@
         "description": "The International Centre for the Study of Radicalisation (ICSR) is a world-class and internationally acclaimed academic research centre based in the Department of War Studies at King's College London.",
         "link": "https://icsr.info",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Militant Wire",
@@ -931,7 +931,7 @@
         "description": "Militant Wire is a media company focused on providing independent analysis of militant activity and armed conflict around the world. Our global network of researchers produces expert insight on issues of political street violence, terrorism, insurgency, organized crime, irregular warfare, and more.",
         "link": "https://www.militantwire.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "START Publications",
@@ -942,7 +942,7 @@
         "description": "Publications from a consortium of researchers dedicated to improving the understanding of the human causes and consequences of terrorism.",
         "link": "https://www.start.umd.edu/publications",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "SPLC Resources",
@@ -954,7 +954,7 @@
         "description": "Search SPLC publications, cases, Extremist Files, Intelligence Project articles, and more.",
         "link": "https://www.splcenter.org/resources",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Tracking Terrorism",
@@ -964,7 +964,7 @@
         "description": "TRAC combines one of the world's largest databases of terrorists, terrorist groups, hate groups and their abettors with original, analytical essays on seminal terrorism topics, profiles of vulnerable regions and cities, and live feed of news and analyses.",
         "link": "https://trackingterrorism.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Mapping Militants",
@@ -977,7 +977,7 @@
         "description": "The Mapping Militants Project identifies patterns in the evolution of militant organizations in specified conflict theatres and provides representations of changing relationships among groups.",
         "link": "https://cisac.fsi.stanford.edu/mappingmilitants",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "NCTC Guide",
@@ -988,7 +988,7 @@
         "description": "NCTC serves as the primary organization in the United States Government for analyzing and integrating information pertaining to international terrorism. This Guide focuses on the international terrorist organizations that are assessed to present the most serious threats to the United States.",
         "link": "https://www.dni.gov/nctc/index.html",
         "region": "U.S.A.",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Sekurak",
@@ -1010,7 +1010,7 @@
         "description": "Critical Threats' objective is to inform and educate policymakers, the intelligence and military communities, and all interested citizens who need to understand the nuance and scale of threats to America's security.",
         "link": "https://www.criticalthreats.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "NTI",
@@ -1024,7 +1024,7 @@
         "description": "NTI is a nonprofit global security organization focused on reducing nuclear and biological threats imperiling humanity.",
         "link": "https://www.nti.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Arms Control",
@@ -1036,7 +1036,7 @@
         "description": "Working to eliminate the threats posed by the world's most dangerous weapons",
         "link": "https://www.armscontrol.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "ReliefWeb",
@@ -1049,7 +1049,7 @@
         "description": "ReliefWeb is a humanitarian information service provided by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA)",
         "link": "https://reliefweb.int",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "SIPRI",
@@ -1060,7 +1060,7 @@
         "description": "Stockholm International Peace Research Institute (SIPRI) is an independent international institute dedicated to research into conflict, armaments, arms control and disarmament. Established in 1966, SIPRI provides data, analysis and recommendations, based on open sources.",
         "link": "https://www.sipri.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "RUSI",
@@ -1073,7 +1073,7 @@
         "description": "The Royal United Services Institute (RUSI) is the world's oldest and the UK's leading defence and security think tank. Our mission is to inform, influence and enhance public debate to help build a safer and more stable world.",
         "link": "https://rusi.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Conflict Arm",
@@ -1083,7 +1083,7 @@
         "description": "Established in 2011, Conflict Armament Research generates unique evidence on weapon supplies into armed conflicts in order to inform and support effective weapon management and control.",
         "link": "https://www.conflictarm.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Crisis Group",
@@ -1107,7 +1107,7 @@
         "description": "OpenSanctions helps investigators find leads, allows companies to manage risk and enables technologists to build data-driven products.",
         "link": "https://www.opensanctions.org",
         "region": "GLOBAL",
-        "tags": "identity,conflict"
+        "tags": "conflict,identity"
     },
     {
         "title": "CSIS",
@@ -1121,7 +1121,7 @@
         "description": "The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research organization dedicated to advancing practical ideas to address the world's greatest challenges. Its purpose is to define the future of national security.",
         "link": "https://www.csis.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Small Arms Survey",
@@ -1134,7 +1134,7 @@
         "description": "For over 20 years, the Small Arms Survey has provided impartial, evidence-based, and policy-relevant knowledge on all aspects of small arms and armed violence to governments, policymakers, researchers, and civil society.",
         "link": "https://www.smallarmssurvey.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "PRIO",
@@ -1146,21 +1146,21 @@
         "description": "The Peace Research Institute Oslo (PRIO) conducts research on the conditions for peaceful relations between states, groups and people.",
         "link": "https://www.prio.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "MILEX",
         "description": "Since 1981, many countries have regularly reported their military expenditure to the United Nations. This helps enhance transparency in armaments and contributes to international security by fostering trust and confidence among countries. Access to all information from the UN Report on Military Expenditures database is now a click away.",
         "link": "https://milex.un-arm.org",
         "region": "GLOBAL",
-        "tags": "research,asset,conflict"
+        "tags": "asset,conflict,research"
     },
     {
         "title": "DataBank",
         "description": "World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates.",
         "link": "https://databank.worldbank.org",
         "region": "GLOBAL",
-        "tags": "research,asset"
+        "tags": "asset,research"
     },
     {
         "title": "TI Defence",
@@ -1170,7 +1170,7 @@
         "description": "Transparency International Defence & Security works towards a world where governments, the armed forces, and arms transfers are transparent, accountable, and free from corruption.",
         "link": "https://ti-defence.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "COW",
@@ -1180,7 +1180,7 @@
         "description": "Correlates Of War (COW) seeks to facilitate the collection, dissemination, and use of accurate and reliable quantitative data in international relations.",
         "link": "https://correlatesofwar.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "VX Underground",
@@ -1340,7 +1340,7 @@
         "description": "Set up in 1990, Observer Research Foundation (ORF) seeks to lead and aid policy thinking towards building a strong and prosperous India in a fair and equitable world. It helps discover and inform India's choices, and carries Indian voices and ideas to forums shaping global debates. ORF provides non-partisan, independent analyses and inputs on matters of security, strategy, economy, development, energy, resources and global governance to diverse decision-makers (governments, business communities, academia, civil society). ORF's mandate is to conduct in-depth research, provide inclusive platforms and invest in tomorrow's thought leaders today.",
         "link": "https://www.orfonline.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Verdict Network",
@@ -1352,7 +1352,7 @@
         "description": "Publications in the Verdict network cover multi-sector business and innovation news with speed, accuracy and intelligence.",
         "link": "https://www.verdict.co.uk/verdict-network",
         "region": "GLOBAL",
-        "tags": "research,asset"
+        "tags": "asset,research"
     },
     {
         "title": "Watcher Guru",
@@ -1365,7 +1365,7 @@
         "description": "Watcher Guru gives you unparalleled coverage of automated cryptocurrency tracking in real-time.",
         "link": "https://watcher.guru",
         "region": "GLOBAL",
-        "tags": "asset,research,conflict"
+        "tags": "asset,conflict,research"
     },
     {
         "title": "Safe Air Space",
@@ -1376,7 +1376,7 @@
         "description": "The Conflict Zone & Risk Database provides a single, independent, and eternally free resource for all airspace risk warnings, so that airlines and aircraft operators can easily see the current risk picture for unfamiliar airspace.",
         "link": "https://safeairspace.net",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "CryptoQuant",
@@ -1412,7 +1412,7 @@
         "description": "The World's leading research centre for immigration detention as response to migration and refugee movements; promoting respect for the rights of detainees.",
         "link": "https://www.globaldetentionproject.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "ICIJ Offshore Leaks",
@@ -1424,7 +1424,7 @@
         "description": "Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.",
         "link": "https://offshoreleaks.icij.org",
         "region": "GLOBAL",
-        "tags": "research,identity,threat"
+        "tags": "identity,research,threat"
     },
     {
         "title": "ThreatView",
@@ -1460,7 +1460,7 @@
         "description": "Pew Research Center is a nonpartisan fact tank that informs the public about the issues, attitudes and trends shaping the world. It conducts public opinion polling, demographic research, media content analysis and other empirical social science research. Pew Research Center does not take policy positions.",
         "link": "https://www.pewresearch.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "ACLED",
@@ -1472,7 +1472,7 @@
         "description": "The Armed Conflict Location & Event Data Project (ACLED) collects real-time data on the locations, dates, actors, fatalities, and types of all reported political violence and protest events around the world. ACLED is the highest quality and most widely used real-time data and analysis source on political violence and protest around the world. Practitioners, researchers, journalists, and governments depend on ACLED for the latest reliable information on current conflict and disorder patterns.",
         "link": "https://acleddata.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "GSDN",
@@ -1486,7 +1486,7 @@
         "description": "Global Strategic and Defence News (GSDN) is a forum to provide accurate analysis on geopolitical and defence issues that concern the world at large.",
         "link": "https://gsdn.live",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "HuggingFace",
@@ -1569,21 +1569,21 @@
         "description": "Analyse any topic globally or by region in detail. Create unique map based visualisations showing tweet activity across a country, a region, or the world. Our powerful querying and filtering tools allows you to focus on your particular area of interest.",
         "link": "https://www.trendsmap.com",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "clearweb"
     },
     {
         "title": "AIDR",
         "description": "Artificial Intelligence for Digital Response (AIDR) is a free and open platform to filter and classify social media messages related to emergencies, disasters, and humanitarian crises. AIDR uses human and machine intelligence to automatically tag up to thousands of messages per minute.",
         "link": "http://aidr.qcri.org",
         "region": "GLOBAL",
-        "tags": "clearweb,artificial-intelligence,conflict,natural"
+        "tags": "artificial-intelligence,clearweb,conflict,natural"
     },
     {
         "title": "ZoomEye",
         "description": "ZoomEye is China's first and also the world's famous cyberspace search engine. Through the accumulated large amount of surveying and mapping data for trend analysis, it finally realizes the dynamic cyberspace surveying and mapping image across time and space.",
         "link": "https://www.zoomeye.org",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,research"
+        "tags": "clearweb,darkweb,research,threat"
     },
     {
         "title": "SimilarSiteSearch",
@@ -1617,7 +1617,7 @@
         "description": "Webometric Analyst is a free Windows-based program for altmetrics, citation analysis, social web analysis and webometrics, including link analysis. It downloads data from the web through APIs or directly and includes a wide range of text and citation processing options.",
         "link": "http://lexiurl.wlv.ac.uk",
         "region": "GLOBAL",
-        "tags": "clearweb,identity"
+        "tags": "clearweb"
     },
     {
         "title": "MiddleEastEye",
@@ -1630,7 +1630,7 @@
         "description": "Founded in April 2014, Middle East Eye is an independently funded digital news organisation covering stories from the Middle East and North Africa, as well as related content from beyond the region. Its unique coverage offers on-the-ground news, comment and analysis that brings local viewpoints to the fore. Reporters are encouraged to read between the lines and take stories one step further rather than simply follow the official narrative.",
         "link": "https://www.middleeasteye.net",
         "region": "MENA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "SwissCows",
@@ -1673,7 +1673,7 @@
         "description": "Founded in 2015, the International Center for the Study of Violent Extremism (ICSVE) provides research, training, and strategic advice to government leaders, intelligence, defense, international organizations, police and civilian communities worldwide to prevent and deter the threat of violent extremism in the core areas such as capacity building and programmatic support, countering extremist narrative, alternative narrative, developing community resilience, managing intervention activities, and training.",
         "link": "https://www.icsve.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "TSAS",
@@ -1683,14 +1683,14 @@
         "description": "The Canadian Network for Research on Terrorism, Security and Society (TSAS) engages more than 280 affiliates to conduct policy-relevant research on the threat of terrorism, security responses to terrorism, and the impact of both terrorism and securitization on Canadian society.",
         "link": "https://www.tsas.ca",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "JihadIntel",
         "description": "Vital Intelligence on Designated Islamic Terrorist Organizations",
         "link": "https://jihadintel.meforum.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "PrivateSH",
@@ -1701,10 +1701,10 @@
     },
     {
         "title": "Jihadology",
-        "description": "A clearinghouse for jihādī primary source material, original analysis, and translation service.",
+        "description": "A clearinghouse for jihad primary source material, original analysis, and translation service.",
         "link": "https://jihadology.net",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "DNSlytics",
@@ -1759,7 +1759,7 @@
         "description": "The use or misuse of information is central to the conflict in the Middle East. There has been a growing need for supporters of, in particular, the Palestinian cause, to master the art of information gathering, analysis and dissemination. This requires well organised, focused and targeted operations. Such initiatives are virtually non-existent in the West today. The Middle East Monitor (MEMO) was established to fill this gap. While there are several outstanding media monitoring networks online, their main activity is invariably confined to exposing the flaws in existing coverages. We go one step further; reaching out to opinion-makers and decision-makers in a deliberate, organised and sustained manner.",
         "link": "https://www.middleeastmonitor.com",
         "region": "MENA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "HRW",
@@ -1772,7 +1772,7 @@
         "description": "Human Rights Watch defends the rights of people in 100 countries worldwide, spotlighting abuses and bringing perpetrators to justice.",
         "link": "https://www.hrw.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "SeekingAlpha",
@@ -1811,7 +1811,7 @@
         "description": "Regional Economic Outlook discuss recent economic developments and prospects for countries in various regions. They also address economic policy developments that have affected economic performance in the regions, and discuss key challenges faced by policymakers. They address regional policy developments and challenges, and provide country-specific data and analysis, including through analytical pieces on issues of interest to a particular region.",
         "link": "https://www.imf.org/en/Publications/REO",
         "region": "GLOBAL",
-        "tags": "research,asset"
+        "tags": "asset,research"
     },
     {
         "title": "Fiscal Monitor",
@@ -1825,7 +1825,7 @@
         "description": "As the global economy faces increasing fiscal challenges, multilateral surveillance of fiscal developments has become an important part of the IMF's surveillance responsibilities. The Fiscal Monitor series provides an overview of latest public finance developments, updates the medium-term fiscal outlook, and assesses fiscal implications of policies relevant to the global economy. The Fiscal Monitor is prepared twice a year by the IMF's Fiscal Affairs Department. Its projections are based on the same database used for the World Economic Outlook (WEO) and the Global Financial Stability Report (GFSR). The fiscal projections for individual countries have been prepared by IMF desk economists, and, in line with the WEO guidelines.",
         "link": "https://www.imf.org/en/Publications/FM",
         "region": "GLOBAL",
-        "tags": "research,asset"
+        "tags": "asset,research"
     },
     {
         "title": "GFSR",
@@ -1839,7 +1839,7 @@
         "description": "The Global Financial Stability Report provides an assessment of the global financial system and markets, and addresses emerging market financing in a global context. It focuses on current market conditions, highlighting systemic issues that could pose a risk to financial stability and sustained market access by emerging market borrowers. The Report draws out the financial ramifications of economic imbalances highlighted by the IMF's World Economic Outlook. It contains, as special features, analytical chapters or essays on structural or systemic issues relevant to international financial stability.",
         "link": "https://www.imf.org/en/Publications/GFSR",
         "region": "GLOBAL",
-        "tags": "research,asset"
+        "tags": "asset,research"
     },
     {
         "title": "World Economic Outlook",
@@ -1853,7 +1853,7 @@
         "description": "A Survey by the IMF staff usually published twice a year. It presents IMF staff economists' analyses of global economic developments during the near and medium term. Chapters give an overview as well as more detailed analysis of the world economy; consider issues affecting industrial countries, developing countries, and economies in transition to market; and address topics of pressing current interest.",
         "link": "https://www.imf.org/en/Publications/WEO",
         "region": "GLOBAL",
-        "tags": "research,asset"
+        "tags": "asset,research"
     },
     {
         "title": "SITE",
@@ -1869,7 +1869,7 @@
         "description": "SITE Intelligence Group has provided governments and institutions worldwide with verified, actionable intelligence and analysis on designated terrorist and violent extremist groups. The multi-lingual staff at SITE has years of experience in the research and analysis of terrorist networks, from jihadists to far-right and far-left extremists: monitoring propaganda, studying trends within online communities, tracking events, and breaking down how these networks operate on the Internet.",
         "link": "https://ent.siteintelgroup.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Educate Against Hate",
@@ -1881,7 +1881,7 @@
         "description": "The purpose of this website is to provide practical advice, support and resources to protect children from extremism and radicalisation.",
         "link": "https://educateagainsthate.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "GNET Research",
@@ -1892,7 +1892,7 @@
         "description": "The Global Network on Extremism and Technology (GNET) is the academic research arm of the Global Internet Forum to Counter Terrorism (GIFCT) and aims to better understand the ways in which terrorists use technology.",
         "link": "https://gnet-research.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "ECFR",
@@ -1905,7 +1905,7 @@
         "description": "The European Council on Foreign Relations (ECFR) is an award-winning international think-tank that aims to conduct cutting-edge independent research on European foreign and security policy and to provide a safe meeting space for decision-makers, activists and influencers to share ideas. We build coalitions for change at the European level and promote informed debate about Europe's role in the world.",
         "link": "https://ecfr.eu",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "SATP",
@@ -1917,21 +1917,21 @@
         "description": "South Asia Terrorism Portal (SATP) is the largest website on terrorism and low intensity warfare in South Asia, and creates the database and analytic context for research and analysis of all extremist movements in the region.",
         "link": "https://www.satp.org",
         "region": "SOUTH ASIA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "BDI",
         "description": "The Bridging Divides Initiative (BDI) is a non-partisan research initiative that tracks and mitigates political violence in the United States. It also created non-public map as a resource to view and track contentious demonstrations, counter-protests, and militia-related, armed, and other vigilante activity across the US..",
         "link": "https://bridgingdivides.princeton.edu",
         "region": "U.S.A.",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "RiskMap",
         "description": "RiskMap provides industry-leading security threat analysis with fast, accurate data. Sourcing data from global media and social channels, our intelligence engine continuously monitors thousands of sources in multiple languages. We filter out the noise and extract useful information to provide accurate intelligence insights.",
         "link": "https://www.riskmap.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "SanctionsMap",
@@ -1941,14 +1941,14 @@
         "description": "The EU Sanctions Map provides information on restrictive measures (sanctions) adopted by the European Union - either to transpose measures imposed by the United Nations Security Council or autonomously. The EU Sanctions Map does not provide information on national sanctions of the EU Member States or any other sanctions imposed by third states.",
         "link": "https://sanctionsmap.eu",
         "region": "GLOBAL",
-        "tags": "research,conflict,identity"
+        "tags": "conflict,identity,research"
     },
     {
         "title": "Bellingcat",
         "description": "Bellingcat is an independent international collective of researchers, investigators and citizen journalists using open source and social media investigation to probe a variety of subjects - from Mexican drug lords and crimes against humanity, to tracking the use of chemical weapons and conflicts worldwide.",
         "link": "https://www.bellingcat.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "ORKL",
@@ -2025,14 +2025,14 @@
         "description": "Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.",
         "link": "https://leakradar.io/",
         "region": "GLOBAL",
-        "tags": "threat,identity"
+        "tags": "identity,threat"
     },
     {
         "title": "FOFA",
         "description": "FOFA is a cyberspace search engine that can help researchers or enterprises to quickly match network assets through cyberspace mapping, such as analysis of vulnerability impact range, application distribution statistics, application popularity ranking statistics, etc.",
         "link": "https://fofa.info",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,identity,research"
+        "tags": "clearweb,darkweb,research,threat"
     },
     {
         "title": "DorkSearch",
@@ -2079,7 +2079,7 @@
         "description": "Discover, monitor, and secure your attack surface. FullHunt delivers the best platform in the market for attack surface security.",
         "link": "https://fullhunt.io",
         "region": "GLOBAL",
-        "tags": "clearweb,threat,research"
+        "tags": "clearweb,research,threat"
     },
     {
         "title": "crtSH",
@@ -2167,7 +2167,7 @@
         "description": "BinaryEdge scans the internet and acquire data that can be transformed into threat intelligence feeds or security reports.",
         "link": "https://www.binaryedge.io",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,research"
+        "tags": "clearweb,darkweb,research,threat"
     },
     {
         "title": "Wigle",
@@ -2225,7 +2225,7 @@
         "description": "Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.",
         "link": "https://www.virustotal.com",
         "region": "GLOBAL",
-        "tags": "malware,phishing,breach"
+        "tags": ""
     },
     {
         "title": "ForeignAffairs",
@@ -2239,7 +2239,7 @@
         "description": "Since its founding in 1922, Foreign Affairs has been the leading forum for serious discussion of American foreign policy and global affairs. It is now a multiplatform media organization with a print magazine, a website, a mobile site, various apps and social media feeds, an event business, and more.",
         "link": "https://www.foreignaffairs.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "MaltiVerse",
@@ -2274,7 +2274,7 @@
         "description": "USAID is the world's premier international development agency and a catalytic actor driving development results. USAID's work advances U.S. national security and economic prosperity, demonstrates American generosity, and promotes a path to recipient self-reliance and resilience.",
         "link": "https://www.usaid.gov",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Cyber Campaigns",
@@ -2293,7 +2293,7 @@
         "description": "Find email addresses of companies and people",
         "link": "https://www.skymem.info",
         "region": "GLOBAL",
-        "tags": "identity,clearweb"
+        "tags": "clearweb,identity"
     },
     {
         "title": "ZDI",
@@ -2316,7 +2316,7 @@
         "description": "The Center for International Forestry Research (CIFOR) envisions a more equitable world where forestry and landscapes enhance the environment and well-being all. It is a non-profit, scientific institution that conducts research on the most pressing challenges of forest and landscape management around the world. Using a global, multidisciplinary approach, we aim to improve human well-being, protect the environment, and increase equity. To do so, we conduct innovative research, develop partners' capacity, and actively engage in dialogue with all stakeholders to inform policies and practices that affect forests and people.",
         "link": "https://www.cifor.org",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "natural,research"
     },
     {
         "title": "Noema",
@@ -2329,7 +2329,7 @@
         "description": "Noema is an award-winning magazine exploring the transformations sweeping our world. We publish essays, interviews, reportage, videos and art on the overlapping realms of philosophy, governance, geopolitics, economics, technology and culture.",
         "link": "https://www.cifor.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "URLVoid",
@@ -2357,7 +2357,7 @@
         "description": "Fire Information for Resource Management System (FIRMS) is a global fire map and data from NASA. It provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
         "link": "https://firms.modaps.eosdis.nasa.gov",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "natural"
     },
     {
         "title": "Search4Faces",
@@ -2374,7 +2374,7 @@
         "description": "Earthquake Track was created to make understanding earthquakes easier. It contains information on earthquakes since the year 1900. New earthquakes usually appear on the site within a few minutes.",
         "link": "https://earthquaketrack.com",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "natural"
     },
     {
         "title": "AnalyzeID",
@@ -2470,7 +2470,7 @@
         "description": "VARIoT is an EU project Databases of IoT vulnerabilities and exploits aggregated from many sources. These databases has been created as a part of VARIoT, EU project co-financed by the Connecting Europe Facility of the European Union and the Polish Ministry of Education and Science.",
         "link": "https://www.variotdbs.pl",
         "region": "GLOBAL",
-        "tags": "network,web,vulnerability,exploit"
+        "tags": ""
     },
     {
         "title": "GeoCam",
@@ -2495,7 +2495,7 @@
         "description": "Arab Barometer is a nonpartisan research network that provides insight into the social, political, and economic attitudes and values of ordinary citizens across the Arab world.",
         "link": "https://www.arabbarometer.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "EMMNewsbrief",
@@ -2528,7 +2528,7 @@
         "description": "Afrobarometer, a non-profit company limited by guarantee with headquarters in Ghana, is a pan-African, non-partisan survey research network that conducts public attitude surveys on democracy, governance, the economy, and society.",
         "link": "https://www.afrobarometer.org",
         "region": "MENA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Router Default",
@@ -2548,7 +2548,7 @@
         "description": "LeakPeek is an all-in-one online data protection platform. Search for your publicly leaked passwords using an email or username.",
         "link": "https://leakpeek.com",
         "region": "GLOBAL",
-        "tags": "threat,identity"
+        "tags": "identity,threat"
     },
     {
         "title": "CrackStation",
@@ -2558,7 +2558,7 @@
         "description": "CrackStation uses massive pre-computed lookup tables to crack password hashes. These tables store a mapping between the hash of a password, and the correct password for that hash.",
         "link": "https://crackstation.net",
         "region": "GLOBAL",
-        "tags": "threat,identity"
+        "tags": "threat"
     },
     {
         "title": "Open Ownership",
@@ -2585,7 +2585,7 @@
         "description": "openAFRICA aims to be the largest independent repository of open data on the African continent.",
         "link": "http://openafrica.net",
         "region": "AFRICA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Hunter",
@@ -2687,7 +2687,7 @@
         "description": "The Institute for the Study of War advances an informed understanding of military affairs through reliable research, trusted analysis, and innovative education. We are committed to improving the nation's ability to execute military operations and respond to emerging threats in order to achieve U.S. strategic objectives. ISW is a non-partisan, non-profit, public policy research organization.",
         "link": "https://www.understandingwar.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Kyiv Independent",
@@ -2702,7 +2702,7 @@
         "description": "The Kyiv Independent is Ukraine's English-language media outlet, created by journalists who were fired from the Kyiv Post for defending editorial independence.",
         "link": "https://kyivindependent.com",
         "region": "EUROPE",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "PutinDirect",
@@ -2851,7 +2851,7 @@
         "description": "We provide essential insights for our clients through powerful business intelligence solutions that combine comprehensive data, actionable analytics, and deep sector intelligence.",
         "link": "https://www.spglobal.com/marketintelligence",
         "region": "GLOBAL",
-        "tags": "economics,crypto,stocks"
+        "tags": ""
     },
     {
         "title": "Decrypt",
@@ -3106,7 +3106,7 @@
         "description": "Chainalysis helps government agencies, cryptocurrency businesses, and financial institutions engage confidently with cryptocurrency.",
         "link": "https://www.chainalysis.com",
         "region": "GLOBAL",
-        "tags": "asset,threat,research,identity"
+        "tags": "asset,identity,research,threat"
     },
     {
         "title": "Crypto Adventure",
@@ -3386,7 +3386,7 @@
         "description": "Palladium is a San Francisco-based non-partisan publication that explores the future of governance and society through journalism, analysis, and philosophy.",
         "link": "https://www.palladiummag.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Epieos",
@@ -3406,7 +3406,7 @@
         "description": "Project Syndicate produces and delivers original, high-quality commentaries to a global audience. Featuring exclusive contributions by prominent political leaders, policymakers, scholars, business leaders, and civic activists from around the world, we provide news media and their readers with cutting-edge analysis and insight, regardless of ability to pay.",
         "link": "https://www.project-syndicate.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Digital Footprint Check",
@@ -3432,14 +3432,14 @@
         "description": "News from Armenia, Karabakh, and the post-Soviet neighborhood.",
         "link": "https://www.civilnet.am/en",
         "region": "FORMER SOVIET UNION",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "BizNar",
         "description": "Deep Web Business Intelligence",
         "link": "https://biznar.com/biznar/desktop/en/search.html",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "asset,identity"
     },
     {
         "title": "Defense News",
@@ -3450,7 +3450,7 @@
         "description": "Defense News is a global website and magazine about the politics, business and technology of defense, serving senior military and industry decision-makers.",
         "link": "https://www.defensenews.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Naval News",
@@ -3462,7 +3462,7 @@
         "description": "Naval News brings you news coverage of the latest naval defense shows & events. We are also reporting on naval technology from all over the world.",
         "link": "https://www.navalnews.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "USNI News",
@@ -3476,7 +3476,7 @@
         "description": "Maritime News and Analysis",
         "link": "https://news.usni.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Institute of International Relations",
@@ -3490,7 +3490,7 @@
         "description": "The Institute of International Relations Prague (IIR) is an independent public research institution that conducts excellent academic research in the larger field of international relations. It is established by the Ministry of Foreign Affairs of the Czech Republic.",
         "link": "https://www.iir.cz/en",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Janes",
@@ -3502,7 +3502,7 @@
         "description": "The trusted source for defence intelligence - Unrivalled defence and security analysis - Military platforms - Threat intelligence - Industry awareness and advisory services",
         "link": "https://www.janes.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Valhalla",
@@ -3523,7 +3523,7 @@
         "description": "Since 1904 TASS has been Russia's leading news agency. For more than 113 years, TASS has ceaselessly strived to deliver the latest and most accurate news from around the world",
         "link": "https://tass.com",
         "region": "RUSSIA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Sputnik News",
@@ -3536,7 +3536,7 @@
         "description": "Sputnik International is a global news agency keeping you updated on all the latest world news 24/7. Browse Sputnik for breaking news and top stories on politics, economy, social media and the most viral trends.",
         "link": "https://sputnikglobe.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "PIPS",
@@ -3547,7 +3547,7 @@
         "description": "Pak Institute For Peace Studies (PIPS) | An independent think-tank",
         "link": "https://www.pakpips.com",
         "region": "PAKISTAN",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "PICSS",
@@ -3560,7 +3560,7 @@
         "description": "Pakistan Institute for Conflict and Security Studies (PICSS) works as an institution, that provides authentic, credible, reliable, up to date, and efficient information and objective analysis related to defense and security, for policy development leading to peace and stability",
         "link": "https://www.picss.net",
         "region": "PAKISTAN",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Reuters",
@@ -3574,7 +3574,7 @@
         "description": "Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
         "link": "https://www.reuters.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "RT",
@@ -3586,7 +3586,7 @@
         "description": "RT is the first Russian 24/7 English-language news channel which brings the Russian view on global news.",
         "link": "https://rt.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "InternetActivism",
@@ -3598,7 +3598,7 @@
         "description": "A nonprofit that develops digital humanitarian tools in response to crisis.",
         "link": "https://internetactivism.org",
         "region": "GLOBAL",
-        "tags": "research,privacy"
+        "tags": "privacy,research"
     },
     {
         "title": "IISS",
@@ -3612,7 +3612,7 @@
         "description": "International Institute for Strategic Studies (IISSS) is a world-leading authority on global security, political risk and military conflict.",
         "link": "https://iiss.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "CFR",
@@ -3626,7 +3626,7 @@
         "description": "The Council on Foreign Relations (CFR) newsletters are available on a range of international relations and foreign policy topics from a Daily News Brief and The World This Week to Eyes on Asia and This Month in Geoeconomics.",
         "link": "https://cfr.org/newsletters",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "SciHub",
@@ -3657,7 +3657,7 @@
         "description": "Discover how Osint Industries specializes in leveraging OSINT to investigate emails and phone numbers. Unlock valuable insights and conduct comprehensive investigations using our advanced tools and resources.",
         "link": "https://osint.industries",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "clearweb,identity"
     },
     {
         "title": "ESPY",
@@ -3675,7 +3675,7 @@
     },
     {
         "title": "SUNDERS",
-        "description": "Surveillance under Surveillance shows you cameras and guards — watching you — almost everywhere. You can see where they are located and, if the information is available, what type they are, the area they observe, or other interesting facts.",
+        "description": "Surveillance under Surveillance shows you cameras and guards watching you almost everywhere. You can see where they are located and, if the information is available, what type they are, the area they observe, or other interesting facts.",
         "link": "https://sunders.uber.space",
         "region": "GLOBAL",
         "tags": "clearweb,identity"
@@ -3722,7 +3722,7 @@
         "description": "First investigative news magazine based on the Internet",
         "link": "https://consortiumnews.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Tutanota",
@@ -3748,7 +3748,7 @@
         "description": "Latest press freedom news from around the globe.",
         "link": "https://cpj.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "SecurityWeek",
@@ -3767,7 +3767,7 @@
         "description": "Network Contagion Research Institute is the world's foremost expert in identifying and forecasting the threat and spread of misinformation and disinformation across social media platforms.",
         "link": "https://networkcontagion.us",
         "region": "GLOBAL",
-        "tags": "identity,clearweb,asset,research,darkweb,conflict"
+        "tags": "asset,clearweb,conflict,darkweb,identity,research"
     },
     {
         "title": "Geopolitical Economy Report",
@@ -3780,7 +3780,7 @@
         "description": "Geopolitical Economy Report is an independent media outlet that provides news and analysis to understand the changing world.",
         "link": "https://geopoliticaleconomy.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "The Grayzone",
@@ -3794,7 +3794,7 @@
         "description": "The Grayzone is an independent news website producing original investigative journalism on politics and empire.",
         "link": "https://thegrayzone.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "The Moscow Times",
@@ -3807,7 +3807,7 @@
         "description": "Russian News Service",
         "link": "https://www.moscowtimes.ru",
         "region": "RUSSIA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "FlightAware",
@@ -3819,7 +3819,7 @@
         "description": "Best Flight Tracker: Live Tracking Maps, Flight Status, and Airport Delays for airline flights, private/GA flights, and airports.",
         "link": "https://www.flightaware.com",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "aerial"
     },
     {
         "title": "FlightRadar24",
@@ -3832,14 +3832,14 @@
         "description": "Flightradar24 is the best live flight tracker that shows air traffic in real time. Best coverage and cool features!",
         "link": "https://www.flightradar24.com",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "aerial"
     },
     {
         "title": "MarineTraffic",
         "description": "MarineTraffic Live Ships Map. Discover information and vessel positions for vessels around the world. Search the MarineTraffic ships database of more than 550000 active and decommissioned vessels. Search for popular ships globally. Find locations of ports and ships using the near Real Time ships map. View vessel details and ship photos.",
         "link": "https://www.marinetraffic.com",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "marine"
     },
     {
         "title": "VesselFinder",
@@ -3850,7 +3850,7 @@
         "description": "VesselFinder is a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.",
         "link": "https://www.vesselfinder.com",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "marine"
     },
     {
         "title": "NewspaperArchive",
@@ -3861,7 +3861,7 @@
         "description": "Search through 16,075 historic newspaper archives to do genealogy and family history. Find obituaries, marriage and birth announcements, and other local and national news for over 9.7 billion people!",
         "link": "https://newspaperarchive.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "The Indian Express",
@@ -3875,7 +3875,7 @@
         "description": "Get latest and Breaking News on Politics, Business, Lifestyle, Entertainment and Sports along with News updates from around the world. Also, find English News, live coverage on Bollywood, Cricket, Technology, Celebrities and more on indianexpress.com",
         "link": "https://indianexpress.com",
         "region": "INDIA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Daily Excelsior",
@@ -3889,7 +3889,7 @@
         "description": "Daily Excelsior India's largest platform for News of Jammu Kashmir and ladakh.Find latest update on business,sports,international, and state news and affairs",
         "link": "http://www.dailyexcelsior.com",
         "region": "INDIA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "DNA India",
@@ -3902,7 +3902,7 @@
         "description": "Latest News Headlines and Live Updates - DNA India Covers all latest and breaking news on Politics, Business, Sports, Bollywood, technology & health from India & the world at Daily News & Analysis",
         "link": "https://www.dnaindia.com",
         "region": "INDIA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Greater Kashmir",
@@ -3915,7 +3915,7 @@
         "description": "Greater Kashmir provides the most comprehensive coverage and up-to-the-minute news, breaking news, feature stories, videos, information on Kashmir, politics, cricket and more.",
         "link": "https://www.greaterkashmir.com",
         "region": "INDIA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Nagaland Post",
@@ -3928,7 +3928,7 @@
         "description": "Stay updated with the latest Nagaland news today, News on Nagas tribes and top stories from Nagaland. Northeast India breaking news.",
         "link": "https://www.nagalandpost.com",
         "region": "INDIA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "RFE/RL",
@@ -3971,7 +3971,7 @@
         "description": "Factinsect is an AI-based tool for fact-checking.",
         "link": "https://factinsect.com",
         "region": "GLOBAL",
-        "tags": "artificial-intelligence,identity"
+        "tags": "artificial-intelligence"
     },
     {
         "title": "HDRobots",
@@ -3988,35 +3988,35 @@
         "description": "Channel 4 News is committed to challenging expectations with stories that reveal and inspire, innovatively produced - with just a touch of mischief.",
         "link": "https://www.channel4.com/news",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "ThreatMon Reports",
         "description": "The most comprehensive threat intelligence & cyber risk reports from ThreatMon's cyber analysts. Completely free to download and read.",
         "link": "https://threatmon.io/reports",
         "region": "GLOBAL",
-        "tags": "threat,research"
+        "tags": "research,threat"
     },
     {
         "title": "0t.rocks Search",
         "description": "People's Records Search",
         "link": "https://search.0t.rocks",
         "region": "GLOBAL",
-        "tags": "threat,identity"
+        "tags": "identity,threat"
     },
     {
         "title": "Israel Datasets",
         "description": "Israel Datasets",
         "link": "https://data.gov.il/dataset",
         "region": "ISRAEL",
-        "tags": "clearweb,natural,identity"
+        "tags": "research"
     },
     {
         "title": "Simplex 3D",
         "description": "Realistic 3D Search for over 60 cities in Israel.",
         "link": "https://simplex3dx.co.il/?en",
         "region": "ISRAEL",
-        "tags": "natural,identity"
+        "tags": "natural"
     },
     {
         "title": "AI Dubbing",
@@ -4037,28 +4037,28 @@
         "description": "World's Central for Ship Photography and Information",
         "link": "https://www.shipspotting.com",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "marine"
     },
     {
         "title": "Broadcastify",
         "description": "Live Police, Fire, EMS, Aircraft, and Rail Audio Feeds",
         "link": "https://www.broadcastify.com",
         "region": "GLOBAL",
-        "tags": "identity,natural,conflict"
+        "tags": "aerial,conflict,natural"
     },
     {
         "title": "OpenCelliD",
         "description": "OpenCelliD is the largest Open Database of Cell Towers & their locations. You can geolocate IoT & Mobile devices without GPS, explore Mobile Operator coverage and more!",
         "link": "https://www.opencellid.org",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "aerial"
     },
     {
         "title": "AviationStack",
         "description": "Free, powerful REST API for real-time flight status and tracking information. Live data for flights, airports, schedules, timetables, iata codes, and more.",
         "link": "https://aviationstack.com",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "aerial"
     },
     {
         "title": "DigitalSide TI",
@@ -4072,7 +4072,7 @@
         "description": "DocumentCloud is an all-in-one platform used by newsrooms around the world to manage primary source documents. You can use the platform to organize, analyze, annotate, search and embed these resources as needed.",
         "link": "https://www.documentcloud.org/documents/",
         "region": "GLOBAL",
-        "tags": "research,identity"
+        "tags": "research"
     },
     {
         "title": "IDRW",
@@ -4083,7 +4083,7 @@
         "description": "Indian Defence Research Wing brings latest and in-depth coverage + analysis of Indian Defence News.",
         "link": "https://idrw.org",
         "region": "INDIA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "XFE",
@@ -4125,7 +4125,7 @@
         "description": "Transparency International - A global movement to end the injustice of corruption.",
         "link": "https://www.transparency.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Maigret",
@@ -4142,7 +4142,7 @@
         "description": "Organized Crime and Corruption Reporting Project - News on corruption and organized crime by a global network of investigative journalists.",
         "link": "https://www.occrp.org/en",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Qdorks",
@@ -4170,7 +4170,7 @@
         "description": "BreachBase archives thousands of leaked databases and lets its users inspect them. We offer an easy-to-use panel to access our archive as well as an API that helps developers ensure the safety of their users.",
         "link": "https://breachbase.com",
         "region": "GLOBAL",
-        "tags": "threat,identity"
+        "tags": "identity,threat"
     },
     {
         "title": "WorldCam",
@@ -4191,7 +4191,7 @@
         "description": "Find free WiFi hotspots with WiFi Map and get internet access wherever you travel! We provide access to over 150M+ hotspots worldwide.",
         "link": "https://www.wifimap.io",
         "region": "GLOBAL",
-        "tags": "clearweb,identity"
+        "tags": "aerial"
     },
     {
         "title": "OpenTrafficCamMap",
@@ -4222,7 +4222,7 @@
         "description": "The Geneva Academy of International Humanitarian Law and Human Rights.",
         "link": "https://geneva-academy.ch",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Z-Library",
@@ -4301,7 +4301,7 @@
             "https://www.linkedin.com/company/getsquarex"
         ],
         "region": "GLOBAL",
-        "tags": "threat,research"
+        "tags": "research,threat"
     },
     {
         "title": "James Brine TI",
@@ -4358,14 +4358,14 @@
         "description": "Geolocation Estimation",
         "link": "https://labs.tib.eu/geoestimation",
         "region": "GLOBAL",
-        "tags": "image,tracking"
+        "tags": "identity"
     },
     {
         "title": "Picarta",
         "description": "Picarta predicts where a photo has been taken in the world using Artificial Intelligence. Upload a photo and find its GPS location.",
         "link": "https://picarta.ai",
         "region": "GLOBAL",
-        "tags": "identity,artificial-intelligence"
+        "tags": "artificial-intelligence,identity"
     },
     {
         "title": "Tiny Scan",
@@ -4491,21 +4491,21 @@
         "description": "OCCRP Aleph is an investigative data platform that helps reporters follow the money. The global archive of research material for investigative reporting.",
         "link": "https://aleph.occrp.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Al-Monitor",
         "description": "Independent, trusted coverage of the Middle East.",
         "link": "https://www.al-monitor.com",
         "region": "MENA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "GIFCT",
         "description": "Global Internet Forum to Counter Terrorism (GIFCT) brings together the technology industry, government, civil society, and academia to foster collaboration and information-sharing to counter terrorist and violent extremist activity online.",
         "link": "https://gifct.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "N2YO",
@@ -4515,7 +4515,7 @@
         "description": "Select any satellite orbiting the Earth and check where is located now. Check satellite passes over your location and receive alerts on your phone.",
         "link": "https://n2yo.com",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "aerial"
     },
     {
         "title": "Space Track",
@@ -4526,7 +4526,7 @@
         "description": "Space-Track.org promotes space flight safety, protection of the space environment and the peaceful use of space worldwide by sharing space situational awareness services and information with U.S. and international satellite owners/operators, academia and other entities.",
         "link": "https://www.space-track.org",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "aerial"
     },
     {
         "title": "Satnogs",
@@ -4537,7 +4537,7 @@
         "description": "Open Source global network of satellite ground-stations",
         "link": "https://satnogs.org",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "aerial"
     },
     {
         "title": "CelesTrak",
@@ -4548,7 +4548,7 @@
         "description": "CelesTrak's mission remains focused on making data and other resources freely available to the space community to facilitate understanding of our orbital environment and how to use it safely and responsibly.",
         "link": "https://celestrak.org",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "aerial"
     },
     {
         "title": "Open Cosmos",
@@ -4561,7 +4561,7 @@
         "description": "Open Cosmos is dedicated to solving customer problems with insights from space. Whether this is monitoring agricultural yields, assessing the damage of oil spills or providing navigation solutions, we believe that data from satellites is the most effective and sustainable way of achieving this.",
         "link": "https://open-cosmos.com",
         "region": "GLOBAL",
-        "tags": "natural,identity,research"
+        "tags": "aerial,natural,research"
     },
     {
         "title": "Trail of Bits Testing Handbook",
@@ -4577,7 +4577,7 @@
     },
     {
         "title": "ADS-B Exchange",
-        "description": "The world's largest community of unfiltered ADS-B/Mode S/MLAT feeders, providing enthusiasts, researchers, and journalists access to the globe’s most extensive flight data for unprecedented flight monitoring.",
+        "description": "The world's largest community of unfiltered ADS-B/Mode S/MLAT feeders, providing enthusiasts, researchers, and journalists access to the globe's most extensive flight data for unprecedented flight monitoring.",
         "link": "https://www.adsbexchange.com",
         "social": [
             "https://www.facebook.com/adsbexchange/",
@@ -4586,7 +4586,7 @@
             "https://www.reddit.com/r/ADSBexchange/"
         ],
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "aerial"
     },
     {
         "title": "Pivot Atlas",
@@ -4604,21 +4604,21 @@
         "description": "Track military and interesting aircraft.",
         "link": "https://military.freedar.uk/VirtualRadar/mobile.html",
         "region": "GLOBAL",
-        "tags": "research,conflict,identity"
+        "tags": "aerial,conflict,research"
     },
     {
         "title": "Africa Organized Crime Index",
         "description": "The ENACT Organised Crime Index is a multi-dimensional tool that measures both the level of countries' criminality and their resilience to organised crime.",
         "link": "https://africa.ocindex.net",
         "region": "AFRICA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Global Organized Crime Index",
         "description": "Based on the 2019 ENACT Organised Crime Index for Africa, the Global Organized Crime Index is a key flagship project of the Global Initiative Against Transnational Organized Crime (GI-TOC).",
         "link": "https://ocindex.net",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Webscout",
@@ -4657,28 +4657,28 @@
         "description": "Wild Me is a nonprofit that develops AI tools for collaborative, international wildlife conservation.",
         "link": "https://wildme.org",
         "region": "GLOBAL",
-        "tags": "natural,identity,artificial-intelligence"
+        "tags": "artificial-intelligence,identity,natural"
     },
     {
         "title": "IUU Vessels",
         "description": "This site provides the best available, up-to-date information on all fishing and related vessels that appear on the illegal, unregulated, and unreported (IUU) fishing vessel lists published by Regional Fisheries Management Organisations (RFMOs) and related organisations. The aim of the site is to improve the effectiveness of the original IUU lists as a tool for a wide variety of stakeholders to better understand and combat illegal fishing and broader fisheries crime.",
         "link": "https://iuu-vessels.org",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "marine"
     },
     {
         "title": "QGIS",
         "description": "Spatial visualization and decision-making tools for everyone",
         "link": "https://qgis.org",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "aerial,natural"
     },
     {
         "title": "Airwars",
         "description": "Monitoring and assessing civilian harm from airpower-dominated international military actions. Seeking transparency and accountability from belligerents, and advocating on behalf of affected non-combatants. Archiving open-source casualty reports, and military claims by nations.",
         "link": "https://airwars.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "aerial,conflict,research"
     },
     {
         "title": "CompleteDNS",
@@ -4692,7 +4692,7 @@
         "description": "Computer vision technologies for OSINT and conflict zone media with neural networks powered by high-quality synthetic data",
         "link": "https://vframe.io",
         "region": "GLOBAL",
-        "tags": "clearweb,artificial-intelligence,conflict"
+        "tags": "artificial-intelligence,clearweb,conflict"
     },
     {
         "title": "Pipl",
@@ -4720,7 +4720,7 @@
         "description": "The Public Accountability Initiative, LittleSis, is a nonprofit public interest research organization focused on corporate and government accountability.",
         "link": "https://littlesis.org",
         "region": "GLOBAL",
-        "tags": "asset,research,identity"
+        "tags": "asset,identity,research"
     },
     {
         "title": "Cleanup Pictures",
@@ -4734,7 +4734,7 @@
         "description": "Discover how Lens in the Google app can help you explore the world around you. Use your phone's camera to search what you see in an entirely new way.",
         "link": "https://lens.google",
         "region": "GLOBAL",
-        "tags": "clearweb,artificial-intelligence"
+        "tags": "artificial-intelligence,clearweb"
     },
     {
         "title": "Samdesk",
@@ -4755,21 +4755,21 @@
         "description": "Data & Society advances public understanding of the social implications of data-centric technologies and automation.",
         "link": "https://datasociety.net",
         "region": "GLOBAL",
-        "tags": "research,privacy"
+        "tags": "privacy,research"
     },
     {
         "title": "The Navtex Archive",
         "description": "NAVTEX is an international automated direct-printing service for promulgation of navigational and meteorological warnings and other urgent information to ships.",
         "link": "https://navtex.net",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "aerial,marine,natural"
     },
     {
         "title": "Open Measures",
         "description": "Open Measures democratizes tools that identify online extremism and defend against offline harm. We help researchers contextualize threats.",
         "link": "https://openmeasures.io",
         "region": "GLOBAL",
-        "tags": "clearweb,identity,conflict,research"
+        "tags": "clearweb,conflict,identity,research"
     },
     {
         "title": "Global Solar Atlas",
@@ -4783,7 +4783,7 @@
         "description": "Maltego is the all-in-one investigation platform that accelerates complex cyber investigations from hours to minutes. Mine, merge, and map all your essential intelligence in one place, and uncover hidden truths now!",
         "link": "https://maltego.com",
         "region": "GLOBAL",
-        "tags": "clearweb,darkweb,threat,identity,asset"
+        "tags": "asset,clearweb,darkweb,identity,threat"
     },
     {
         "title": "Wikimedia",
@@ -4804,14 +4804,14 @@
         "description": "Your Alternative Media",
         "link": "https://unicornriot.ninja",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "The Citizen Lab",
         "description": "The Citizen Lab is an interdisciplinary laboratory based at the Munk School of Global Affairs & Public Policy, University of Toronto.",
         "link": "https://citizenlab.ca",
         "region": "GLOBAL",
-        "tags": "privacy,research,conflict"
+        "tags": "conflict,privacy,research"
     },
     {
         "title": "Redective",
@@ -4825,7 +4825,7 @@
         "description": "ProPublica is an independent, non-profit newsroom that produces investigative journalism in the public interest.",
         "link": "https://propublica.org",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "EECentre",
@@ -4846,14 +4846,14 @@
         "description": "Transforming the way you view and analyze our planet's data. SkyFi's web and mobile is made for easy access to Earth observation imagery and analytics.",
         "link": "https://skyfi.com",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "aerial,natural"
     },
     {
         "title": "DFRLab",
         "description": "The Digital Forensic Research Lab (DFRLab) has expertise on disinformation, connective technologies, democracy, and digital rights.",
         "link": "https://dfrlab.org",
         "region": "GLOBAL",
-        "tags": "research,privacy"
+        "tags": "privacy,research"
     },
     {
         "title": "Skopenow",
@@ -4874,7 +4874,7 @@
         "description": "Cloud API for Satellite Imagery",
         "link": "https://sentinel-hub.com",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "aerial,natural"
     },
     {
         "title": "CAT-UXO",
@@ -4888,7 +4888,7 @@
         "description": "BrowserLeaks is a suite of tools that offers a range of tests to evaluate the security and privacy of your web browser. These tests focus on identifying ways in which websites may leak your real IP address, collect information about your device, and perform a browser fingerprinting.",
         "link": "https://browserleaks.com",
         "region": "GLOBAL",
-        "tags": "privacy,clearweb"
+        "tags": "clearweb,privacy"
     },
     {
         "title": "TelepathyDB",
@@ -4916,14 +4916,14 @@
         "description": "Read the latest headlines, breaking news, and videos at APNews, the definitive source for independent journalism from every corner of the globe.",
         "link": "https://apnews.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "My Ship Tracking",
         "description": "My Ship Tracking is a FREE REALTIME AIS vessel finder tracking service. With this vessel tracker you can monitor ship positions, vessel tracking, ship tracking, vessel position, vessels traffic, port activity in realtime map.",
         "link": "https://myshiptracking.com",
         "region": "GLOBAL",
-        "tags": "identity"
+        "tags": "marine"
     },
     {
         "title": "Digital Scholar",
@@ -4937,35 +4937,35 @@
         "description": "TRAFFIC is a leading NGO working globally on trade in wild animals and plants in the context of both biodiversity conservation and sustainable development.",
         "link": "https://traffic.org",
         "region": "GLOBAL",
-        "tags": "research,natural"
+        "tags": "natural,research"
     },
     {
         "title": "Truffle Security",
         "description": "Truffle Security is an open-source security software company that secures sensitive data by automatically detecting and remediating leaked keys and credentials.",
         "link": "https://trufflesecurity.com",
         "region": "GLOBAL",
-        "tags": "threat,research"
+        "tags": "research,threat"
     },
     {
         "title": "SunCalc",
         "description": "SunCalc shows the movement of the sun and sunlight-phase for a certain day at a certain place.",
         "link": "https://suncalc.org",
         "region": "GLOBAL",
-        "tags": "natural,identity"
+        "tags": "aerial,natural"
     },
     {
         "title": "New Scientist",
         "description": "Science news and long reads from expert journalists, covering developments in science, technology, health and the environment on the website and the magazine.",
         "link": "https://newscientist.com",
         "region": "GLOBAL",
-        "tags": "research,natural"
+        "tags": "natural,research"
     },
     {
         "title": "allAfrica",
         "description": "AllAfrica is a voice of, by and about Africa - aggregating, producing and distributing news and information from over 100 African news organizations and our own reporters to an African and global public. Our technology-driven, multi-channel platform is the only independent, comprehensive pan-African news source, with unrivaled reach and reputation.",
         "link": "https://allafrica.com",
         "region": "AFRICA",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Vortimo",
@@ -4986,14 +4986,14 @@
         "description": "Privacy International (PI) is a registered charity based in London that works at the intersection of modern technologies and rights.",
         "link": "https://privacyinternational.org",
         "region": "GLOBAL",
-        "tags": "research,privacy"
+        "tags": "privacy,research"
     },
     {
         "title": "EIA",
         "description": "Environmental Investigation Agency investigates and campaign against environmental crime and abuse.",
         "link": "https://eia-international.org",
         "region": "GLOBAL",
-        "tags": "research,natural"
+        "tags": "natural,research"
     },
     {
         "title": "DataJournalism",
@@ -5007,14 +5007,14 @@
         "description": "Curated by professional editors, The Conversation offers informed commentary and debate on the issues affecting our world. Plus a Plain English guide to the latest developments and discoveries from the university and research sector.",
         "link": "https://theconversation.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,research"
     },
     {
         "title": "Marine Insight",
         "description": "Marine Insight offers maritime news, featured articles, digital resources and helpful guidance on maritime, shipping, and logistics industry.",
         "link": "https://marineinsight.com",
         "region": "GLOBAL",
-        "tags": "research,conflict"
+        "tags": "conflict,marine,research"
     },
     {
         "title": "Getcontact",
