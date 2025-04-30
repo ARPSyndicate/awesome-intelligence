@@ -5029,5 +5029,32 @@
         "link": "https://www.truecaller.com",
         "region": "GLOBAL",
         "tags": "identity"
+    },
+    {
+        "title": "Virus Exchange",
+        "description": "The largest collection of malware source code, samples, and papers on the internet.",
+        "link": "https://virus.exchange",
+        "region": "GLOBAL",
+        "tags": "threat"
+    },
+    {
+        "title": "MISP",
+        "description": "Open Source Threat Intelligence and Sharing Platform (formerly known as Malware Information Sharing Platform) is developed as free software/open source by a group of developers from CIRCL and many other contributors.",
+        "link": "https://www.misp-project.org",
+        "region": "GLOBAL",
+        "tags": "threat"
+    },
+    {
+        "title": "Stealth Mole",
+        "description": "A deep and dark web intelligence platform.",
+        "link": "https://www.stealthmole.com",
+        "region": "GLOBAL",
+        "social": [
+            "https://www.youtube.com/@StealthMoleIntelligence",
+            "https://www.facebook.com/StealthMoleIntelligence/",
+            "https://x.com/stealthmole_int",
+            "https://www.linkedin.com/company/stealthmole"
+        ],
+        "tags": "clearweb,conflict,darkweb,identity,threat"
     }
 ]
