@@ -4,7 +4,7 @@
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
             "https://t.me/s/arpsyndicate",
-            "https://twitter.com/arpsyndicate",
+            "https://x.com/arpsyndicate",
             "https://github.com/arpsyndicate"
         ],
         "description": "Exploit Observer aggregates & interprets exploit/vulnerability data from all over the Internet. Consequently, it has evolved into The World's Largest Exploit & Vulnerability Intelligence Database and is freely accessible to all.",
@@ -17,7 +17,7 @@
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
             "https://t.me/s/arpsyndicate",
-            "https://twitter.com/arpsyndicate",
+            "https://x.com/arpsyndicate",
             "https://github.com/arpsyndicate"
         ],
         "description": "Automated Advisories by Vulnerability & Exploit Data Aggregation System (VEDAS)",
@@ -30,7 +30,7 @@
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
             "https://t.me/s/arpsyndicate",
-            "https://twitter.com/arpsyndicate",
+            "https://x.com/arpsyndicate",
             "https://github.com/arpsyndicate"
         ],
         "description": "Subdomain Center scours the web, gathering and interpreting data from from all over the Internet. Consequently, it has evolved into The World's Fastest Growing Subdomain & Shadow IT Intelligence Database and is freely accessible to all.",
@@ -48,7 +48,7 @@
     {
         "title": "SubdomainRadar",
         "social": [
-            "https://twitter.com/subdomainradar"
+            "https://x.com/subdomainradar"
         ],
         "description": "Fast subdomain finder with multiple search modes and the most extensive data sources, offering real-time notifications.",
         "link": "https://www.subdomainradar.io",
@@ -58,7 +58,7 @@
     {
         "title": "Shodan",
         "social": [
-            "https://twitter.com/shodanhq",
+            "https://x.com/shodanhq",
             "https://mastodon.shodan.io",
             "https://www.facebook.com/shodan.io",
             "https://www.linkedin.com/company/shodan"
@@ -72,7 +72,7 @@
         "title": "Hudson Rock",
         "social": [
             "https://www.linkedin.com/company/hudson-rock/",
-            "https://twitter.com/rockhudsonrock"
+            "https://x.com/rockhudsonrock"
         ],
         "description": "Check if a digital asset (username, email, domain) was compromised in global Infostealer attacks",
         "link": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
@@ -82,7 +82,7 @@
     {
         "title": "Malcore",
         "social": [
-            "https://twitter.com/Malcoreio",
+            "https://x.com/Malcoreio",
             "https://www.linkedin.com/company/malcore"
         ],
         "description": "Malcore is the fastest commercial sandbox built with a reverse engineering platform at its core. Its speed allows seamless integration in browser, desktop, and email.",
@@ -93,7 +93,7 @@
     {
         "title": "Chaos Dataset",
         "social": [
-            "https://twitter.com/pdiscoveryio"
+            "https://x.com/pdiscoveryio"
         ],
         "description": "This project is meant to enhance research and analyse changes around DNS for better insights.",
         "link": "https://chaos.projectdiscovery.io",
@@ -103,7 +103,7 @@
     {
         "title": "Censys Search",
         "social": [
-            "https://twitter.com/censysio"
+            "https://x.com/censysio"
         ],
         "description": "Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security.",
         "link": "https://search.censys.io",
@@ -113,7 +113,7 @@
     {
         "title": "NerdyData",
         "social": [
-            "https://twitter.com/nerdydata"
+            "https://x.com/nerdydata"
         ],
         "description": " Get a list of websites that use certain technologies, plus their company and spend data. Perfect for lead generation, market analysis, and competitive research.",
         "link": "https://www.nerdydata.com",
@@ -130,7 +130,7 @@
     {
         "title": "SearchCode",
         "social": [
-            "https://twitter.com/boyter"
+            "https://x.com/boyter"
         ],
         "description": "Search 75 billion lines of code from 40 million projects",
         "link": "https://searchcode.com",
@@ -140,7 +140,7 @@
     {
         "title": "SimilarSites",
         "social": [
-            "https://twitter.com/similarsites"
+            "https://x.com/similarsites"
         ],
         "description": "Easily Explore alternative websites",
         "link": "https://www.similarsites.com",
@@ -150,7 +150,7 @@
     {
         "title": "Netlas",
         "social": [
-            "https://twitter.com/netlas_io"
+            "https://x.com/netlas_io"
         ],
         "description": "Internet intelligence apps that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets.",
         "link": "https://netlas.io",
@@ -160,7 +160,7 @@
     {
         "title": "CriminalIP",
         "social": [
-            "https://twitter.com/CriminalIP_US",
+            "https://x.com/CriminalIP_US",
             "https://www.linkedin.com/company/aispera",
             "https://www.youtube.com/channel/UCa_xzwKO-qy2MZgDXi7-tnw"
         ],
@@ -172,7 +172,7 @@
     {
         "title": "Kaspersky OpenTIP",
         "social": [
-            "https://twitter.com/kaspersky"
+            "https://x.com/kaspersky"
         ],
         "description": "Kaspersky Threat Intelligence Portal allows you to scan files, domains, IP addresses, and URLs for threats, malware, viruses.",
         "link": "https://opentip.kaspersky.com",
@@ -182,7 +182,7 @@
     {
         "title": "GreyNoise",
         "social": [
-            "https://twitter.com/GreyNoiseIO"
+            "https://x.com/GreyNoiseIO"
         ],
         "description": "GreyNoise captures data on IPs that scan the internet and saturate security tools with internet noise, so SOC teams can focus on threats that matter and ignore those that don't.",
         "link": "https://www.greynoise.io",
@@ -192,7 +192,7 @@
     {
         "title": "Intezer Analyze",
         "social": [
-            "https://twitter.com/IntezerLabs"
+            "https://x.com/IntezerLabs"
         ],
         "description": "Malware analysis platform quickly classifying malware and unknown files. Unlike Antivirus and EDRs which mostly produce generic results and can only classify specific hashes, Intezer analyzes the code itself in order to categorize the threat and classify variants from the same malware family.",
         "link": "https://analyze.intezer.com",
@@ -202,7 +202,7 @@
     {
         "title": "Arkham Intelligence",
         "social": [
-            "https://twitter.com/ArkhamIntel"
+            "https://x.com/ArkhamIntel"
         ],
         "description": "Powerful tools for linking cryptocurrency activity to real world individuals and institutions.",
         "link": "https://www.arkhamintelligence.com",
@@ -219,7 +219,7 @@
     {
         "title": "ExploitDB",
         "social": [
-            "https://twitter.com/exploitdb",
+            "https://x.com/exploitdb",
             "https://www.facebook.com/ExploitDB"
         ],
         "description": "An archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers.",
@@ -278,7 +278,7 @@
     {
         "title": "The World Factbook",
         "social": [
-            "https://twitter.com/cia",
+            "https://x.com/cia",
             "https://www.facebook.com/Central.Intelligence.Agency",
             "https://www.instagram.com/cia",
             "https://www.linkedin.com/company/central-intelligence-agency"
@@ -301,7 +301,7 @@
     {
         "title": "Ransom Wiki",
         "social": [
-            "https://twitter.com/S0ufi4n3",
+            "https://x.com/S0ufi4n3",
             "https://www.linkedin.com/in/soufianetahiri"
         ],
         "description": "Check if your company or partner appears in a claimed ransom attack breach.",
@@ -312,7 +312,7 @@
     {
         "title": "Public Intelligence",
         "social": [
-            "https://twitter.com/publicintel"
+            "https://x.com/publicintel"
         ],
         "description": "Public Intelligence is an international, collaborative research project aimed at aggregating the collective work of independent researchers around the globe who wish to defend the public's right to access information.",
         "link": "https://publicintelligence.net",
@@ -322,7 +322,7 @@
     {
         "title": "Intelligence Briefs",
         "social": [
-            "https://twitter.com/CTNSIS",
+            "https://x.com/CTNSIS",
             "https://www.facebook.com/CTNSIS"
         ],
         "description": "Strategic Intelligence News publishes intelligence reports, geopolitics, military intelligence, and crime reports analysis.",
@@ -335,7 +335,7 @@
         "social": [
             "https://www.youtube.com/user/TheRANDCorporation",
             "https://www.facebook.com/RANDCorporation",
-            "https://twitter.com/randcorporation",
+            "https://x.com/randcorporation",
             "https://www.instagram.com/randcorporation",
             "https://www.linkedin.com/company/rand-corporation"
         ],
@@ -347,7 +347,7 @@
     {
         "title": "ProjectDiscovery",
         "social": [
-            "https://twitter.com/pdiscoveryio"
+            "https://x.com/pdiscoveryio"
         ],
         "description": "An open-source software company that builds tools to detect and remediate vulnerabilities from development to production.",
         "link": "https://github.com/projectdiscovery",
@@ -357,7 +357,7 @@
     {
         "title": "BeVigil",
         "social": [
-            "https://twitter.com/cloudsek"
+            "https://x.com/cloudsek"
         ],
         "description": "The internet's first and only security search engine for mobile apps.",
         "link": "https://bevigil.com",
@@ -381,7 +381,7 @@
     {
         "title": "MalwareBazaar",
         "social": [
-            "https://twitter.com/abuse_ch"
+            "https://x.com/abuse_ch"
         ],
         "description": "MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers.",
         "link": "https://bazaar.abuse.ch",
@@ -398,7 +398,7 @@
     {
         "title": "AbuseIPDB",
         "social": [
-            "https://twitter.com/abuseIPDB"
+            "https://x.com/abuseIPDB"
         ],
         "description": "AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet.",
         "link": "https://www.abuseipdb.com",
@@ -408,7 +408,7 @@
     {
         "title": "Yara Rules",
         "social": [
-            "https://twitter.com/yararules"
+            "https://x.com/yararules"
         ],
         "description": "This project covers the need of a group of IT Security Researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible, and began as an open source community for collecting Yara rules.",
         "link": "https://github.com/Yara-Rules/rules",
@@ -418,7 +418,7 @@
     {
         "title": "CrowdSec",
         "social": [
-            "https://twitter.com/crowd_security",
+            "https://x.com/crowd_security",
             "https://fr.linkedin.com/company/crowdsec",
             "https://www.youtube.com/channel/UCKhMjrV_Y2ws3gTW-SsxFkA"
         ],
@@ -430,7 +430,7 @@
     {
         "title": "Botvrij",
         "social": [
-            "https://www.twitter.com/cudeso"
+            "https://www.x.com/cudeso"
         ],
         "description": "Botvrij provides different sets of open source IOCs that you can use in your security devices to detect possible malicious activity. The information contains network info (IPs), file hashes, file paths, domain names, URLs.",
         "link": "https://www.botvrij.eu",
@@ -450,7 +450,7 @@
     {
         "title": "War on the Rocks",
         "social": [
-            "https://twitter.com/warontherocks"
+            "https://x.com/warontherocks"
         ],
         "description": "War on the Rocks is a platform for analysis and debate on strategy, defense, and foreign affairs. It features articles and podcasts produced by an array of writers with deep experience in these matters: top notch scholars who study war, those who have served or worked in war zones, and more than a few who have done it all.",
         "link": "https://warontherocks.com",
@@ -467,7 +467,7 @@
     {
         "title": "IntelligenceX",
         "social": [
-            "https://twitter.com/_IntelligenceX"
+            "https://x.com/_IntelligenceX"
         ],
         "description": "IntelligenceX delivers fast, high-quality results and make the deepest parts of the internet accessible with a few clicks. It searches billions of selectors in a matter of milliseconds. The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs, CIDRs, Bitcoin addresses, IPFS hashes, etc. It searches in places such as the darknet, document sharing platforms, whois data, public data leaks and others. It keeps a historical data archive of results, similar to how the Wayback Machine from archive.org stores historical copies of websites.",
         "link": "https://intelx.io",
@@ -484,7 +484,7 @@
     {
         "title": "PayloadAllTheThings",
         "social": [
-            "https://twitter.com/pentest_swissky"
+            "https://x.com/pentest_swissky"
         ],
         "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF.",
         "link": "https://github.com/swisskyrepo/PayloadsAllTheThings",
@@ -494,7 +494,7 @@
     {
         "title": "HardwareAllTheThings",
         "social": [
-            "https://twitter.com/pentest_swissky"
+            "https://x.com/pentest_swissky"
         ],
         "description": "A list of useful payloads and bypasses for Hardware and IOT Security.",
         "link": "https://github.com/swisskyrepo/HardwareAllTheThings",
@@ -504,8 +504,8 @@
     {
         "title": "Metabigor",
         "social": [
-            "https://twitter.com/j3ssiejjj",
-            "https://twitter.com/OsmedeusEngine"
+            "https://x.com/j3ssiejjj",
+            "https://x.com/OsmedeusEngine"
         ],
         "description": "Metabigor is Intelligence tool, its goal is to do OSINT tasks and more but without any API key.",
         "link": "https://github.com/j3ssie/metabigor",
@@ -529,8 +529,8 @@
     {
         "title": "McKinsey Insights",
         "social": [
-            "https://twitter.com/mckonfinance",
-            "https://twitter.com/McKStrategy"
+            "https://x.com/mckonfinance",
+            "https://x.com/McKStrategy"
         ],
         "description": "Critical trends and risks in the global economy",
         "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/mckinsey-global-economics-intelligence",
@@ -541,7 +541,7 @@
         "title": "Economist Intelligence",
         "social": [
             "https://www.linkedin.com/company/the-economist-intelligence-unit",
-            "https://twitter.com/theeiu",
+            "https://x.com/theeiu",
             "https://www.youtube.com/user/eiumedia",
             "http://facebook.com/TheEIU"
         ],
@@ -553,7 +553,7 @@
     {
         "title": "Quiver Quant",
         "social": [
-            "https://twitter.com/QuiverQuant",
+            "https://x.com/QuiverQuant",
             "https://www.instagram.com/quiverquantitative"
         ],
         "description": "Quiver scrapes alternative stock data from across the internet and aggregates it in a free, easy-to-use web dashboard. It allows retail investors to tap into the power of big data, and have access to actionable, easy to interpret data that hasn't already been dissected by Wall Street.",
@@ -564,7 +564,7 @@
     {
         "title": "MITRE ATT&CK",
         "social": [
-            "https://twitter.com/MITREattack"
+            "https://x.com/MITREattack"
         ],
         "description": "MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.",
         "link": "https://attack.mitre.org",
@@ -602,7 +602,7 @@
     {
         "title": "0day Today",
         "social": [
-            "https://twitter.com/Inj3ct0r",
+            "https://x.com/Inj3ct0r",
             "https://www.facebook.com/Inj3ct0rs"
         ],
         "description": "0day Today is the ultimate database of exploits and vulnerabilities and a great resource for vulnerability researchers and security professionals.",
@@ -613,7 +613,7 @@
     {
         "title": "Rapid7 DB",
         "social": [
-            "https://twitter.com/Rapid7",
+            "https://x.com/Rapid7",
             "https://www.facebook.com/rapid7",
             "https://www.instagram.com/rapid7",
             "https://www.linkedin.com/company/39624"
@@ -626,7 +626,7 @@
     {
         "title": "Sploitus",
         "social": [
-            "https://twitter.com/sploitus_com"
+            "https://x.com/sploitus_com"
         ],
         "description": "Sploitus is a convenient central place for identifying the newest exploits and finding attacks that exploit known vulnerabilities. The search engine is also a good resource for finding security and vulnerability discovery tools.",
         "link": "https://sploitus.com",
@@ -636,7 +636,7 @@
     {
         "title": "TOR Link",
         "social": [
-            "https://twitter.com/TorDotLink",
+            "https://x.com/TorDotLink",
             "https://www.facebook.com/tordotlink",
             "https://www.instagram.com/tordotlink"
         ],
@@ -658,7 +658,7 @@
     {
         "title": "Feodo Tracker",
         "social": [
-            "https://twitter.com/abuse_ch"
+            "https://x.com/abuse_ch"
         ],
         "description": "Browse the list of botnet Command&Control servers (C&Cs) tracked by Feodo Tracker, associated with Dridex, TrickBot, QakBot (aka QuakBot/Qbot), BazarLoader (aka BazarBackdoor) and Emotet (aka Heodo).",
         "link": "https://feodotracker.abuse.ch",
@@ -668,7 +668,7 @@
     {
         "title": "Stored Website",
         "social": [
-            "https://twitter.com/shapito27"
+            "https://x.com/shapito27"
         ],
         "description": "View cached web pages/website",
         "link": "https://stored.website",
@@ -678,7 +678,7 @@
     {
         "title": "ThreatMiner",
         "social": [
-            "https://twitter.com/ThreatMiner",
+            "https://x.com/ThreatMiner",
             "https://www.linkedin.com/company/threatminer"
         ],
         "description": "ThreatMiner is a threat intelligence portal that provides information on indicators of compromise (IOC) such as domains, IP address, malware samples (MD5, SHA1 and SHA256), SSL certificates, WHOIS information and malicious URLs such as phishing and malware links.",
@@ -689,7 +689,7 @@
     {
         "title": "YARAify",
         "social": [
-            "https://twitter.com/abuse_ch"
+            "https://x.com/abuse_ch"
         ],
         "description": "Scan suspicious files such as malware samples or process dumps against a large repository of YARA rules.With YARAhub, the platform also provides a structured way for sharing YARA rules with the community.",
         "link": "https://yaraify.abuse.ch",
@@ -699,7 +699,7 @@
     {
         "title": "PulseDive",
         "social": [
-            "https://twitter.com/pulsedive"
+            "https://x.com/pulsedive"
         ],
         "description": "Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, URLs, domains and other IOCs from OSINT feeds or submit your own.",
         "link": "https://pulsedive.com",
@@ -709,7 +709,7 @@
     {
         "title": "ThreatFox",
         "social": [
-            "https://twitter.com/abuse_ch"
+            "https://x.com/abuse_ch"
         ],
         "description": "Browse the Indicator Of Compromise (IOC) database of ThreatFox",
         "link": "https://threatfox.abuse.ch",
@@ -726,8 +726,8 @@
     {
         "title": "Have I Been Pwned",
         "social": [
-            "https://twitter.com/haveibeenpwned",
-            "https://twitter.com/troyhunt",
+            "https://x.com/haveibeenpwned",
+            "https://x.com/troyhunt",
             "https://www.facebook.com/haveibeenpwned",
             "https://www.facebook.com/troyahunt"
         ],
@@ -749,7 +749,7 @@
     {
         "title": "DNS Twister",
         "social": [
-            "https://twitter.com/dnstwister",
+            "https://x.com/dnstwister",
             "https://www.linkedin.com/in/elceef",
             "https://github.com/elceef",
             "https://linkedin.com/in/elceef"
@@ -762,7 +762,7 @@
     {
         "title": "DNSdumpster",
         "social": [
-            "https://twitter.com/hackertarget"
+            "https://x.com/hackertarget"
         ],
         "description": "DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.",
         "link": "https://dnsdumpster.com",
@@ -786,7 +786,7 @@
     {
         "title": "CovertAction",
         "social": [
-            "https://twitter.com/CovertActionMag",
+            "https://x.com/CovertActionMag",
             "https://www.facebook.com/covertactionmagazine",
             "https://www.instagram.com/covertactionmag",
             "https://www.youtube.com/channel/UC-zGV4r8Dtvj6hjr65SIDyg"
@@ -799,7 +799,7 @@
     {
         "title": "Trellix Research",
         "social": [
-            "https://twitter.com/Trellix",
+            "https://x.com/Trellix",
             "https://www.facebook.com/TeamTrellix",
             "https://www.linkedin.com/company/trellixsecurity"
         ],
@@ -811,7 +811,7 @@
     {
         "title": "CP Research",
         "social": [
-            "https://twitter.com/_cpresearch_",
+            "https://x.com/_cpresearch_",
             "https://www.facebook.com/checkpointresearch",
             "https://www.linkedin.com/company/check-point-software-technologies"
         ],
@@ -823,7 +823,7 @@
     {
         "title": "Wikistrat",
         "social": [
-            "https://twitter.com/Wikistrat",
+            "https://x.com/Wikistrat",
             "https://www.facebook.com/Wikistrat",
             "https://www.linkedin.com/company/wikistrat"
         ],
@@ -835,7 +835,7 @@
     {
         "title": "PolySwarm",
         "social": [
-            "https://twitter.com/PolySwarm"
+            "https://x.com/PolySwarm"
         ],
         "description": "Scan Files or URLs for threats",
         "link": "https://polyswarm.network",
@@ -852,7 +852,7 @@
     {
         "title": "WikiLeaks",
         "social": [
-            "https://twitter.com/wikileaks",
+            "https://x.com/wikileaks",
             "https://www.facebook.com/wikileaks"
         ],
         "description": "WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption. It has so far published more than 10 million documents and associated analyses.",
@@ -863,7 +863,7 @@
     {
         "title": "Talos Reports",
         "social": [
-            "https://twitter.com/talossecurity",
+            "https://x.com/talossecurity",
             "https://www.linkedin.com/company/cisco-talos-intelligence-group",
             "https://www.youtube.com/channel/UCPZ1DtzQkStYBSG3GTNoyfg"
         ],
@@ -875,7 +875,7 @@
     {
         "title": "MalAPI",
         "social": [
-            "https://twitter.com/mrd0x"
+            "https://x.com/mrd0x"
         ],
         "description": "MalAPI maps Windows APIs to common techniques used by malware. It can be used when developing malware (for legal purposes of course) or when analyzing the source code of one.",
         "link": "https://malapi.io",
@@ -892,7 +892,7 @@
     {
         "title": "SecureList",
         "social": [
-            "https://twitter.com/Securelist"
+            "https://x.com/Securelist"
         ],
         "description": "The Securelist blog houses Kaspersky's threat intelligence reports, malware research, APT analysis and statistics",
         "link": "https://securelist.com",
@@ -902,7 +902,7 @@
     {
         "title": "SPLC Hate Map",
         "social": [
-            "https://twitter.com/splcenter",
+            "https://x.com/splcenter",
             "https://www.facebook.com/SPLCenter",
             "https://www.instagram.com/splcenter"
         ],
@@ -914,7 +914,7 @@
     {
         "title": "ICSR",
         "social": [
-            "https://www.twitter.com/ICSR_Centre",
+            "https://www.x.com/ICSR_Centre",
             "https://www.youtube.com/user/TheICSRBlog"
         ],
         "description": "The International Centre for the Study of Radicalisation (ICSR) is a world-class and internationally acclaimed academic research centre based in the Department of War Studies at King's College London.",
@@ -925,7 +925,7 @@
     {
         "title": "Militant Wire",
         "social": [
-            "https://twitter.com/MilitantWire",
+            "https://x.com/MilitantWire",
             "https://t.me/militantwire"
         ],
         "description": "Militant Wire is a media company focused on providing independent analysis of militant activity and armed conflict around the world. Our global network of researchers produces expert insight on issues of political street violence, terrorism, insurgency, organized crime, irregular warfare, and more.",
@@ -936,7 +936,7 @@
     {
         "title": "START Publications",
         "social": [
-            "http://twitter.com/START_umd",
+            "http://x.com/START_umd",
             "http://www.facebook.com/STARTConsortium"
         ],
         "description": "Publications from a consortium of researchers dedicated to improving the understanding of the human causes and consequences of terrorism.",
@@ -947,7 +947,7 @@
     {
         "title": "SPLC Resources",
         "social": [
-            "https://twitter.com/splcenter",
+            "https://x.com/splcenter",
             "https://www.facebook.com/SPLCenter",
             "https://www.instagram.com/splcenter"
         ],
@@ -959,7 +959,7 @@
     {
         "title": "Tracking Terrorism",
         "social": [
-            "https://twitter.com/TracTerrorism"
+            "https://x.com/TracTerrorism"
         ],
         "description": "TRAC combines one of the world's largest databases of terrorists, terrorist groups, hate groups and their abettors with original, analytical essays on seminal terrorism topics, profiles of vulnerable regions and cities, and live feed of news and analyses.",
         "link": "https://trackingterrorism.org",
@@ -969,7 +969,7 @@
     {
         "title": "Mapping Militants",
         "social": [
-            "https://twitter.com/FSIStanford",
+            "https://x.com/FSIStanford",
             "https://www.facebook.com/StanfordFSI",
             "https://www.youtube.com/channel/UCB2X9yR4GZLfrCe4jChIEwg",
             "https://www.instagram.com/fsi_stanford"
@@ -982,7 +982,7 @@
     {
         "title": "NCTC Guide",
         "social": [
-            "https://www.twitter.com/odnigov",
+            "https://www.x.com/odnigov",
             "http://www.linkedin.com/company/odni"
         ],
         "description": "NCTC serves as the primary organization in the United States Government for analyzing and integrating information pertaining to international terrorism. This Guide focuses on the international terrorist organizations that are assessed to present the most serious threats to the United States.",
@@ -993,7 +993,7 @@
     {
         "title": "Sekurak",
         "social": [
-            "https://twitter.com/Sekurak",
+            "https://x.com/Sekurak",
             "http://facebook.com/sekurak"
         ],
         "description": "News, knowledge, tools, texts - everything related to IT security",
@@ -1004,7 +1004,7 @@
     {
         "title": "Critical Threats",
         "social": [
-            "https://twitter.com/criticalthreats",
+            "https://x.com/criticalthreats",
             "https://www.facebook.com/criticalthreats"
         ],
         "description": "Critical Threats' objective is to inform and educate policymakers, the intelligence and military communities, and all interested citizens who need to understand the nuance and scale of threats to America's security.",
@@ -1015,7 +1015,7 @@
     {
         "title": "NTI",
         "social": [
-            "https://twitter.com/nti_wmd",
+            "https://x.com/nti_wmd",
             "https://www.facebook.com/nti.org",
             "https://www.instagram.com/nti_wmd",
             "https://www.linkedin.com/company/the-nuclear-threat-initiative",
@@ -1029,7 +1029,7 @@
     {
         "title": "Arms Control",
         "social": [
-            "https://twitter.com/armscontrolnow",
+            "https://x.com/armscontrolnow",
             "https://www.facebook.com/armscontrol",
             "https://www.linkedin.com/company/armscontrol"
         ],
@@ -1041,7 +1041,7 @@
     {
         "title": "ReliefWeb",
         "social": [
-            "https://twitter.com/reliefweb",
+            "https://x.com/reliefweb",
             "https://www.facebook.com/reliefweb",
             "https://www.instagram.com/reliefweb1996",
             "https://www.linkedin.com/company/reliefweb"
@@ -1065,7 +1065,7 @@
     {
         "title": "RUSI",
         "social": [
-            "https://twitter.com/RUSI_org",
+            "https://x.com/RUSI_org",
             "https://www.facebook.com/RUSI.org",
             "https://www.linkedin.com/company/royal-united-services-institute",
             "https://www.youtube.com/user/RUSIONLINE"
@@ -1078,7 +1078,7 @@
     {
         "title": "Conflict Arm",
         "social": [
-            "https://twitter.com/conflictarm"
+            "https://x.com/conflictarm"
         ],
         "description": "Established in 2011, Conflict Armament Research generates unique evidence on weapon supplies into armed conflicts in order to inform and support effective weapon management and control.",
         "link": "https://www.conflictarm.com",
@@ -1088,7 +1088,7 @@
     {
         "title": "Crisis Group",
         "social": [
-            "https://twitter.com/CrisisGroup",
+            "https://x.com/CrisisGroup",
             "https://www.facebook.com/crisisgroup",
             "https://www.instagram.com/crisisgroup",
             "https://www.linkedin.com/company/international-crisis-group",
@@ -1102,7 +1102,7 @@
     {
         "title": "OpenSanctions",
         "social": [
-            "https://twitter.com/open_sanctions"
+            "https://x.com/open_sanctions"
         ],
         "description": "OpenSanctions helps investigators find leads, allows companies to manage risk and enables technologists to build data-driven products.",
         "link": "https://www.opensanctions.org",
@@ -1112,7 +1112,7 @@
     {
         "title": "CSIS",
         "social": [
-            "https://twitter.com/csis",
+            "https://x.com/csis",
             "https://www.facebook.com/CSIS.org",
             "https://www.linkedin.com/company/csis",
             "https://www.youtube.com/user/csisdc",
@@ -1126,7 +1126,7 @@
     {
         "title": "Small Arms Survey",
         "social": [
-            "https://twitter.com/SmallArmsSurvey",
+            "https://x.com/SmallArmsSurvey",
             "https://www.facebook.com/SmallArmsSurvey",
             "http://www.youtube.com/user/SmallArmsSurvey",
             "https://www.linkedin.com/company/small-arms-survey"
@@ -1139,7 +1139,7 @@
     {
         "title": "PRIO",
         "social": [
-            "https://twitter.com/PRIOresearch",
+            "https://x.com/PRIOresearch",
             "https://www.facebook.com/PRIO.org",
             "https://www.instagram.com/prioresearch"
         ],
@@ -1165,7 +1165,7 @@
     {
         "title": "TI Defence",
         "social": [
-            "https://twitter.com/TI_Defence"
+            "https://x.com/TI_Defence"
         ],
         "description": "Transparency International Defence & Security works towards a world where governments, the armed forces, and arms transfers are transparent, accountable, and free from corruption.",
         "link": "https://ti-defence.org",
@@ -1175,7 +1175,7 @@
     {
         "title": "COW",
         "social": [
-            "https://twitter.com/correlatesofwar"
+            "https://x.com/correlatesofwar"
         ],
         "description": "Correlates Of War (COW) seeks to facilitate the collection, dissemination, and use of accurate and reliable quantitative data in international relations.",
         "link": "https://correlatesofwar.org",
@@ -1185,7 +1185,7 @@
     {
         "title": "VX Underground",
         "social": [
-            "https://twitter.com/vxunderground",
+            "https://x.com/vxunderground",
             "https://t.me/+njfLzUrqos01ZWNh"
         ],
         "description": "The largest collection of malware source code, samples, and papers on the internet.",
@@ -1196,7 +1196,7 @@
     {
         "title": "Maldatabase",
         "social": [
-            "https://twitter.com/maldatabase"
+            "https://x.com/maldatabase"
         ],
         "description": "Maldatabase is designed to help malware data science and threat intelligence feeds.",
         "link": "https://maldatabase.com",
@@ -1206,7 +1206,7 @@
     {
         "title": "FraudGuard",
         "social": [
-            "https://twitter.com/fraudguard_io",
+            "https://x.com/fraudguard_io",
             "https://www.linkedin.com/company/fraudguard"
         ],
         "description": "FraudGuard is a service designed to provide an easy way to validate usage by continuously collecting and analyzing real-time internet traffic. Utilizing just a few simple API endpoints we make integration as simple as possible and return data such as: Risk Level, Threat Type, Geo Location, etc.",
@@ -1217,7 +1217,7 @@
     {
         "title": "Dataplane",
         "social": [
-            "https://twitter.com/Dataplaneorg"
+            "https://x.com/Dataplaneorg"
         ],
         "description": "Internet engineers, analysts, incident responders, and supporting organizations must be aware of trends, anomalies, threats, and misconfigurations that originate from within and outside their networks. Dataplane.org is a provider of data (signals), analysis, and statistics that increases the awareness which leads to a more robust and secure Internet.",
         "link": "https://dataplane.org",
@@ -1227,7 +1227,7 @@
     {
         "title": "Cyware Feeds",
         "social": [
-            "https://twitter.com/cywareco",
+            "https://x.com/cywareco",
             "https://www.facebook.com/Cywareco",
             "https://www.linkedin.com/company/cyware",
             "https://www.youtube.com/channel/UCBPcVKjzXijVkBWwV3wNjag"
@@ -1250,7 +1250,7 @@
     {
         "title": "ThreatFeeds",
         "social": [
-            "https://twitter.com/threatfeeds_io"
+            "https://x.com/threatfeeds_io"
         ],
         "description": "Free and open-source threat intelligence feeds.",
         "link": "https://threatfeeds.io",
@@ -1260,7 +1260,7 @@
     {
         "title": "HoneyDB",
         "social": [
-            "https://twitter.com/HoneyPyLog"
+            "https://x.com/HoneyPyLog"
         ],
         "description": "HoneyDB provides real time data of honeypot activity. This data comes from honeypot sensors deployed globally on the Internet.",
         "link": "https://honeydb.io",
@@ -1284,7 +1284,7 @@
     {
         "title": "ThreatCop Phishing",
         "social": [
-            "https://twitter.com/threatcop",
+            "https://x.com/threatcop",
             "https://www.linkedin.com/company/threatcop",
             "https://www.youtube.com/@threatcop"
         ],
@@ -1296,10 +1296,10 @@
     {
         "title": "PhishStats",
         "social": [
-            "https://twitter.com/PhishStats",
+            "https://x.com/PhishStats",
             "https://t.me/joinchat/AAAAAElZRwd0aBrYTaHHcQ",
             "https://github.com/eschultze",
-            "https://twitter.com/e_schultze_"
+            "https://x.com/e_schultze_"
         ],
         "description": "Fighting phishing and cybercrime since 2014 by gathering, enhancing and sharing phishing information with the infosec community.",
         "link": "https://phishstats.info",
@@ -1309,7 +1309,7 @@
     {
         "title": "KitPloit Exploits",
         "social": [
-            "https://twitter.com/KitPloit",
+            "https://x.com/KitPloit",
             "https://www.facebook.com/KitPloit"
         ],
         "description": "KitPloit Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
@@ -1320,7 +1320,7 @@
     {
         "title": "SeeBug",
         "social": [
-            "https://twitter.com/seebug_team"
+            "https://x.com/seebug_team"
         ],
         "description": "Seebug is an authoritative security vulnerability community platform for vulnerability reference, sharing and learning, and an authoritative vulnerability library in China.",
         "link": "https://www.seebug.org",
@@ -1331,7 +1331,7 @@
         "title": "ORF",
         "social": [
             "https://www.facebook.com/Observer-Research-Foundation-184850724955326",
-            "https://twitter.com/orfonline",
+            "https://x.com/orfonline",
             "https://www.instagram.com/orfonline",
             "https://www.linkedin.com/company/observer-research-foundation",
             "https://www.youtube.com/channel/UCkcjGxTW_mLZmmEfWP2UMtQ",
@@ -1345,7 +1345,7 @@
     {
         "title": "Verdict Network",
         "social": [
-            "https://twitter.com/VerdictUK",
+            "https://x.com/VerdictUK",
             "https://www.facebook.com/globaldataplc",
             "https://www.linkedin.com/company/globaldataplc"
         ],
@@ -1357,7 +1357,7 @@
     {
         "title": "Watcher Guru",
         "social": [
-            "https://twitter.com/watcherguru",
+            "https://x.com/watcherguru",
             "https://instagram.com/watcher.guru",
             "https://youtube.com/c/watcherguru",
             "https://t.me/watcherguru"
@@ -1370,7 +1370,7 @@
     {
         "title": "Safe Air Space",
         "social": [
-            "https://twitter.com/_opsgroup",
+            "https://x.com/_opsgroup",
             "https://www.facebook.com/weareopsgroup"
         ],
         "description": "The Conflict Zone & Risk Database provides a single, independent, and eternally free resource for all airspace risk warnings, so that airlines and aircraft operators can easily see the current risk picture for unfamiliar airspace.",
@@ -1382,7 +1382,7 @@
         "title": "CryptoQuant",
         "social": [
             "https://t.me/cryptoquant_official",
-            "https://twitter.com/cryptoquant_com"
+            "https://x.com/cryptoquant_com"
         ],
         "description": "Track daily Bitcoin overview, on-chain data analytics, price, statistics, derivatives, dex trades, charts and trending articles etc.",
         "link": "https://cryptoquant.com",
@@ -1393,7 +1393,7 @@
         "title": "AntiChat",
         "social": [
             "https://www.facebook.com/AntichatCom",
-            "https://twitter.com/antichatru",
+            "https://x.com/antichatru",
             "https://youtube.com/antichat",
             "https://t.me/antichat"
         ],
@@ -1405,7 +1405,7 @@
     {
         "title": "Global Detention Project",
         "social": [
-            "https://twitter.com/migradetention",
+            "https://x.com/migradetention",
             "https://www.facebook.com/globaldetentionproject",
             "https://linkedin.com/company/global-detention-project"
         ],
@@ -1418,7 +1418,7 @@
         "title": "ICIJ Offshore Leaks",
         "social": [
             "https://www.linkedin.com/company/1732242",
-            "https://twitter.com/ICIJorg",
+            "https://x.com/ICIJorg",
             "https://instagram.com/icijorg"
         ],
         "description": "Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.",
@@ -1443,7 +1443,7 @@
     {
         "title": "TheresAnAIForThat",
         "social": [
-            "https://twitter.com/imakecoolsites"
+            "https://x.com/imakecoolsites"
         ],
         "description": "Comprehensive database of AIs available for every task. Find the best AI for your task.",
         "link": "https://theresanaiforthat.com",
@@ -1453,7 +1453,7 @@
     {
         "title": "Pew Research",
         "social": [
-            "https://twitter.com/pewresearch",
+            "https://x.com/pewresearch",
             "https://www.facebook.com/pewresearch",
             "https://www.youtube.com/user/PewResearchCenter"
         ],
@@ -1465,7 +1465,7 @@
     {
         "title": "ACLED",
         "social": [
-            "https://twitter.com/ACLEDINFO",
+            "https://x.com/ACLEDINFO",
             "https://www.linkedin.com/company/acleddata",
             "https://www.facebook.com/ACLEDINFO"
         ],
@@ -1481,7 +1481,7 @@
             "https://www.instagram.com/globalstrategicdefence",
             "https://www.linkedin.com/in/global-strategic-defence-news-367aa6255",
             "https://www.youtube.com/channel/UCOfm22cokj70NPpsaQJ952g",
-            "https://twitter.com/gsdnlive"
+            "https://x.com/gsdnlive"
         ],
         "description": "Global Strategic and Defence News (GSDN) is a forum to provide accurate analysis on geopolitical and defence issues that concern the world at large.",
         "link": "https://gsdn.live",
@@ -1502,7 +1502,7 @@
         "title": "Million Short",
         "social": [
             "http://facebook.com/millionshort",
-            "https://twitter.com/millionshort",
+            "https://x.com/millionshort",
             "https://www.youtube.com/user/millionshort"
         ],
         "description": "Million Short started out as an experimental web search engine that allows you to filter and refine your search results set. The thinking was that web searches yield the same popular sites. Million Short makes it easy to discover sites that just don't make it to the top of the search engine results for whatever reason - whether it be poor SEO, new site, small marketing budget, or competitive keywords. The Million Short technology gives users access to the wealth of untapped information on the web.",
@@ -1514,7 +1514,7 @@
         "title": "Effect Group",
         "social": [
             "https://www.facebook.com/EffectGroupOS",
-            "https://twitter.com/EffectGroupOS",
+            "https://x.com/EffectGroupOS",
             "https://www.youtube.com/channel/UCDwzl8Il0UB3EwejZ7XUZHQ",
             "https://www.linkedin.com/company/effectgroupos"
         ],
@@ -1533,7 +1533,7 @@
     {
         "title": "Smith & Crown",
         "social": [
-            "https://twitter.com/smithandcrown"
+            "https://x.com/smithandcrown"
         ],
         "description": "Understanding how businesses, economies, and social systems will function in the near future requires knowledge of cryptoeconomic systems' potential and limits. Smith + Crown is the world's leading blockchain research group, providing free industry intelligence and analysis on key networks and topics.",
         "link": "https://smithandcrown.com/research",
@@ -1543,7 +1543,7 @@
     {
         "title": "Morning Brew",
         "social": [
-            "https://twitter.com/MorningBrew",
+            "https://x.com/MorningBrew",
             "https://www.linkedin.com/company/the-morning-brew",
             "https://www.facebook.com/MorningBrew",
             "https://www.youtube.com/channel/UC_-hYjoNe4PJNFa9iZ4lraA",
@@ -1564,7 +1564,7 @@
     {
         "title": "TrendsMap",
         "social": [
-            "https://twitter.com/trendsmap"
+            "https://x.com/trendsmap"
         ],
         "description": "Analyse any topic globally or by region in detail. Create unique map based visualisations showing tweet activity across a country, a region, or the world. Our powerful querying and filtering tools allows you to focus on your particular area of interest.",
         "link": "https://www.trendsmap.com",
@@ -1598,7 +1598,7 @@
     {
         "title": "AccountAnalysis",
         "social": [
-            "https://www.twitter.com/accountanalysis"
+            "https://www.x.com/accountanalysis"
         ],
         "description": "This tool enables you to evaluate Twitter accounts. For example how automated they are, how many Retweets they post, or which websites they link to most often.",
         "link": "https://accountanalysis.app",
@@ -1623,7 +1623,7 @@
         "title": "MiddleEastEye",
         "social": [
             "https://www.facebook.com/MiddleEastEye",
-            "https://www.twitter.com/MiddleEastEye",
+            "https://www.x.com/MiddleEastEye",
             "https://www.instagram.com/middleeasteye",
             "https://www.youtube.com/MiddleEastEye"
         ],
@@ -1638,7 +1638,7 @@
             "https://www.facebook.com/swisscows",
             "https://www.instagram.com/swisscows.official",
             "https://www.linkedin.com/company/swisscows",
-            "https://twitter.com/swisscows_ch"
+            "https://x.com/swisscows_ch"
         ],
         "description": "Swisscows is an anonymous search engine protects the privacy of our users when searching and from inappropriate content when finding it.",
         "link": "https://swisscows.com",
@@ -1649,7 +1649,7 @@
         "title": "SearX",
         "social": [
             "https://github.com/searx",
-            "https://twitter.com/Searx_engine"
+            "https://x.com/Searx_engine"
         ],
         "description": "Searx is a metasearch engine, aggregating the results of other search engines while not storing information about its users.",
         "link": "https://searx.info",
@@ -1666,7 +1666,7 @@
     {
         "title": "ICSVE",
         "social": [
-            "https://twitter.com/icsve",
+            "https://x.com/icsve",
             "https://www.facebook.com/icsve.org",
             "https://www.youtube.com/ICSVE"
         ],
@@ -1678,7 +1678,7 @@
     {
         "title": "TSAS",
         "social": [
-            "https://twitter.com/TSASNetwork"
+            "https://x.com/TSASNetwork"
         ],
         "description": "The Canadian Network for Research on Terrorism, Security and Society (TSAS) engages more than 280 affiliates to conduct policy-relevant research on the threat of terrorism, security responses to terrorism, and the impact of both terrorism and securitization on Canadian society.",
         "link": "https://www.tsas.ca",
@@ -1716,7 +1716,7 @@
     {
         "title": "Visualping",
         "social": [
-            "https://twitter.com/visualping",
+            "https://x.com/visualping",
             "https://www.linkedin.com/company/9480446",
             "https://www.youtube.com/channel/UCgyjvEr5OWQ10DR82_HWgjg",
             "https://www.facebook.com/visualping.io"
@@ -1740,7 +1740,7 @@
         "title": "Stocktwits",
         "social": [
             "https://www.instagram.com/stocktwits",
-            "https://twitter.com/stocktwits",
+            "https://x.com/stocktwits",
             "https://facebook.com/stocktwits"
         ],
         "description": "Stocktwits is the largest social network for investors and traders.",
@@ -1752,7 +1752,7 @@
         "title": "Middle East Monitor",
         "social": [
             "https://www.facebook.com/middleeastmonitor",
-            "https://www.twitter.com/middleeastmnt",
+            "https://www.x.com/middleeastmnt",
             "https://www.youtube.com/channel/UCJX8Wn6opMsBng3QWh0dK6g",
             "https://www.instagram.com/middleeastmonitor"
         ],
@@ -1764,7 +1764,7 @@
     {
         "title": "HRW",
         "social": [
-            "https://twitter.com/hrw",
+            "https://x.com/hrw",
             "https://www.facebook.com/HumanRightsWatch",
             "https://www.youtube.com/user/HumanRightsWatch",
             "https://www.instagram.com/humanrightswatch"
@@ -1781,7 +1781,7 @@
             "https://www.linkedin.com/company/56547",
             "https://www.instagram.com/seekingalpha",
             "https://www.youtube.com/channel/UC9ZGkLwawKeG5C0Dt9FS-lQ",
-            "https://twitter.com/SeekingAlpha"
+            "https://x.com/SeekingAlpha"
         ],
         "description": "Seeking Alpha, the largest investing community in the world. Get stock market news and analysis, investing ideas, earnings calls, charts and portfolio analysis tools.",
         "link": "https://seekingalpha.com",
@@ -1791,8 +1791,8 @@
     {
         "title": "Hindenburg Research",
         "social": [
-            "https://twitter.com/hindenburgres",
-            "https://twitter.com/ClarityToast"
+            "https://x.com/hindenburgres",
+            "https://x.com/ClarityToast"
         ],
         "description": "Founded by Nate Anderson, CFA, CAIA, Hindenburg Research specializes in forensic financial research. Our experience in the investment management industry spans decades, with a historical focus on equity, credit, and derivatives analysis.",
         "link": "https://hindenburgresearch.com",
@@ -1802,7 +1802,7 @@
     {
         "title": "Regional Economic Outlook",
         "social": [
-            "http://www.twitter.com/imfnews",
+            "http://www.x.com/imfnews",
             "https://www.facebook.com/International-Monetary-Fund-152292984850728",
             "http://www.linkedin.com/company/international-monetary-fund",
             "https://www.instagram.com/the_imf",
@@ -1816,7 +1816,7 @@
     {
         "title": "Fiscal Monitor",
         "social": [
-            "http://www.twitter.com/imfnews",
+            "http://www.x.com/imfnews",
             "https://www.facebook.com/International-Monetary-Fund-152292984850728",
             "http://www.linkedin.com/company/international-monetary-fund",
             "https://www.instagram.com/the_imf",
@@ -1830,7 +1830,7 @@
     {
         "title": "GFSR",
         "social": [
-            "http://www.twitter.com/imfnews",
+            "http://www.x.com/imfnews",
             "https://www.facebook.com/International-Monetary-Fund-152292984850728",
             "http://www.linkedin.com/company/international-monetary-fund",
             "https://www.instagram.com/the_imf",
@@ -1844,7 +1844,7 @@
     {
         "title": "World Economic Outlook",
         "social": [
-            "http://www.twitter.com/imfnews",
+            "http://www.x.com/imfnews",
             "https://www.facebook.com/International-Monetary-Fund-152292984850728",
             "http://www.linkedin.com/company/international-monetary-fund",
             "https://www.instagram.com/the_imf",
@@ -1858,13 +1858,13 @@
     {
         "title": "SITE",
         "social": [
-            "https://twitter.com/Rita_Katz",
-            "https://twitter.com/SITE_Bioterror",
-            "https://twitter.com/SITE_CYBER",
-            "https://twitter.com/site_finance",
-            "https://twitter.com/SITE_FRFL",
-            "https://twitter.com/siteintelgroup",
-            "https://twitter.com/siteintel_jt"
+            "https://x.com/Rita_Katz",
+            "https://x.com/SITE_Bioterror",
+            "https://x.com/SITE_CYBER",
+            "https://x.com/site_finance",
+            "https://x.com/SITE_FRFL",
+            "https://x.com/siteintelgroup",
+            "https://x.com/siteintel_jt"
         ],
         "description": "SITE Intelligence Group has provided governments and institutions worldwide with verified, actionable intelligence and analysis on designated terrorist and violent extremist groups. The multi-lingual staff at SITE has years of experience in the research and analysis of terrorist networks, from jihadists to far-right and far-left extremists: monitoring propaganda, studying trends within online communities, tracking events, and breaking down how these networks operate on the Internet.",
         "link": "https://ent.siteintelgroup.com",
@@ -1875,7 +1875,7 @@
         "title": "Educate Against Hate",
         "social": [
             "https://www.facebook.com/Educate-Against-Hate-880079592113682",
-            "https://twitter.com/EducateAgainst",
+            "https://x.com/EducateAgainst",
             "https://www.youtube.com/channel/UChu2N6XCzeofkq0v5WyfKGg"
         ],
         "description": "The purpose of this website is to provide practical advice, support and resources to protect children from extremism and radicalisation.",
@@ -1886,7 +1886,7 @@
     {
         "title": "GNET Research",
         "social": [
-            "https://www.twitter.com/GNET_research",
+            "https://www.x.com/GNET_research",
             "https://www.facebook.com/Global-Network-on-Extremism-and-Technology-GNET-101981374670687"
         ],
         "description": "The Global Network on Extremism and Technology (GNET) is the academic research arm of the Global Internet Forum to Counter Terrorism (GIFCT) and aims to better understand the ways in which terrorists use technology.",
@@ -1897,7 +1897,7 @@
     {
         "title": "ECFR",
         "social": [
-            "https://twitter.com/ecfr",
+            "https://x.com/ecfr",
             "https://www.facebook.com/ECFRthinktank",
             "https://www.youtube.com/c/ECFRTV",
             "https://www.linkedin.com/company/european-council-on-foreign-relations"
@@ -1911,7 +1911,7 @@
         "title": "SATP",
         "social": [
             "https://www.facebook.com/satporg",
-            "https://twitter.com/satporg",
+            "https://x.com/satporg",
             "https://www.linkedin.com/in/icm-satp-530a1a13b"
         ],
         "description": "South Asia Terrorism Portal (SATP) is the largest website on terrorism and low intensity warfare in South Asia, and creates the database and analytic context for research and analysis of all extremist movements in the region.",
@@ -1936,7 +1936,7 @@
     {
         "title": "SanctionsMap",
         "social": [
-            "https://twitter.com/EUSanctionsMap"
+            "https://x.com/EUSanctionsMap"
         ],
         "description": "The EU Sanctions Map provides information on restrictive measures (sanctions) adopted by the European Union - either to transpose measures imposed by the United Nations Security Council or autonomously. The EU Sanctions Map does not provide information on national sanctions of the EU Member States or any other sanctions imposed by third states.",
         "link": "https://sanctionsmap.eu",
@@ -1953,7 +1953,7 @@
     {
         "title": "ORKL",
         "social": [
-            "https://twitter.com/orkleu",
+            "https://x.com/orkleu",
             "https://github.com/ORKL"
         ],
         "description": "This project has been created to serve the needs of the international Cyber Threat Intelligence community for a library of their collective past achievements in the realm of CTI reporting. Over time, the goal is to collect a complete corpus of all publicly released CTI reports to be used as a reference in scientific research and CTI reporting.",
@@ -1973,7 +1973,7 @@
         "social": [
             "https://t.me/solidityscan",
             "https://www.instagram.com/solidityscan",
-            "https://twitter.com/solidityscan"
+            "https://x.com/solidityscan"
         ],
         "description": "A highly secure and trusted Blockchain smart contract scan platform for swift and accurate security audit results, along with detailed reports at unbeatable pricing options to choose from.",
         "link": "https://solidityscan.com",
@@ -1985,9 +1985,9 @@
         "social": [
             "https://facebook.com/investyadnya",
             "https://www.linkedin.com/company/7970114",
-            "https://twitter.com/investyadnya",
+            "https://x.com/investyadnya",
             "https://www.instagram.com/investyadnya",
-            "https://twitter.com/AdeParimal"
+            "https://x.com/AdeParimal"
         ],
         "description": "Invest Yadnya is one of the best personal financial planning and advisory website which provides information on companies' stocks and share recommendations, fundamental analysis and much more.",
         "link": "https://investyadnya.in",
@@ -1998,7 +1998,7 @@
         "title": "ShrewdEye",
         "social": [
             "https://github.com/zzzteph/sheye",
-            "https://twitter.com/w34kp455"
+            "https://x.com/w34kp455"
         ],
         "description": "ShrewdEye is a set of utilities bundled into a single automated workflow to improve, simplify, and speed up resource discovery and vulnerabilities finding.",
         "link": "https://shrewdeye.app",
@@ -2008,7 +2008,7 @@
     {
         "title": "LeakIX",
         "social": [
-            "https://twitter.com/leak_ix",
+            "https://x.com/leak_ix",
             "https://www.linkedin.com/company/leakix",
             "https://github.com/leakix"
         ],
@@ -2020,7 +2020,7 @@
     {
         "title": "LeakRadar",
         "social": [
-            "https://twitter.com/leakradario"
+            "https://x.com/leakradario"
         ],
         "description": "Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.",
         "link": "https://leakradar.io/",
@@ -2045,7 +2045,7 @@
         "title": "SecurityTrails",
         "social": [
             "https://www.linkedin.com/company/securitytrails",
-            "https://twitter.com/securitytrails"
+            "https://x.com/securitytrails"
         ],
         "description": "SecurityTrails enables you to explore complete current and historical data for any internet assets. IP & DNS history, domain, SSL and Open Port intelligence made easy.",
         "link": "https://securitytrails.com",
@@ -2062,7 +2062,7 @@
     {
         "title": "ONYPHE",
         "social": [
-            "https://twitter.com/onyphe"
+            "https://x.com/onyphe"
         ],
         "description": "ONYPHE is a Cyber Defense Search Engine for open-source and cyber threat intelligence data collected by crawling various sources available on the Internet or by listening to Internet background noise. ONYPHE does correlate this information with data gathered by performing active Internet scanning for connected devices and also by crawling Web site URLs. It then normalizes information and makes it available via an API and its query language.",
         "link": "https://www.onyphe.io",
@@ -2073,7 +2073,7 @@
         "title": "FullHunt",
         "social": [
             "https://www.facebook.com/fullhunt.io",
-            "https://twitter.com/fullhunt",
+            "https://x.com/fullhunt",
             "https://github.com/fullhunt"
         ],
         "description": "Discover, monitor, and secure your attack surface. FullHunt delivers the best platform in the market for attack surface security.",
@@ -2094,7 +2094,7 @@
     {
         "title": "Web Archive",
         "social": [
-            "https://twitter.com/internetarchive",
+            "https://x.com/internetarchive",
             "https://www.facebook.com/internetnetarchive"
         ],
         "description": "Explore more than 787 billion web pages saved over time.",
@@ -2108,7 +2108,7 @@
             "https://t.me/VulnersChat",
             "https://facebook.com/vulnersdb",
             "https://www.linkedin.com/company/vulners",
-            "https://twitter.com/vulnerscom",
+            "https://x.com/vulnerscom",
             "https://github.com/vulnerscom"
         ],
         "description": "Vulnerability database enriched with millions CVE, exploits, articles, varied tools and services for vulnerability management against cybersecurity threats.",
@@ -2126,7 +2126,7 @@
     {
         "title": "URLScan",
         "social": [
-            "https://twitter.com/urlscanio"
+            "https://x.com/urlscanio"
         ],
         "description": "Website scanner for suspicious and malicious URLs.",
         "link": "https://urlscan.io",
@@ -2136,7 +2136,7 @@
     {
         "title": "PacketStormSecurity",
         "social": [
-            "https://twitter.com/packet_storm"
+            "https://x.com/packet_storm"
         ],
         "description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers.",
         "link": "https://packetstormsecurity.com",
@@ -2146,7 +2146,7 @@
     {
         "title": "Hunter",
         "social": [
-            "https://twitter.com/EmailHunter",
+            "https://x.com/EmailHunter",
             "https://www.facebook.com/EmailHunter.co",
             "https://www.linkedin.com/company/hunter-io",
             "https://www.youtube.com/channel/UCAaEqu5fM-nSVvWZ656nd5g",
@@ -2160,7 +2160,7 @@
     {
         "title": "BinaryEdge",
         "social": [
-            "https://twitter.com/binaryedgeio",
+            "https://x.com/binaryedgeio",
             "https://www.facebook.com/binaryedgeio",
             "https://www.linkedin.com/company/binaryedge"
         ],
@@ -2172,7 +2172,7 @@
     {
         "title": "Wigle",
         "social": [
-            "https://twitter.com/wiglenet"
+            "https://x.com/wiglenet"
         ],
         "description": "Maps and database of 802.11 wireless networks, with statistics, submitted by wardrivers, netstumblers, and net huggers.",
         "link": "https://www.wigle.net",
@@ -2192,7 +2192,7 @@
     {
         "title": "FindEmails",
         "social": [
-            "https://twitter.com/EmailPatterns",
+            "https://x.com/EmailPatterns",
             "https://www.facebook.com/FindEmails"
         ],
         "description": "Sales, marketing, and recruiting professionals use our tools to find emails, verify emails, and buy email lists.",
@@ -2210,7 +2210,7 @@
     {
         "title": "InQuest Labs",
         "social": [
-            "https://www.twitter.com/inquest",
+            "https://www.x.com/inquest",
             "https://www.linkedin.com/company/inquest.net",
             "https://github.com/inquest",
             "https://www.youtube.com/channel/UCKra9C__cMHfyqi8dB5roEA"
@@ -2230,7 +2230,7 @@
     {
         "title": "ForeignAffairs",
         "social": [
-            "https://twitter.com/foreignaffairs",
+            "https://x.com/foreignaffairs",
             "https://www.facebook.com/ForeignAffairs",
             "https://www.instagram.com/foreignaffairsmag",
             "https://www.linkedin.com/company/foreign-affairs-magazine",
@@ -2245,7 +2245,7 @@
         "title": "MaltiVerse",
         "social": [
             "https://github.com/maltiverse",
-            "https://twitter.com/maltiverse_com"
+            "https://x.com/maltiverse_com"
         ],
         "description": "Small and medium SecOps teams cannot invest such a big time and effort to onboard tens of Threat Intelligence sources, curate and maintain them. Maltiverse automates this hard job and provides a strongly effective and affordable Threat Intelligence service. Maltiverse Threat Intelligence Feeds can be integrated with your security stack to provide improvement in terms of detections and protection capabilities from different points of view. You can also upload an deploy your own Threat Intelligence!",
         "link": "https://maltiverse.com",
@@ -2255,7 +2255,7 @@
     {
         "title": "CommonCrawl",
         "social": [
-            "https://twitter.com/commoncrawl"
+            "https://x.com/commoncrawl"
         ],
         "description": "We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone.",
         "link": "https://index.commoncrawl.org",
@@ -2266,7 +2266,7 @@
         "title": "USAID",
         "social": [
             "https://www.facebook.com/USAID",
-            "https://twitter.com/usaid",
+            "https://x.com/usaid",
             "https://www.youtube.com/USaidVideo",
             "https://www.linkedin.com/company/usaid",
             "https://www.instagram.com/usaid"
@@ -2288,7 +2288,7 @@
         "social": [
             "https://www.facebook.com/groups/169518103095402",
             "https://www.facebook.com/Skymem-128969217176249",
-            "https://twitter.com/skymem"
+            "https://x.com/skymem"
         ],
         "description": "Find email addresses of companies and people",
         "link": "https://www.skymem.info",
@@ -2298,7 +2298,7 @@
     {
         "title": "ZDI",
         "social": [
-            "https://twitter.com/thezdi"
+            "https://x.com/thezdi"
         ],
         "description": "The Zero Day Initiative (ZDI) was created to encourage the reporting of 0-day vulnerabilities privately to the affected vendors by financially rewarding researchers. At the time, there was a perception by some in the information security industry that those who find vulnerabilities are malicious hackers looking to do harm. Some still feel that way. While skilled, malicious attackers do exist, they remain a small minority of the total number of people who actually discover new flaws in software.",
         "link": "https://www.zerodayinitiative.com",
@@ -2308,7 +2308,7 @@
     {
         "title": "CIFOR",
         "social": [
-            "https://twitter.com/CIFOR",
+            "https://x.com/CIFOR",
             "https://www.facebook.com/cifor",
             "https://www.instagram.com/cifor_forests",
             "https://www.linkedin.com/company/center-for-international-forestry-research"
@@ -2322,7 +2322,7 @@
         "title": "Noema",
         "social": [
             "https://www.facebook.com/NoemaMag",
-            "https://twitter.com/NoemaMag",
+            "https://x.com/NoemaMag",
             "https://www.instagram.com/noemamag",
             "https://www.linkedin.com/company/noemamag"
         ],
@@ -2334,7 +2334,7 @@
     {
         "title": "URLVoid",
         "social": [
-            "https://twitter.com/URLVoid",
+            "https://x.com/URLVoid",
             "https://www.facebook.com/URLVoid"
         ],
         "description": "This service helps you detect potentially malicious websites.",
@@ -2345,7 +2345,7 @@
     {
         "title": "PhoneBook",
         "social": [
-            "https://twitter.com/_IntelligenceX"
+            "https://x.com/_IntelligenceX"
         ],
         "description": "Phonebook lists all domains, email addresses, or URLs for the given input domain.",
         "link": "https://phonebook.cz",
@@ -2379,7 +2379,7 @@
     {
         "title": "AnalyzeID",
         "social": [
-            "https://twitter.com/analyzeid"
+            "https://x.com/analyzeid"
         ],
         "description": "Find Other Websites Owned By The Same Person",
         "link": "https://analyzeid.com",
@@ -2390,7 +2390,7 @@
         "title": "OSINT Dojo",
         "social": [
             "https://www.youtube.com/osintdojo",
-            "https://twitter.com/osintdojo"
+            "https://x.com/osintdojo"
         ],
         "description": "OSINT Dojo provides those new to the OSINT field a number of free resources and simple challenges that build on one another to provide a simple road map for learning more about the field and polishing up related skills while also earning badges to show off your accomplishments.",
         "link": "https://www.osintdojo.com",
@@ -2407,7 +2407,7 @@
     {
         "title": "Citizen",
         "social": [
-            "https://twitter.com/citizenapp",
+            "https://x.com/citizenapp",
             "https://www.instagram.com/citizen_app",
             "https://www.facebook.com/citizenapp"
         ],
@@ -2426,7 +2426,7 @@
     {
         "title": "EarthCam",
         "social": [
-            "http://twitter.com/earthcam",
+            "http://x.com/earthcam",
             "http://www.facebook.com/earthcaminc",
             "https://instagram.com/earthcam",
             "https://www.linkedin.com/company/earthcam-inc-",
@@ -2440,7 +2440,7 @@
     {
         "title": "Rain Alarm",
         "social": [
-            "https://twitter.com/rainalarm"
+            "https://x.com/rainalarm"
         ],
         "description": "This weather app alerts you when rain is approaching.",
         "link": "https://www.rain-alarm.com",
@@ -2450,7 +2450,7 @@
     {
         "title": "Freedom House",
         "social": [
-            "https://twitter.com/freedomhouse",
+            "https://x.com/freedomhouse",
             "https://www.facebook.com/FreedomHouseDC"
         ],
         "description": "Freedom House is founded on the core conviction that freedom flourishes in democratic nations where governments are accountable to their people; the rule of law prevails; and freedoms of expression, association, and belief, as well as respect for the rights of women, minority communities, and historically marginalized groups, are guaranteed.",
@@ -2489,7 +2489,7 @@
     {
         "title": "Arab Barometer",
         "social": [
-            "https://twitter.com/ArabBarometer",
+            "https://x.com/ArabBarometer",
             "https://www.facebook.com/arabbarometer"
         ],
         "description": "Arab Barometer is a nonpartisan research network that provides insight into the social, political, and economic attitudes and values of ordinary citizens across the Arab world.",
@@ -2520,7 +2520,7 @@
     {
         "title": "Afrobarometer",
         "social": [
-            "https://twitter.com/afrobarometer",
+            "https://x.com/afrobarometer",
             "https://www.linkedin.com/company/afrobarometer",
             "https://www.facebook.com/Afrobarometer",
             "https://www.instagram.com/afrobarometer"
@@ -2533,7 +2533,7 @@
     {
         "title": "Router Default",
         "social": [
-            "https://twitter.com/danstools00"
+            "https://x.com/danstools00"
         ],
         "description": "Find out the default login, username, password, and ip address of your router.",
         "link": "https://www.cleancss.com/router-default",
@@ -2553,7 +2553,7 @@
     {
         "title": "CrackStation",
         "social": [
-            "https://twitter.com/defusesec"
+            "https://x.com/defusesec"
         ],
         "description": "CrackStation uses massive pre-computed lookup tables to crack password hashes. These tables store a mapping between the hash of a password, and the correct password for that hash.",
         "link": "https://crackstation.net",
@@ -2563,7 +2563,7 @@
     {
         "title": "Open Ownership",
         "social": [
-            "https://twitter.com/openownership",
+            "https://x.com/openownership",
             "https://www.linkedin.com/company/openownership",
             "https://www.facebook.com/openownership",
             "https://github.com/openownership"
@@ -2576,7 +2576,7 @@
     {
         "title": "openAFRICA",
         "social": [
-            "https://twitter.com/Code4Africa",
+            "https://x.com/Code4Africa",
             "https://www.facebook.com/CodeForAfrica",
             "https://www.github.com/codeforafrica",
             "https://www.instagram.com/codeforafrica__",
@@ -2590,7 +2590,7 @@
     {
         "title": "Hunter",
         "social": [
-            "https://twitter.com/HunterMapping",
+            "https://x.com/HunterMapping",
             "https://t.me/hunter4good"
         ],
         "description": "Internet search engine for security researchers",
@@ -2601,7 +2601,7 @@
     {
         "title": "Blocktivity",
         "social": [
-            "https://twitter.com/Blocktivity1"
+            "https://x.com/Blocktivity1"
         ],
         "description": "Blocktivity aim to provide the maximum raw data possible from a wide variety of blockchains. By providing this object data and tools to analyse and compare it, they hope to provide a way for investors to better understand the projects available in the space.",
         "link": "https://blocktivity.info",
@@ -2611,7 +2611,7 @@
     {
         "title": "Santiment",
         "social": [
-            "https://twitter.com/santimentfeed",
+            "https://x.com/santimentfeed",
             "https://github.com/santiment",
             "https://t.me/santiment_network",
             "https://www.youtube.com/c/santimentnetwork"
@@ -2624,7 +2624,7 @@
     {
         "title": "Glassnode",
         "social": [
-            "https://twitter.com/glassnode",
+            "https://x.com/glassnode",
             "https://t.me/glassnode",
             "https://linkedin.com/company/glassnode",
             "https://www.youtube.com/glassnode"
@@ -2637,7 +2637,7 @@
     {
         "title": "Coin Metrics",
         "social": [
-            "https://twitter.com/coinmetrics",
+            "https://x.com/coinmetrics",
             "https://www.linkedin.com/company/coinmetrics"
         ],
         "description": "Crypto intelligence for the future of finance. Coin Metrics organizes the world's crypto data and makes it transparent and accessible.",
@@ -2648,7 +2648,7 @@
     {
         "title": "Datamish",
         "social": [
-            "https://twitter.com/8bitCaliph"
+            "https://x.com/8bitCaliph"
         ],
         "description": "Charts for Bitcoin long and short positions on Bitinex. Gauge sentiment and analyze the BTC market to see if leveraged bears or bulls are due for a margin squeeze.",
         "link": "https://datamish.com",
@@ -2659,7 +2659,7 @@
         "title": "Coinlib",
         "social": [
             "https://www.facebook.com/coinlib",
-            "https://twitter.com/coinlibio"
+            "https://x.com/coinlibio"
         ],
         "description": "Coinlib provides live and historic cryptocurrency prices, portfolio, alerts, news, charts and detailed coin data.",
         "link": "https://coinlib.io",
@@ -2669,7 +2669,7 @@
     {
         "title": "Messari",
         "social": [
-            "https://twitter.com/MessariCrypto",
+            "https://x.com/MessariCrypto",
             "https://t.me/messaricrypto",
             "https://www.youtube.com/c/Messari"
         ],
@@ -2682,7 +2682,7 @@
         "title": "ISW",
         "social": [
             "https://www.youtube.com/user/UnderstandingWarOrg",
-            "https://twitter.com/TheStudyofWar"
+            "https://x.com/TheStudyofWar"
         ],
         "description": "The Institute for the Study of War advances an informed understanding of military affairs through reliable research, trusted analysis, and innovative education. We are committed to improving the nation's ability to execute military operations and respond to emerging threats in order to achieve U.S. strategic objectives. ISW is a non-partisan, non-profit, public policy research organization.",
         "link": "https://www.understandingwar.org",
@@ -2695,7 +2695,7 @@
             "https://www.facebook.com/kyivindependent",
             "https://www.instagram.com/kyivindependent_official",
             "https://t.me/KyivIndependent_official",
-            "https://www.twitter.com/kyivindependent",
+            "https://www.x.com/kyivindependent",
             "https://www.linkedin.com/company/kyivindependent",
             "https://www.youtube.com/channel/UCGAC5yzlYgjKoJABDZ7zEyw"
         ],
@@ -2707,21 +2707,21 @@
     {
         "title": "PutinDirect",
         "social": [
-            "https://twitter.com/PutinDirect",
+            "https://x.com/PutinDirect",
             "https://www.youtube.com/@putindirect",
             "https://www.facebook.com/PutinDirect",
             "https://www.instagram.com/PutinDirect",
             "https://t.me/PutinDirect"
         ],
         "description": "Excerpts of Vladimir Putin's remarks and speeches with English subtitles.",
-        "link": "https://twitter.com/PutinDirect",
+        "link": "https://x.com/PutinDirect",
         "region": "RUSSIA",
         "tags": "research"
     },
     {
         "title": "CoinDesk",
         "social": [
-            "https://twitter.com/coindesk",
+            "https://x.com/coindesk",
             "https://www.facebook.com/coindesk",
             "https://www.linkedin.com/company/coindesk",
             "https://www.instagram.com/coindesk",
@@ -2735,7 +2735,7 @@
     {
         "title": "Cryptowatch",
         "social": [
-            "https://twitter.com/cryptowat_ch"
+            "https://x.com/cryptowat_ch"
         ],
         "description": "Live price charts, trading and alerts for cryptocurrencies like Bitcoin (BTC) and Ethereum (ETH) on Kraken, Coinbase Pro, Binance, and more.",
         "link": "https://cryptowat.ch",
@@ -2745,7 +2745,7 @@
     {
         "title": "Cointelegraph",
         "social": [
-            "https://twitter.com/cointelegraph",
+            "https://x.com/cointelegraph",
             "https://telegram.me/cointelegraph",
             "https://www.facebook.com/cointelegraph",
             "https://www.youtube.com/channel/UCRqBu-grVX1p97WaX4d-OuQ",
@@ -2759,7 +2759,7 @@
     {
         "title": "CoinGecko",
         "social": [
-            "https://twitter.com/coingecko",
+            "https://x.com/coingecko",
             "https://t.me/coingecko",
             "https://t.me/coingeckonews",
             "https://www.instagram.com/coingecko",
@@ -2774,7 +2774,7 @@
     {
         "title": "LunarCrush",
         "social": [
-            "https://twitter.com/lunarcrush",
+            "https://x.com/lunarcrush",
             "https://t.me/lunarcrush",
             "https://www.linkedin.com/company/lunarcrush",
             "https://www.instagram.com/lunarcrush_app"
@@ -2790,7 +2790,7 @@
             "https://github.com/chainsulting",
             "https://t.me/CoinMarketCapAnnouncements",
             "https://t.me/CoinMarketCapBot",
-            "https://twitter.com/CoinMarketCap",
+            "https://x.com/CoinMarketCap",
             "https://www.facebook.com/CoinMarketCap",
             "https://www.instagram.com/coinmarketcap"
         ],
@@ -2803,7 +2803,7 @@
         "title": "Yahoo Finance",
         "social": [
             "https://facebook.com/yahoofinance",
-            "https://twitter.com/YahooFinance",
+            "https://x.com/YahooFinance",
             "https://www.linkedin.com/company/yahoo-finance"
         ],
         "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
@@ -2870,7 +2870,7 @@
         "title": "Bankless",
         "social": [
             "https://www.instagram.com/bankless",
-            "https://twitter.com/BanklessHQ"
+            "https://x.com/BanklessHQ"
         ],
         "description": "Get the world's most popular crypto email with daily alpha, news, & analysis, all free.",
         "link": "https://www.bankless.com",
@@ -2880,7 +2880,7 @@
     {
         "title": "The Defiant",
         "social": [
-            "https://twitter.com/DefiantNews",
+            "https://x.com/DefiantNews",
             "https://www.youtube.com/channel/UCL0J4MLEdLP0-UyLu0hCktg"
         ],
         "description": "The latest DeFi, Ethereum, and Web3 news from The Defiant. In-depth DeFi guides and analysis to help you find the important developments in DeFi.",
@@ -2892,7 +2892,7 @@
         "title": "BeInCrypto",
         "social": [
             "https://t.me/BeInCryptoCommunity",
-            "https://twitter.com/beincrypto",
+            "https://x.com/beincrypto",
             "https://www.facebook.com/beincrypto",
             "https://www.instagram.com/beincrypto"
         ],
@@ -2904,7 +2904,7 @@
     {
         "title": "The Block",
         "social": [
-            "https://twitter.com/TheBlock__",
+            "https://x.com/TheBlock__",
             "https://www.facebook.com/theblockcrypto1",
             "https://www.instagram.com/theblockcrypto",
             "https://www.linkedin.com/company/theblockcrypto"
@@ -2938,7 +2938,7 @@
         "title": "Coin Bureau",
         "social": [
             "https://t.me/cbinsider",
-            "https://twitter.com/coinbureau",
+            "https://x.com/coinbureau",
             "https://www.facebook.com/coinsbureau",
             "https://www.instagram.com/coin.bureau",
             "https://www.linkedin.com/company/coin-bureau",
@@ -2954,7 +2954,7 @@
         "social": [
             "https://facebook.com/coingape",
             "https://instagram.com/coingape",
-            "https://twitter.com/coingapemedia",
+            "https://x.com/coingapemedia",
             "https://www.linkedin.com/company/coingape",
             "https://www.youtube.com/channel/UCGxbUzJCxDHSPZkayqc4NLQ"
         ],
@@ -2973,7 +2973,7 @@
     {
         "title": "NullTX",
         "social": [
-            "https://twitter.com/nulltxnews",
+            "https://x.com/nulltxnews",
             "https://www.facebook.com/NullTX",
             "https://www.instagram.com/nulltx",
             "https://www.linkedin.com/company/nulltx",
@@ -3000,7 +3000,7 @@
         "social": [
             "https://facebook.com/ZyCrypto",
             "https://instagram.com/ZyCrypto",
-            "https://twitter.com/ZyCrypto",
+            "https://x.com/ZyCrypto",
             "https://www.facebook.com/zycrypto",
             "https://www.youtube.com/channel/UCltywaWxAqXC04IS5VFEjag"
         ],
@@ -3012,7 +3012,7 @@
     {
         "title": "The Crypto Basic",
         "social": [
-            "https://twitter.com/thecryptobasic",
+            "https://x.com/thecryptobasic",
             "https://www.facebook.com/thecryptobasic"
         ],
         "description": "The Crypto Basic is a leading Bitcoin and crypto news website that brings you the latest happenings from the fast-moving and emerging crypto industry.",
@@ -3023,7 +3023,7 @@
     {
         "title": "Blockchain News",
         "social": [
-            "https://twitter.com/BlockchainNewsM",
+            "https://x.com/BlockchainNewsM",
             "https://www.facebook.com/BlockchainNewsM",
             "https://www.instagram.com/blockchain.news_official",
             "https://www.linkedin.com/company/blockchainnewsbn"
@@ -3037,7 +3037,7 @@
         "title": "Coinspeaker",
         "social": [
             "https://t.me/coinspeaker",
-            "https://twitter.com/coinspeaker",
+            "https://x.com/coinspeaker",
             "https://www.facebook.com/coinspeaker",
             "https://www.instagram.com/coinspeaker",
             "https://www.linkedin.com/company/coinspeaker"
@@ -3052,7 +3052,7 @@
         "social": [
             "https://facebook.com/coinjournalnews",
             "https://in.linkedin.com/in/ashish-sood-8b38668",
-            "https://twitter.com/coinjournal"
+            "https://x.com/coinjournal"
         ],
         "description": "CoinJournal was founded in 2014, a time when cryptocurrency was still the preserve of cryptography nerds and (now very rich) investors who stumbled onto the opportunity of a lifetime.",
         "link": "https://coinjournal.net",
@@ -3062,7 +3062,7 @@
     {
         "title": "Protos",
         "social": [
-            "https://twitter.com/protos",
+            "https://x.com/protos",
             "https://www.linkedin.com/company/protosmedia"
         ],
         "description": "Informed crypto news. Protos cuts through the noise to provide clear insight, considered expert opinion, and market-moving information on Bitcoin and crypto as efficiently as possible.",
@@ -3074,7 +3074,7 @@
         "title": "TheNewsCrypto",
         "social": [
             "https://t.me/thenewscrypto",
-            "https://twitter.com/The_NewsCrypto",
+            "https://x.com/The_NewsCrypto",
             "https://www.facebook.com/thenewscrypto.en",
             "https://www.linkedin.com/company/thenewscrypto"
         ],
@@ -3089,7 +3089,7 @@
             "https://facebook.com/cryptoslate",
             "https://instagram.com/cryptoslate",
             "https://t.me/cryptoslatenews",
-            "https://twitter.com/cryptoslate",
+            "https://x.com/cryptoslate",
             "https://www.linkedin.com/company/cryptoslate"
         ],
         "description": "CryptoSlate is a comprehensive and contextualized source for crypto news, insights and data.",
@@ -3100,7 +3100,7 @@
     {
         "title": "Chainalysis",
         "social": [
-            "https://twitter.com/chainalysis",
+            "https://x.com/chainalysis",
             "https://www.linkedin.com/company/chainalysis"
         ],
         "description": "Chainalysis helps government agencies, cryptocurrency businesses, and financial institutions engage confidently with cryptocurrency.",
@@ -3112,7 +3112,7 @@
         "title": "Crypto Adventure",
         "social": [
             "https://t.me/cryptoadventura",
-            "https://twitter.com/CryptoAdventure",
+            "https://x.com/CryptoAdventure",
             "https://www.facebook.com/cryptoadventurecom",
             "https://www.instagram.com/cryptoadventure"
         ],
@@ -3124,7 +3124,7 @@
     {
         "title": "NewsBTC",
         "social": [
-            "https://twitter.com/newsbtc",
+            "https://x.com/newsbtc",
             "https://www.facebook.com/newsbtc",
             "https://www.youtube.com/channel/UC9v9erBEru5y4c3FA0wehEw"
         ],
@@ -3137,7 +3137,7 @@
         "title": "Coinpedia",
         "social": [
             "https://t.me/coinpediamarket",
-            "https://twitter.com/coinpedianews",
+            "https://x.com/coinpedianews",
             "https://www.facebook.com/coinpedia.org",
             "https://www.instagram.com/coinpedianews",
             "https://www.linkedin.com/company/coinpedia",
@@ -3151,7 +3151,7 @@
     {
         "title": "AMBCrypto",
         "social": [
-            "https://twitter.com/CryptoAmb",
+            "https://x.com/CryptoAmb",
             "https://www.facebook.com/cryptoamb",
             "https://www.instagram.com/ambcrypto",
             "https://www.linkedin.com/company/13629485",
@@ -3166,7 +3166,7 @@
         "title": "CoinGeek",
         "social": [
             "https://t.me/realcoingeekdiscussion",
-            "https://twitter.com/realcoingeek",
+            "https://x.com/realcoingeek",
             "https://www.facebook.com/realcoingeek",
             "https://www.instagram.com/coingeek_official",
             "https://www.linkedin.com/company/coingeek",
@@ -3181,7 +3181,7 @@
         "title": "CryptoPotato",
         "social": [
             "https://t.me/CryptoPotato",
-            "https://twitter.com/Crypto_Potato",
+            "https://x.com/Crypto_Potato",
             "https://www.facebook.com/CryptoPotato"
         ],
         "description": "The ultimate gate to the cryptocurrency world: The latest Bitcoin and crypto news, price analysis, trading and how-to guides for beginners and experts",
@@ -3200,7 +3200,7 @@
         "title": "Crypto Briefing",
         "social": [
             "https://t.me/cryptobriefing",
-            "https://twitter.com/crypto_briefing",
+            "https://x.com/crypto_briefing",
             "https://www.facebook.com/cryptobriefing",
             "https://www.linkedin.com/company/cryptobriefing"
         ],
@@ -3214,7 +3214,7 @@
         "social": [
             "https://in.linkedin.com/company/cryptonewsz",
             "https://t.me/cryptonewszdotcom",
-            "https://twitter.com/cryptonewsz_",
+            "https://x.com/cryptonewsz_",
             "https://www.facebook.com/cryptonewsz",
             "https://www.instagram.com/cryptonewszcom",
             "https://www.youtube.com/channel/UCLUHoRmSiTTBLxYpqjn_vBw"
@@ -3227,7 +3227,7 @@
     {
         "title": "Global Crypto Press",
         "social": [
-            "https://twitter.com/thecryptopress",
+            "https://x.com/thecryptopress",
             "https://www.facebook.com/globalcryptopress",
             "https://www.instagram.com/global_crypto_press",
             "https://www.linkedin.com/company/global-crypto-press-news"
@@ -3241,7 +3241,7 @@
         "title": "Crypto Daily",
         "social": [
             "https://t.me/officialcryptodaily",
-            "https://twitter.com/cryptodailyuk",
+            "https://x.com/cryptodailyuk",
             "https://www.facebook.com/cryptodailyofficial",
             "https://www.instagram.com/cryptodailyofficial"
         ],
@@ -3253,7 +3253,7 @@
     {
         "title": "Financial Times",
         "social": [
-            "https://twitter.com/financialtimes"
+            "https://x.com/financialtimes"
         ],
         "description": "News, analysis and comment from the Financial Times, the world's leading global business publication",
         "link": "https://www.ft.com",
@@ -3270,7 +3270,7 @@
     {
         "title": "CryptoNews",
         "social": [
-            "https://twitter.com/_cryptonews_net",
+            "https://x.com/_cryptonews_net",
             "https://www.linkedin.com/company/crypto-news-net"
         ],
         "description": "News from the world of cryptocurrencies",
@@ -3282,7 +3282,7 @@
         "title": "Coinfea",
         "social": [
             "http://t.me/coinfea",
-            "https://twitter.com/coinfea",
+            "https://x.com/coinfea",
             "https://www.facebook.com/coinfeaofficial",
             "https://www.linkedin.com/company/coinfea"
         ],
@@ -3294,7 +3294,7 @@
     {
         "title": "Coinnounce",
         "social": [
-            "https://twitter.com/coinnounce",
+            "https://x.com/coinnounce",
             "https://www.facebook.com/coinnounce",
             "https://www.instagram.com/coinnounce"
         ],
@@ -3308,7 +3308,7 @@
         "social": [
             "https://facebook.com/cryptotimes.io",
             "https://t.me/cryptotimesio",
-            "https://twitter.com/cryptotimes_io",
+            "https://x.com/cryptotimes_io",
             "https://www.instagram.com/cryptotimes.io",
             "https://www.linkedin.com/company/74922434"
         ],
@@ -3320,7 +3320,7 @@
     {
         "title": "Crypto-ML",
         "social": [
-            "https://twitter.com/crypto_ml",
+            "https://x.com/crypto_ml",
             "https://www.facebook.com/CryptoML.Official",
             "https://www.linkedin.com/company/crypto-ml"
         ],
@@ -3346,7 +3346,7 @@
     {
         "title": "EPB Research",
         "social": [
-            "https://twitter.com/EPBResearch",
+            "https://x.com/EPBResearch",
             "https://www.facebook.com/profile.php?id=100088700287961",
             "https://www.linkedin.com/in/eric-basmajian-32614116a"
         ],
@@ -3358,7 +3358,7 @@
     {
         "title": "Mint",
         "social": [
-            "https://twitter.com/livemint",
+            "https://x.com/livemint",
             "https://www.facebook.com/mint.live",
             "https://www.linkedin.com/company/livemint",
             "https://www.youtube.com/channel/UCUI9vm69ZbAqRK3q3vKLWCQ"
@@ -3371,7 +3371,7 @@
     {
         "title": "MacroVisor",
         "social": [
-            "https://twitter.com/theMacroVisors"
+            "https://x.com/theMacroVisors"
         ],
         "description": "Bringing you unique and in-depth analysis on the economy and financial markets from the big picture macro view to the fundamentals and beyond.",
         "link": "https://www.macrovisor.com",
@@ -3381,7 +3381,7 @@
     {
         "title": "Palladium Magazine",
         "social": [
-            "https://twitter.com/palladiummag"
+            "https://x.com/palladiummag"
         ],
         "description": "Palladium is a San Francisco-based non-partisan publication that explores the future of governance and society through journalism, analysis, and philosophy.",
         "link": "https://www.palladiummag.com",
@@ -3398,7 +3398,7 @@
     {
         "title": "Project Syndicate",
         "social": [
-            "https://twitter.com/prosyn",
+            "https://x.com/prosyn",
             "https://www.facebook.com/projectsyndicate",
             "https://www.linkedin.com/company/project-syndicate",
             "https://www.youtube.com/user/ProjectSyndicate"
@@ -3411,7 +3411,7 @@
     {
         "title": "Digital Footprint Check",
         "social": [
-            "https://twitter.com/FootPrintCheck",
+            "https://x.com/FootPrintCheck",
             "https://www.facebook.com/DigitalFootprintCheck",
             "https://www.linkedin.com/in/digital-footprint-check"
         ],
@@ -3424,7 +3424,7 @@
         "title": "CivilNet",
         "social": [
             "https://t.me/civilnetv",
-            "https://twitter.com/CivilNetTV",
+            "https://x.com/CivilNetTV",
             "https://www.facebook.com/CivilNet.TV",
             "https://www.instagram.com/civilnet.am",
             "https://www.youtube.com/user/CivilNetTV"
@@ -3444,7 +3444,7 @@
     {
         "title": "Defense News",
         "social": [
-            "https://twitter.com/defense_news",
+            "https://x.com/defense_news",
             "https://www.facebook.com/DefenseNews"
         ],
         "description": "Defense News is a global website and magazine about the politics, business and technology of defense, serving senior military and industry decision-makers.",
@@ -3456,7 +3456,7 @@
         "title": "Naval News",
         "social": [
             "http://www.instagram.com/navalnewscom",
-            "https://twitter.com/navalnewscom",
+            "https://x.com/navalnewscom",
             "https://www.linkedin.com/company/navalnews"
         ],
         "description": "Naval News brings you news coverage of the latest naval defense shows & events. We are also reporting on naval technology from all over the world.",
@@ -3468,7 +3468,7 @@
         "title": "USNI News",
         "social": [
             "http://www.linkedin.com/company/96753",
-            "https://twitter.com/USNINews",
+            "https://x.com/USNINews",
             "https://www.facebook.com/NavalInstitute",
             "https://www.instagram.com/navalinstitute",
             "https://www.youtube.com/channel/UCfC-k7f1Cd-Av-NVpuVPzmQ"
@@ -3481,7 +3481,7 @@
     {
         "title": "Institute of International Relations",
         "social": [
-            "https://twitter.com/IIR_Prague",
+            "https://x.com/IIR_Prague",
             "https://www.facebook.com/IIR.Prague",
             "https://www.instagram.com/iir_prague",
             "https://www.linkedin.com/company/institute-of-international-relations-prague",
@@ -3515,7 +3515,7 @@
         "title": "TASS News",
         "social": [
             "https://t.me/tassagency_en",
-            "https://twitter.com/tass_agency",
+            "https://x.com/tass_agency",
             "https://www.facebook.com/tassagency",
             "https://www.instagram.com/tass_agency",
             "https://www.youtube.com/channel/UCEyGP84v6qbsZy9-pL6Jx2g"
@@ -3531,7 +3531,7 @@
             "https://t.me/sputnik_africa",
             "https://t.me/SputnikInt",
             "https://telegram.me/sputniknewsindia",
-            "https://twitter.com/sputnikint"
+            "https://x.com/sputnikint"
         ],
         "description": "Sputnik International is a global news agency keeping you updated on all the latest world news 24/7. Browse Sputnik for breaking news and top stories on politics, economy, social media and the most viral trends.",
         "link": "https://sputnikglobe.com",
@@ -3541,7 +3541,7 @@
     {
         "title": "PIPS",
         "social": [
-            "https://twitter.com/pips_peace",
+            "https://x.com/pips_peace",
             "https://www.facebook.com/PakistanInstituteForPeaceStudies"
         ],
         "description": "Pak Institute For Peace Studies (PIPS) | An independent think-tank",
@@ -3552,7 +3552,7 @@
     {
         "title": "PICSS",
         "social": [
-            "https://twitter.com/PICSSIsb",
+            "https://x.com/PICSSIsb",
             "https://www.facebook.com/picssisb",
             "https://www.linkedin.com/in/picss-islamabad-9525b6135",
             "https://www.youtube.com/channel/UCucMkJrVDSgCGbaJLaaLP0w"
@@ -3565,7 +3565,7 @@
     {
         "title": "Reuters",
         "social": [
-            "https://twitter.com/reuters",
+            "https://x.com/reuters",
             "https://www.facebook.com/Reuters",
             "https://www.instagram.com/reuters",
             "https://www.linkedin.com/company/10256858",
@@ -3580,7 +3580,7 @@
         "title": "RT",
         "social": [
             "https://t.me/rtnews",
-            "https://twitter.com/RT_com",
+            "https://x.com/RT_com",
             "https://www.youtube.com/user/RussiaToday"
         ],
         "description": "RT is the first Russian 24/7 English-language news channel which brings the Russian view on global news.",
@@ -3592,7 +3592,7 @@
         "title": "InternetActivism",
         "social": [
             "https://github.com/InternetActivism",
-            "https://twitter.com/internetactvsm",
+            "https://x.com/internetactvsm",
             "https://www.linkedin.com/company/internetactivism"
         ],
         "description": "A nonprofit that develops digital humanitarian tools in response to crisis.",
@@ -3603,7 +3603,7 @@
     {
         "title": "IISS",
         "social": [
-            "https://twitter.com/IISS_org",
+            "https://x.com/IISS_org",
             "https://www.facebook.com/TheIISS",
             "https://www.instagram.com/iissorg",
             "https://www.linkedin.com/company/international-institute-for-strategic-studies",
@@ -3617,7 +3617,7 @@
     {
         "title": "CFR",
         "social": [
-            "https://twitter.com/CFR_org",
+            "https://x.com/CFR_org",
             "https://www.facebook.com/councilonforeignrelations",
             "https://www.instagram.com/cfr_org",
             "https://www.linkedin.com/company/council-on-foreign-relations",
@@ -3638,7 +3638,7 @@
     {
         "title": "IDCrawl",
         "social": [
-            "https://twitter.com/idcrawl",
+            "https://x.com/idcrawl",
             "https://www.facebook.com/idcrawl",
             "https://www.instagram.com/IDCrawl",
             "https://www.linkedin.com/company/idcrawl"
@@ -3651,7 +3651,7 @@
     {
         "title": "Osint Industries",
         "social": [
-            "https://twitter.com/OsintIndustries",
+            "https://x.com/OsintIndustries",
             "https://www.linkedin.com/company/osint-industries"
         ],
         "description": "Discover how Osint Industries specializes in leveraging OSINT to investigate emails and phone numbers. Unlock valuable insights and conduct comprehensive investigations using our advanced tools and resources.",
@@ -3663,8 +3663,8 @@
         "title": "ESPY",
         "social": [
             "https://t.me/osint_anatomy",
-            "https://twitter.com/EspyOffice",
-            "https://twitter.com/EspyOsint",
+            "https://x.com/EspyOffice",
+            "https://x.com/EspyOsint",
             "https://www.facebook.com/ESPY-OSINT-Solutions-104726978652870",
             "https://www.linkedin.com/company/espysys-systems"
         ],
@@ -3684,7 +3684,7 @@
         "title": "Privacy Watch",
         "social": [
             "https://t.me/privacywatchapp",
-            "https://twitter.com/privacywatchapp"
+            "https://x.com/privacywatchapp"
         ],
         "description": "Privacy Watch is a site with several online OSINT tools. No installation and easy to access. Some tools are free.",
         "link": "https://privacywatch.app",
@@ -3706,7 +3706,7 @@
         "title": "Session",
         "social": [
             "https://github.com/oxen-io",
-            "https://twitter.com/session_app",
+            "https://x.com/session_app",
             "https://www.instagram.com/getsession"
         ],
         "description": "Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.",
@@ -3728,7 +3728,7 @@
         "title": "Tutanota",
         "social": [
             "https://github.com/tutao",
-            "https://twitter.com/TutanotaTeam",
+            "https://x.com/TutanotaTeam",
             "https://www.facebook.com/tutanota"
         ],
         "description": "Tutanota is the secure email service, built in Germany. Use encrypted emails on all devices with our open source email client, mobile apps & desktop clients.",
@@ -3739,7 +3739,7 @@
     {
         "title": "Committee to Protect Journalists",
         "social": [
-            "https://twitter.com/pressfreedom",
+            "https://x.com/pressfreedom",
             "https://www.facebook.com/committeetoprotectjournalists",
             "https://www.instagram.com/committeetoprotectjournalists",
             "https://www.linkedin.com/company/cpj",
@@ -3753,7 +3753,7 @@
     {
         "title": "SecurityWeek",
         "social": [
-            "https://twitter.com/SecurityWeek",
+            "https://x.com/SecurityWeek",
             "https://www.facebook.com/SecurityWeekCom-366251913615",
             "https://www.linkedin.com/company/securityweek"
         ],
@@ -3774,8 +3774,8 @@
         "social": [
             "https://facebook.com/GeopoliticalEconomyReport",
             "https://instagram.com/geopoliticaleconomy",
-            "https://twitter.com/GeopoliticaEcon",
-            "https://twitter.com/GeopoliticEcon"
+            "https://x.com/GeopoliticaEcon",
+            "https://x.com/GeopoliticEcon"
         ],
         "description": "Geopolitical Economy Report is an independent media outlet that provides news and analysis to understand the changing world.",
         "link": "https://geopoliticaleconomy.com",
@@ -3787,7 +3787,7 @@
         "social": [
             "http://www.facebook.com/thegrayzone",
             "http://www.instagram.com/thegrayzonenews",
-            "http://www.twitter.com/thegrayzonenews",
+            "http://www.x.com/thegrayzonenews",
             "http://www.youtube.com/channel/UCEXR8pRTkE2vFeJePNe9UcQ",
             "https://t.me/thegrayzonenews"
         ],
@@ -3800,7 +3800,7 @@
         "title": "The Moscow Times",
         "social": [
             "https://t.me/moscowtimes_ru",
-            "https://twitter.com/MoscowTimes_ru",
+            "https://x.com/MoscowTimes_ru",
             "https://www.facebook.com/MoscowTimesRus",
             "https://www.instagram.com/moscowtimes_ru"
         ],
@@ -3812,7 +3812,7 @@
     {
         "title": "FlightAware",
         "social": [
-            "https://twitter.com/flightaware",
+            "https://x.com/flightaware",
             "https://www.facebook.com/FlightAware",
             "https://www.linkedin.com/company/flightaware"
         ],
@@ -3824,7 +3824,7 @@
     {
         "title": "FlightRadar24",
         "social": [
-            "https://twitter.com/flightradar24",
+            "https://x.com/flightradar24",
             "https://www.facebook.com/flightradar24",
             "https://www.linkedin.com/company/flightradar24-ab",
             "https://www.youtube.com/channel/UCcGI_kXwKl_QhyW9jK_8gIA"
@@ -3844,7 +3844,7 @@
     {
         "title": "VesselFinder",
         "social": [
-            "https://twitter.com/VesselFinder",
+            "https://x.com/VesselFinder",
             "https://www.facebook.com/vesselfinder"
         ],
         "description": "VesselFinder is a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.",
@@ -3866,7 +3866,7 @@
     {
         "title": "The Indian Express",
         "social": [
-            "https://twitter.com/IndianExpress",
+            "https://x.com/IndianExpress",
             "https://www.facebook.com/indianexpress",
             "https://www.instagram.com/indianexpress",
             "https://www.linkedin.com/company/indian-express",
@@ -3881,7 +3881,7 @@
         "title": "Daily Excelsior",
         "social": [
             "https://in.linkedin.com/company/dailyexcelsior",
-            "https://twitter.com/dailyexcelsior1",
+            "https://x.com/dailyexcelsior1",
             "https://www.facebook.com/dailyexcelsior",
             "https://www.instagram.com/dailyexcelsior",
             "https://www.youtube.com/channel/UCT4ZAqOV3-2s5pKnBEhh4fw"
@@ -3894,7 +3894,7 @@
     {
         "title": "DNA India",
         "social": [
-            "https://twitter.com/dna",
+            "https://x.com/dna",
             "https://www.facebook.com/dnaindia",
             "https://www.instagram.com/dna_india",
             "https://www.youtube.com/channel/UCIRAYFbJmrP--jyrC9MAIWQ"
@@ -3907,7 +3907,7 @@
     {
         "title": "Greater Kashmir",
         "social": [
-            "https://twitter.com/greaterkashmir",
+            "https://x.com/greaterkashmir",
             "https://www.facebook.com/DailyGreaterKashmir",
             "https://www.instagram.com/greaterkashmirnews",
             "https://www.youtube.com/channel/UCmzsSbFbWqDRNDem1idwNyQ"
@@ -3920,7 +3920,7 @@
     {
         "title": "Nagaland Post",
         "social": [
-            "https://twitter.com/Nagaland_Post",
+            "https://x.com/Nagaland_Post",
             "https://www.instagram.com/nagalandpostofficial",
             "https://www.linkedin.com/in/nagalandpostofficial",
             "https://www.youtube.com/channel/UC9S-oRObNGN5T9Sy8O4AAJw"
@@ -3935,7 +3935,7 @@
         "social": [
             "https://facebook.com/rferl",
             "https://t.me/rferl",
-            "https://twitter.com/RFERL",
+            "https://x.com/RFERL",
             "https://www.instagram.com/rfe.rl",
             "https://www.youtube.com/user/rferlonline"
         ],
@@ -3948,7 +3948,7 @@
         "title": "Akto",
         "social": [
             "https://github.com/akto-api-security",
-            "https://twitter.com/Aktodotio"
+            "https://x.com/Aktodotio"
         ],
         "description": "Akto is the world's best Open Source API Security solution with powerful API Security testing. Discover APIs and find vulnerabilities in CI/CD.",
         "link": "https://www.akto.io",
@@ -3958,7 +3958,7 @@
     {
         "title": "Generated Photos",
         "social": [
-            "https://twitter.com/generated_media",
+            "https://x.com/generated_media",
             "https://www.linkedin.com/company/generated-media"
         ],
         "description": "AI-generated images have never looked better. Explore and download our diverse, copyright-free headshot images from our production-ready database.",
@@ -3976,7 +3976,7 @@
     {
         "title": "HDRobots",
         "social": [
-            "https://twitter.com/HDRobots"
+            "https://x.com/HDRobots"
         ],
         "description": "HDRobots is an easy-to-search AI tool directory with a chatbot that can quickly help you find the tool that you need.",
         "link": "https://hdrobots.com",
@@ -4236,7 +4236,7 @@
         "description": "Discuss and discover academic research on ResearchHub.",
         "link": "https://www.researchhub.com",
         "social": [
-            "https://twitter.com/ResearchHub"
+            "https://x.com/ResearchHub"
         ],
         "region": "GLOBAL",
         "tags": "research"
@@ -4246,7 +4246,7 @@
         "description": "PimEyes is an advanced face recognition search engine, a reverse image search tool, and a photo search mechanism used to find which websites publish your photos online.",
         "link": "https://pimeyes.com/en",
         "social": [
-            "https://twitter.com/PimEyesOfficial"
+            "https://x.com/PimEyesOfficial"
         ],
         "region": "GLOBAL",
         "tags": "clearweb,identity"
@@ -4277,7 +4277,7 @@
         "description": "Collection of methodology and test case for various web vulnerabilities.",
         "link": "https://github.com/KathanP19/HowToHunt",
         "social": [
-            "https://twitter.com/KathanP19"
+            "https://x.com/KathanP19"
         ],
         "region": "GLOBAL",
         "tags": "research"
@@ -4297,7 +4297,7 @@
         "description": "SquareX keeps you safe, anonymous, and private online! Unlike existing products that block access to files and websites, SquareX allows you to open even suspicious or malicious resources fearlessly!",
         "link": "https://sqrx.com",
         "social": [
-            "https://twitter.com/getsquarex",
+            "https://x.com/getsquarex",
             "https://www.linkedin.com/company/getsquarex"
         ],
         "region": "GLOBAL",
@@ -4309,7 +4309,7 @@
         "link": "https://jamesbrine.com.au",
         "social": [
             "https://github.com/referefref",
-            "https://twitter.com/referefef"
+            "https://x.com/referefef"
         ],
         "region": "GLOBAL",
         "tags": "threat"
@@ -4317,7 +4317,7 @@
     {
         "title": "The Tor Project",
         "social": [
-            "https://twitter.com/torproject",
+            "https://x.com/torproject",
             "https://infosec.exchange/@torproject@mastodon.social"
         ],
         "description": "The Tor Project develops the software that run the Tor network. This is the best source for information on what is Tor and how it works.",
@@ -4521,7 +4521,7 @@
         "title": "Space Track",
         "social": [
             "https://www.facebook.com/SpaceTrack",
-            "https://twitter.com/spacetrackorg"
+            "https://x.com/spacetrackorg"
         ],
         "description": "Space-Track.org promotes space flight safety, protection of the space environment and the peaceful use of space worldwide by sharing space situational awareness services and information with U.S. and international satellite owners/operators, academia and other entities.",
         "link": "https://www.space-track.org",
@@ -4531,7 +4531,7 @@
     {
         "title": "Satnogs",
         "social": [
-            "https://twitter.com/satnogs",
+            "https://x.com/satnogs",
             "https://www.facebook.com/satnogs/"
         ],
         "description": "Open Source global network of satellite ground-stations",
@@ -4542,8 +4542,8 @@
     {
         "title": "CelesTrak",
         "social": [
-            "https://twitter.com/CelesTrak",
-            "https://twitter.com/TSKelso"
+            "https://x.com/CelesTrak",
+            "https://x.com/TSKelso"
         ],
         "description": "CelesTrak's mission remains focused on making data and other resources freely available to the space community to facilitate understanding of our orbital environment and how to use it safely and responsibly.",
         "link": "https://celestrak.org",
@@ -4553,7 +4553,7 @@
     {
         "title": "Open Cosmos",
         "social": [
-            "https://twitter.com/Open_Cosmos",
+            "https://x.com/Open_Cosmos",
             "https://www.facebook.com/open.cosmos.space",
             "https://www.instagram.com/opencosmos.space",
             "https://www.linkedin.com/company/opencosmos"
@@ -4568,7 +4568,7 @@
         "description": "The Testing Handbook is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools used at Trail of Bits.",
         "link": "https://appsec.guide",
         "social": [
-            "https://twitter.com/trailofbits",
+            "https://x.com/trailofbits",
             "https://github.com/trailofbits",
             "https://www.linkedin.com/company/trail-of-bits"
         ],
@@ -4582,7 +4582,7 @@
         "social": [
             "https://www.facebook.com/adsbexchange/",
             "https://www.linkedin.com/company/adsbexchange-com/",
-            "https://twitter.com/adsbex",
+            "https://x.com/adsbex",
             "https://www.reddit.com/r/ADSBexchange/"
         ],
         "region": "GLOBAL",
@@ -4594,7 +4594,7 @@
         "link": "https://gopivot.ing",
         "social": [
             "https://github.com/korniko98/pivot-atlas",
-            "https://twitter.com/AmitaiCo"
+            "https://x.com/AmitaiCo"
         ],
         "region": "GLOBAL",
         "tags": "research"
@@ -4624,7 +4624,7 @@
         "title": "Webscout",
         "social": [
             "https://www.linkedin.com/company/webscout-io/",
-            "https://twitter.com/webscout_io"
+            "https://x.com/webscout_io"
         ],
         "description": "A Swiss Army knife for scaled intelligence and metadata on IP addresses and domains",
         "link": "https://webscout.io/",
