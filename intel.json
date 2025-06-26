@@ -5056,5 +5056,26 @@
             "https://www.linkedin.com/company/stealthmole"
         ],
         "tags": "clearweb,conflict,darkweb,identity,threat"
+    },
+    {
+        "title": "Judy Records",
+        "description": "Instantly search 750 million+ United States court cases.",
+        "link": "https://www.judyrecords.com",
+        "region": "U.S.A.",
+        "tags": "identity"
+    },
+    {
+        "title": "ExifEditor",
+        "description": "Browser-based EXIF metadata viewer, editor and analysis tool.",
+        "link": "https://exifeditor.io",
+        "region": "GLOBAL",
+        "tags": "identity"
+    },
+    {
+        "title": "TraceFind",
+        "description": "Advanced OSINT Tool for Email and Username.",
+        "link": "https://tracefind.info",
+        "region": "GLOBAL",
+        "tags": "identity,threat"
     }
 ]
