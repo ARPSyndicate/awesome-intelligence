@@ -1,5 +1,30 @@
 [
     {
+        "title": "1Lookup",
+        "social": [
+            "https://linkedin.com/company/1lookup",
+            "https://x.com/1LookupApp",
+            "https://www.youtube.com/@1LookupApp",
+            "https://www.facebook.com/1lookup.io"
+        ],
+        "description": "Free reverse phone and reverse email lookups, plus a number's carrier, line type and HLR status.",
+        "link": "https://www.1lookup.io/tools/reverse-phone-lookup",
+        "region": "GLOBAL",
+        "tags": "identity"
+    },
+    {
+        "title": "Vulnpocalypse",
+        "social": [
+            "https://www.linkedin.com/company/vulnpocalypse",
+            "https://x.com/vulnpocalypse",
+            "https://github.com/arpsyndicate"
+        ],
+        "description": "AI finds bugs faster than anyone can fix them. Here is what to patch.",
+        "link": "https://vulnpocalypse.dev",
+        "region": "GLOBAL",
+        "tags": "threat,research,artificial-intelligence"
+    },
+    {
         "title": "Exploit Observer",
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
