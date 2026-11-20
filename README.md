@@ -515,4 +515,5 @@
 <tr><td><a href='https://exifeditor.io'>ExifEditor</a><br></td><td>Browser-based EXIF metadata viewer, editor and analysis tool.</td><td>GLOBAL</td><td>identity</td></tr>
 <tr><td><a href='https://tracefind.info'>TraceFind</a><br></td><td>Advanced OSINT Tool for Email and Username.</td><td>GLOBAL</td><td>identity,threat</td></tr>
 <tr><td><a href='https://github.com/AndrewCTF/velocity'>Velocity</a><br></td><td>Self-hosted, keyless live map of aircraft (ADS-B), ships (AIS) and satellites from public feeds, recording every position to a local archive so past activity can be replayed.</td><td>GLOBAL</td><td>aerial,marine</td></tr>
+<tr><td><a href='https://www.ddscore.ai/'>DDScore</a><br></td><td>First-pass private-company due diligence that compares company documents with public sources and identifies evidence gaps for follow-up.</td><td>GLOBAL</td><td>identity,research</td></tr>
 </table></div>
