@@ -516,4 +516,5 @@
 <tr><td><a href='https://tracefind.info'>TraceFind</a><br></td><td>Advanced OSINT Tool for Email and Username.</td><td>GLOBAL</td><td>identity,threat</td></tr>
 <tr><td><a href='https://github.com/AndrewCTF/velocity'>Velocity</a><br></td><td>Self-hosted, keyless live map of aircraft (ADS-B), ships (AIS) and satellites from public feeds, recording every position to a local archive so past activity can be replayed.</td><td>GLOBAL</td><td>aerial,marine</td></tr>
 <tr><td><a href='https://www.ddscore.ai/'>DDScore</a><br></td><td>First-pass private-company due diligence that compares company documents with public sources and identifies evidence gaps for follow-up.</td><td>GLOBAL</td><td>identity,research</td></tr>
+<tr><td><a href='https://github.com/mvanhorn/last30days-skill'>last30days</a><br></td><td>Agent skill that researches a topic across Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub and the web from the last 30 days, ranks results by engagement and writes one cited brief.</td><td>GLOBAL</td><td>clearweb,research,artificial-intelligence</td></tr>
 </table></div>
