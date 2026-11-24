@@ -5109,5 +5109,12 @@
         "link": "https://github.com/mvanhorn/last30days-skill",
         "region": "GLOBAL",
         "tags": "clearweb,research,artificial-intelligence"
+    },
+    {
+        "title": "YouTube Transcript API",
+        "description": "Returns timestamped transcripts and subtitles for up to 100 YouTube videos or Shorts, or a channel's recent uploads, as JSON, so you can search and cite what was said in video sources. Paid per video on Apify.",
+        "link": "https://apify.com/johnvc/youtubetranscripts",
+        "region": "GLOBAL",
+        "tags": "clearweb,research,artificial-intelligence"
     }
 ]
