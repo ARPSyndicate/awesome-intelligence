@@ -5109,5 +5109,12 @@
         "link": "https://github.com/mvanhorn/last30days-skill",
         "region": "GLOBAL",
         "tags": "clearweb,research,artificial-intelligence"
+    },
+    {
+        "title": "H1DR4 Incident Map",
+        "description": "Free public map for browsing Police.uk incident records in England and Wales. Published locations are approximate and coverage varies by police force and month.",
+        "link": "https://h1dr4.dev/map",
+        "region": "EUROPE",
+        "tags": "research"
     }
 ]
