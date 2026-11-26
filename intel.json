@@ -701,17 +701,6 @@
         "tags": "clearweb"
     },
     {
-        "title": "ThreatMiner",
-        "social": [
-            "https://x.com/ThreatMiner",
-            "https://www.linkedin.com/company/threatminer"
-        ],
-        "description": "ThreatMiner is a threat intelligence portal that provides information on indicators of compromise (IOC) such as domains, IP address, malware samples (MD5, SHA1 and SHA256), SSL certificates, WHOIS information and malicious URLs such as phishing and malware links.",
-        "link": "https://www.threatminer.org",
-        "region": "GLOBAL",
-        "tags": "clearweb,threat"
-    },
-    {
         "title": "YARAify",
         "social": [
             "https://x.com/abuse_ch"
@@ -793,13 +782,6 @@
         "link": "https://dnsdumpster.com",
         "region": "GLOBAL",
         "tags": "clearweb"
-    },
-    {
-        "title": "SpyOnWeb",
-        "description": "SpyOnWeb takes the information from public sources, then structure it for your quick and convenient search for the websites that probably belong to the same owner.",
-        "link": "https://spyonweb.com",
-        "region": "GLOBAL",
-        "tags": "clearweb,identity"
     },
     {
         "title": "Yark",
@@ -2181,18 +2163,6 @@
         "link": "https://hunter.io",
         "region": "GLOBAL",
         "tags": "clearweb,identity"
-    },
-    {
-        "title": "BinaryEdge",
-        "social": [
-            "https://x.com/binaryedgeio",
-            "https://www.facebook.com/binaryedgeio",
-            "https://www.linkedin.com/company/binaryedge"
-        ],
-        "description": "BinaryEdge scans the internet and acquire data that can be transformed into threat intelligence feeds or security reports.",
-        "link": "https://www.binaryedge.io",
-        "region": "GLOBAL",
-        "tags": "clearweb,darkweb,research,threat"
     },
     {
         "title": "Wigle",
@@ -5109,5 +5079,15 @@
         "link": "https://github.com/mvanhorn/last30days-skill",
         "region": "GLOBAL",
         "tags": "clearweb,research,artificial-intelligence"
+    },
+    {
+        "title": "NetAPI",
+        "social": [
+            "https://github.com/coderockers"
+        ],
+        "description": "Domain and IP intelligence: lookup of a domain or an IP address (registrar, WHOIS dates, nameservers, hosting IP and the domains on it), free feeds of phishing and sinkholed malware domains and of IP addresses caught attacking its own honeypot network (CC BY 4.0), a free Top 1M website ranking and daily lists of registered domains in 1,584 TLDs.",
+        "link": "https://netapi.com",
+        "region": "GLOBAL",
+        "tags": "clearweb,threat"
     }
 ]
