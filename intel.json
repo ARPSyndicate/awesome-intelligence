@@ -5109,5 +5109,19 @@
         "link": "https://github.com/mvanhorn/last30days-skill",
         "region": "GLOBAL",
         "tags": "clearweb,research,artificial-intelligence"
+    },
+    {
+        "title": "Have I Been Ransomed?",
+        "description": "Search emails, phone numbers or company names in data leaked by ransomware gangs, stealers and data breaches.",
+        "link": "https://haveibeenransom.com",
+        "region": "GLOBAL",
+        "tags": "identity,threat"
+    },
+    {
+        "title": "Breach House",
+        "description": "Search ransomware and breach posts from leak sites, with the source and discovery date of each post.",
+        "link": "https://breach.house",
+        "region": "GLOBAL",
+        "tags": "threat,darkweb"
     }
 ]
